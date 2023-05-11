@@ -1,0 +1,81 @@
+main {
+  /* display: flex; */
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  font-family: 'Roboto', sans-serif;
+  margin-left:10%
+}
+
+.card {
+  width: 12rem;
+  height: 18rem;
+  border-radius: 10px;
+  overflow: hidden;
+
+  position: relative;
+  color: rgb(240, 240, 240);
+  box-shadow: 0 10px 30px 5px rgba(0, 0, 0, 0.2);
+  text-shadow: blue 0.1em 0.1em 0.2em
+}
+.card img {
+    position: absolute;
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    opacity: 0.9;
+    transition: opacity .2s ease-out;
+  }
+
+  .card h2 {
+    position: absolute;
+    inset: auto auto 30px 30px;
+    margin: 0;
+    transition: inset .3s .3s ease-out;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: normal;
+    text-transform: uppercase;
+  }
+ 
+  .card span, .card a {
+    position: absolute;
+    opacity: 0;
+    max-width: 80%;
+    margin: 5%;
+    transition: opacity .3s ease-out;
+  }
+
+  .card span {
+    margin: 5%;
+    inset: auto auto 80px 30px;
+
+  }
+  
+  .card a {
+    inset: auto auto 40px 30px;
+    color: inherit;
+    text-decoration: none;
+  }
+  
+  .card:hover h2 {
+    inset: auto auto 170px 30px;
+    transition: inset .3s ease-out;
+  }
+  
+  .card:hover span, .card:hover a {
+    opacity: 1;
+    margin: 5%;
+    transition: opacity .5s .1s ease-in;
+  }
+  
+  .card:hover img {
+    transition: opacity .3s ease-in;
+    opacity: 1;
+  }
+
+
+
+

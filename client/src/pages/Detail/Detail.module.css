@@ -1,0 +1,97 @@
+:root {
+    --azul: #031236;
+    --white: #efefef;
+    --black: #222;
+  }
+  
+  .cards_item {
+    width: fit-content;
+    margin-right:5%;
+  }
+  
+  .card_image {
+    display: flex;
+    height: 250px;
+    box-shadow: 0 50px 100px 0 var(--violet);
+  }
+  
+  .card_image img {
+    display: block;
+    width: 100%;
+    height: auto;
+    object-fit: initial;
+  }
+  
+  .card {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    overflow: hidden;
+    background-color: var(--azul);
+    border-radius: 5px 25px 5px 50px;
+    transition: transform 0.1s linear, box-shadow 0.2s;
+  }
+  
+  
+  .card_content {
+    padding: 0.5rem 1rem 1rem;
+    color: var(--white);
+  }
+  
+  .card_title {
+    position: absolute;
+    top: 5%;
+    right: 0;
+    width: 90%;
+    height: auto;
+    color: var(--white);
+    padding: 0.5rem;
+    border-radius: 5px 0 0 5px;
+    transform: rotate(-3.3deg);
+    transform-origin: left top;
+    font-family: Georgia, Times, serif;
+    font-weight: 600;
+    font-size: 1.325rem;
+    overflow: hidden;
+    z-index: 1;
+    background-color: var(--azul);
+    animation: 0s 0s fly-in 0 reverse both;
+  }
+  
+  .card_title2 {
+    position: absolute;
+    top: 20%;
+    right: 0;
+    width: 70%;
+    height: auto;
+    color: var(--white);
+    padding: 1rem;
+    border-radius: 5px 0 0 5px;
+    transform: rotate(-3.3deg);
+    transform-origin: left top;
+    font-family: Georgia, Times, serif;
+    font-weight: 300;
+    font-size: 1rem;
+    postition: relative;
+    overflow: hidden;
+    z-index: 1;
+    background-color: var(--azul);
+    animation: 0s 0s fly-in 0 reverse both;
+  }
+  
+  
+  .card_text {
+    font-family: Segoe UI, Frutiger, Frutiger Linotype, Dejavu Sans, Helvetica,
+      Helvetica Neue, Arial, sans-serif;
+    line-height: 1.5;
+    text-size-adjust: 0.2px;
+    padding: 0 1rem;
+  }
+  
+.posicion{
+  display: inline-flex;;
+}
+
+ul {
+  list-style: none;
+}

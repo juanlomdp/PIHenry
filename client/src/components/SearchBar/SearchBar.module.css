@@ -1,0 +1,36 @@
+.btn {
+    box-sizing: border-box;
+    appearance: none;
+    background-color: transparent;
+    border: 2px solid white;
+    border-radius: 0.6em;
+    color: white;
+    cursor: pointer;
+    display: flex;
+    align-self: center;
+    font-size: 0.7rem;
+    line-height: 1;
+    padding: 1.2em 2.8em;
+    margin-top: 4px;
+    margin-bottom: 3px;
+    text-decoration: none;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 700;
+  }
+  
+  btn:hover,
+  btn:focus {
+    color: #fff;
+    outline: 0;
+  }
+
+.EnLinea{
+    display: flex;
+}
+
+.Margin15
+{
+  margin-left: 15%;
+}
