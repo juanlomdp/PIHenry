@@ -1,0 +1,34 @@
+[
+{
+  "id":1,
+  "name":"Novela"
+},
+{
+   "id":2,
+  "name":"Ciencia ficción/Fantástica"
+},
+{
+  "id":3,
+  "name":"Clásicos"
+},
+{
+  "id":4,
+   "name":"Cuentos/Relatos"
+},
+{
+   "id":5,
+  "name":"Poesía"
+},
+{
+   "id":6,
+   "name":"Teatro"
+},
+{
+  "id":7,
+   "name":"Humor"
+},
+{
+   "id":8,
+   "name":"Comics -Novela gráfica"
+}
+]
