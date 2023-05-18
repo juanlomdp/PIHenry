@@ -28,7 +28,39 @@
    "name":"Humor"
 },
 {
-   "id":8,
-   "name":"Comics -Novela gráfica"
+  "id":8,
+  "name":"Comics"
+},
+{
+  "id":9,
+  "name":"Graphic Novels"
+},
+{
+  "id":10,
+  "name":"Poetry"
+},
+{
+  "id":11,
+  "name":"Biography"
+},
+{
+  "id":12,
+  "name":"Autobiography"
+},
+{
+  "id":13,
+  "name":"Authors"
+},
+{
+  "id":14,
+  "name":"Argentine"
+},
+{
+  "id":15,
+  "name":"Fiction"
+},
+{
+  "id":16,
+  "name":"Fiction"
 }
 ]
