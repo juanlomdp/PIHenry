@@ -1,66 +1,122 @@
 [
 {
   "id":1,
-  "name":"Novela"
-},
-{
-   "id":2,
-  "name":"Ciencia ficción/Fantástica"
-},
-{
-  "id":3,
-  "name":"Clásicos"
-},
-{
-  "id":4,
-   "name":"Cuentos/Relatos"
-},
-{
-   "id":5,
-  "name":"Poesía"
-},
-{
-   "id":6,
-   "name":"Teatro"
-},
-{
-  "id":7,
-   "name":"Humor"
-},
-{
-  "id":8,
-  "name":"Comics"
-},
-{
-  "id":9,
-  "name":"Graphic Novels"
-},
-{
-  "id":10,
-  "name":"Poetry"
-},
-{
-  "id":11,
   "name":"Biography"
 },
 {
-  "id":12,
+   "id":2,
   "name":"Autobiography"
 },
 {
+  "id":3,
+  "name":"Electronic books"
+},
+{
+  "id":4,
+   "name":"Authors, Argentine"
+},
+{
+   "id":5,
+  "name":"Argentine fiction"
+},
+{
+   "id":6,
+   "name":"Comics"
+},
+{
+  "id":7,
+   "name":"Graphic Novels"
+},
+{
+  "id":8,
+  "name":"Fiction"
+},
+{
+  "id":9,
+  "name":"Literatura argentina"
+},
+{
+  "id":10,
+  "name":"Spanish language materials"
+},
+{
+  "id":11,
+  "name":"Poetry"
+},
+{
+  "id":12,
+  "name":"Literary Criticism"
+},
+{
   "id":13,
-  "name":"Authors"
+  "name":"Literary Collections"
 },
 {
   "id":14,
-  "name":"Argentine"
+  "name":"Spanish American literature"
 },
 {
   "id":15,
-  "name":"Fiction"
+  "name":"Education"
 },
 {
   "id":16,
-  "name":"Fiction"
+  "name":"Juvenile Fiction"
+},
+{
+  "id":17,
+  "name":"Authors, English"
+},
+{
+  "id":18,
+  "name":"Self-Help"
+},
+{
+  "id":19,
+  "name":"England"
+},
+{
+  "id":20,
+  "name":"Juvenile Nonfiction "
+},
+{
+  "id":21,
+  "name":"Adventure fiction"
+},
+{
+  "id":22,
+  "name":"Study Aids"
+},
+{
+  "id":23,
+  "name":"Religion"
+},
+{
+  "id":24,
+  "name":"Art museum curators"
+},
+{
+  "id":25,
+  "name":"Science"
+},
+{
+  "id":26,
+  "name":"Novelists, American"
+},
+{
+  "id":27,
+  "name":"Cryptographers"
+},
+{
+  "id":28,
+  "name":"Anti-Catholicism"
+},
+{
+  "id":29,
+  "name":"Apocryphal Gospels"
+},
+{
+  "id":30,
+  "name":"Social Science"
 }
 ]
