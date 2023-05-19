@@ -33,7 +33,7 @@
 },
 {
   "id":9,
-  "name":"Literatura argentina"
+  "name":"Chilean fiction"
 },
 {
   "id":10,
@@ -65,11 +65,11 @@
 },
 {
   "id":17,
-  "name":"Authors, English"
+  "name":"Young Adult Fiction"
 },
 {
   "id":18,
-  "name":"Self-Help"
+  "name":"History"
 },
 {
   "id":19,
@@ -120,3 +120,4 @@
   "name":"Social Science"
 }
 ]
+
