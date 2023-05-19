@@ -756,6 +756,173 @@
         "stock": 45,
         "publishedDate": "2010-01-01",
         "image": "http://books.google.com/books/content?id=MJPGDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      {
+        "id": "fDu-DwAAQBAJ",
+        "title": "Los pecados de Neruda",
+        "authors": [
+          {
+            "name": "HERNAN LOYOLA"
+          }
+        ],
+        "publisher": "LUMEN",
+        "gender": [
+          {
+            "name": "Biography"
+          },
+          {
+            "name": "Autobiography"
+          }
+        ],
+        "description": "El libro que se hace cargo de los pecados bajo los que se han visto envueltas en los últimos años la figura y la obra de Pablo Neruda. Breve y consistente ensayo biográfico de la pluma del gran nerudiano Hernán Loyola, en donde aborda las polémicas póstumas en que se han visto envueltas la obra y figura de Neruda. En ocho capítulos, ocho pecados, Loyola aborda, enfrenta y encara cada una de estas polémicas: el poeta inútil, el poeta machista, el poeta fabulador, el poeta violador, el poeta mal marido, el poeta mal padre, el poeta plagiario, el poeta insolente y el poeta abandonador.",
+        "price": 393,
+        "stock": 1,
+        "publishedDate": "2019-11-13",
+        "image": "http://books.google.com/books/content?id=fDu-DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      {
+        "id": "v9rRCgAAQBAJ",
+        "title": "Neruda. El príncipe de los poetas. La biografía",
+        "authors": [
+          {
+            "name": "MARIO AMOROS"
+          }
+        ],
+        "publisher": "B DE BOOKS",
+        "gender": [
+          {
+            "name": "Biography"
+          },
+          {
+            "name": "Autobiography"
+          }
+        ],
+        "description": "La primera biografía histórica y literaria de Pablo Neruda que se publica en España. Pablo Neruda es el gran poeta del siglo XX. Como Pablo Picasso, Albert Einstein o Charles Chaplin, tuvo una capacidad creativa y una genialidad indiscutibles, y nos legó una obra reconocida y admirada universalmente. El historiador y periodista Mario Amorós ha investigado durante años en archivos de Chile, España, Rusia y otros países a fin de arrojar nueva luz sobre la vida del autor de Canto general. Su azarosa y apasionante existencia se relata en estas páginas a través de documentos inéditos, cartas, artículos, discursos, entrevistas y testimonios de amigos... y enemigos. También de las mujeres que lo amaron. Cuando se cumplen cien años de sus primeros versos, Amorós reconstruye la infancia de Pablo Neruda en Temuco, entre los bosques y la lluvia del sur del mundo; el periodo como cónsul en varias ciudades asiáticas y Buenos Aires; la llegada a España en 1934 y la relación fraternal con Federico García Lorca, Rafael Alberti o Miguel Hernández; el impacto que produjo en él la Guerra Civil y la epopeya del Winnipeg; así como los años en México, la adscripción al movimiento comunista y la obtención del Premio Nobel en 1971. Con documentos y testimonios inéditos hasta ahora, Amorós describe, en los últimos capítulos, el terrible sufrimiento de Neruda tras el golpe de Estado militar, relato que adquiere un valor singular por apoyarse en la investigación judicial abierta en Chile tras la denuncia de que fue asesinado por la dictadura del general Pinochet, el 23 de septiembre de 1973.",
+        "price": 399,
+        "stock": 22,
+        "publishedDate": "2015-11-11",
+        "image": "http://books.google.com/books/content?id=v9rRCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      {
+        "id": "0jKc9UsVV1AC",
+        "title": "Libro de Las Preguntas",
+        "authors": [
+          {
+            "name": "Pablo Neruda"
+          }
+        ],
+        "publisher": "Copper Canyon Press",
+        "gender": [
+          {
+            "name": "Poetry"
+          }
+        ],
+        "description": "Pablo Neruda is one of the world's most popular poets, and The Book of Questions is Copper Canyon's all-time best-seller. This updated bilingual edition is entirely re-designed and features a new cover, new interior, and an introduction by translator. In The Book of Questions, Neruda refuses to be corralled by the rational mind. Composed of 316 unanswerable questions, these poems integrate the wonder of a child with the experiences of an adult. By turns Orphic, comic, surreal, and poignant, Neruda's questions lead the reader beyond reason into realms of intuition and pure imagination. Tell me, is the rose naked or is that her only dress? Why do trees conceal the splendor of their roots? Is there anything in the world sadder than a train standing in the rain? When Neruda died in 1973, The Book of Questions was one of eight unpublished poetry manuscripts that lay on his desk. In it, Neruda achieves a deeper vulnerability and vision than in his earlier work-and this unique book is a testament to everything that made Neruda an artist. \"Neruda's questions evoke pictures that make sense on a visual level before the reader can grasp them on a literal one. The effect is mildly dazzling [and] O'Daly's translations achieve a tone that is both meditative and spontaneous.\" -Publishers Weekly Pablo Neruda, born in southern Chile, led a life charged with poetic and political activity. He was the recipient of the Nobel Prize in Literature, the International Peace Prize, and served as Chile's ambassador to several countries, including Burma, France, and Argentina. He died in 1973. II. Tell me, is the rose naked or is that her only dress? Why do trees conceal the splendor of their roots? Who hears the regrets of the thieving automobile? Is there anything in the world sadder than a train standing in the rain? XIV. And what did the rubies say standing before the juice of pomegranates? Why doesn't Thursday talk itself into coming after Friday? Who shouted with glee when the color blue was born? Why doe",
+        "price": 118,
+        "stock": 28,
+        "publishedDate": "2001",
+        "image": "http://books.google.com/books/content?id=0jKc9UsVV1AC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+
+      {
+        "id": "dqUjtAEACAAJ",
+        "title": "Veinte poemas de amor y una canción desesperada",
+        "authors": [
+          {
+            "name": "Pablo Neruda"
+          }
+        ],
+        "publisher": "De Borsillo",
+        "gender": [
+          {
+            "name": "Literary Collections"
+          }
+        ],
+        "description": "Una de las obras más célebres del poeta Pablo Neruda. « Me gusta cuando callas porque estás como ausente. Distante y dolorosa como si hubieras muerto. Una palabra entonces, una sonrisa bastan. Y estoy alegre, alegre de que no sea cierto .» Reseña: «Neruda significa un hombre nuevo en la América, una sensibilidad con la cual abre todo capítulo emocional americano. Su alta categoría arranca de su rotunda diferenciación.» Gabriela Mistral",
+        "price": 291,
+        "stock": 26,
+        "publishedDate": "2004",
+        "image": "http://books.google.com/books/content?id=dqUjtAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+      },
+      {
+        "id": "-z5lAAAAMAAJ",
+        "title": "Neruda por Skármeta",
+        "authors": [
+          {
+            "name": "Antonio Skármeta"
+          }
+        ],
+        "publisher": "Planeta",
+        "gender": [
+          {
+            "name": "Chilean fiction"
+          }
+        ],
+        "description": "Esta obra nos lleva por la vida de uno de los más grandes poetas de todos los tiempos: Pablo Neruda. El autor hace esta investigación como homenaje a este hombre que vivió su vida entre pasiones, amores y paisajes que lo llevaban a inspirarse para escribir sus hermosos poemas. Para acercarnos mejor a esta figura se nos relatan entretenidas anécdotas que vivió Neruda, que no están alejadas del sentido del humor tan particular que tenía el poeta. Su obra se muestra aquí como una respuesta de sus vivencias, del entorno que le tocó vivir, de la realidad política de su tiempo, de su compromiso con la gente, de los amores que tuvo, de las casas que habitó, de los lugares donde vivió, todo ello fue lo que lo motivó a escribir versos que han maravillado a cientos de personas en el mundo entero. El libro se convierte así en un reconocimiento personal a la figura de Neruda.",
+        "price": 498,
+        "stock": 4,
+        "publishedDate": "2004",
+        "image": "http://books.google.com/books/content?id=-z5lAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+      },
+      {
+        "id": "sey-DwAAQBAJ",
+        "title": "Una vacante imprevista",
+        "authors": [
+          {
+            "name": "J.K. Rowling"
+          }
+        ],
+        "publisher": "SALAMANDRA",
+        "gender": [
+          {
+            "name": "Fiction"
+          }
+        ],
+        "description": "La primera novela para adultos de J.K. Rowling. Una gran obra de una narradora extraordinaria. Con su plaza adoquinada y su antiquísima abadía, Pagford parece un típico pueblecito inglés, un lugar idílico en el que la vida transcurre con plácida tranquilidad. Sin embargo, sus habitantes están inmersos en una realidad muy diferente. Tras la conmoción causada por la súbita muerte de Barry Fairbrother, se desencadena una auténtica batalla en sordina por ocupar la vacante dejada por Barry en el concejo parroquial, donde se dirime el destino de una urbanización de dudosa legalidad. Y cuando la tensión hace aflorar una serie de conflictos latentes que involucran a todo el pueblo -hijos contra padres, pobres contra ricos, mujeres contra maridos, alumnos contra maestros-, la pasión, la hipocresía y, especialmente, los secretos que suelen anidar en una comunidad pequeña desempeñarán un papel decisivo en el futuro de Pagford. Reseñas: «Una novela maravillosa. J.K. Rowling se sitúa a la altura de Stevenson, Conan Doyle y P.D. James. Sus dotes narrativas se combinan con su habilidad para crear personajes memorables y conmovedores, y el resultado es una novela muy representativa de Inglaterra, rebosante de rabia y ternura.» Melvyn Bragg, The Observer «Una comedia negra exquisita y en ocasiones enternecedora [...]. La prueba de fuego: creo que tendría éxito incluso si su autora no se llamara J. K. Rowling.» David Robinson, The Scotsman «Una gran novela, ambiciosa, genial, irreverente, divertida, profundamente turbadora y magníficamente elocuente sobre la Inglaterra contemporánea [...]. Este es un libro conmovedor escrito por alguien que entiende muy bien a los seres humanos y que sabe mucho de novela.» Lev Grossman, Time Magazine",
+        "price": 13,
+        "stock": 41,
+        "publishedDate": "2012-12-18",
+        "image": "http://books.google.com/books/content?id=sey-DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      {
+        "id": "zTFCDwAAQBAJ",
+        "title": "Harry Potter y la piedra filosofal de J. K. Rowling (Guía de lectura)",
+        "authors": [
+          {
+            "name": "ResumenExpress,"
+          }
+        ],
+        "publisher": "ResumenExpress.com",
+        "gender": [
+          {
+            "name": "Education"
+          }
+        ],
+        "description": "ResumenExpress.com presenta y analiza en esta guía de lectura Harry Potter y la piedra filosofal, el primer tomo de una saga de siete volúmenes que escribe J. K. Rowling. Este éxito mundial narra la historia de Harry Potter, un chico que descubre el mundo de los magos y, junto a sus amigos, tendrá que resolver el misterio de la piedra filosofal y derrotar al malvado Voldemort, que parece aterrar a todo el mundo... ¡Ya no tienes que leer y resumir todo el libro, nosotros lo hemos hecho por ti! Esta guía incluye: • Un resumen completo del libro • Un estudio de los personajes • Las claves de lectura • Pistas para la reflexión ¿Por qué elegir ResumenExpress.com? Para aprender de forma rápida. Porque nuestras publicaciones están escritas con un estilo claro y conciso que te ayudará a ganar tiempo y a entender las obras sin esfuerzo. Disponibles en formato impreso y digital, te acompañarán en tu aventura literaria. Toma una dosis de literatura acelerada con ResumenExpress.com",
+        "price": 367,
+        "stock": 7,
+        "publishedDate": "2017-12-07",
+        "image": "http://books.google.com/books/content?id=zTFCDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      {
+        "id": "HFeREAAAQBAJ",
+        "title": "El Ickabog / The Ickabog",
+        "authors": [
+          {
+            "name": "J.K. Rowling"
+          }
+        ],
+        "publisher": "National Geographic Books",
+        "gender": [
+          {
+            "name": "Juvenile Fiction"
+          }
+        ],
+        "description": "Se acerca el ickabog... un monstruo legendario que amenaza un reino y que pondrá a prueba la valentía de dos niños. Descubre una aventura sumamente original sobre el poder de la esperanza y la amistad y su triunfo contra todo pronóstico, obra de una de las mejores narradoras del mundo. El reino de Cornucopia era el más feliz del mundo. Tenía oro en abundancia, un rey con unos bigotes magníficos y un montón de carniceros, reposteros y queseros cuyos exquisitos productos hacían que la gente bailara de júbilo cuando los comía. Todo era perfecto, excepto Los Pantanos, la región del norte donde, según la leyenda, vivía el terrorífico ickabog. Sobre ese monstruo, cualquiera con un poco de cabeza sabía que no era más que una fábula que los padres utilizaban para que los niños se portaran bien. Aunque lo extraño de las fábulas es que a veces cobran vida propia... Pero ¿puede una leyenda derrocar a un rey amado por su pueblo y destruir un reino feliz? ¿Puede embarcar a dos chicos valientes en una aventura que no han buscado y ni siquiera imaginado? Si crees que tienes suficiente valor, adéntrate en las páginas de este libro para averiguarlo... Una preciosa edición a todo color ilustrada por niños y niñas, perfecta para compartir y regalar. ENGLISH DESCRIPTION From J.K. Rowling, a warm, fast-paced, funny fairy tale of a fearsome monster, thrilling adventure, and hope against all odds. Once upon a time there was a tiny kingdom called Cornucopia, as rich in happiness as it was in gold, and famous for its food. From the delicate cream cheeses of Kurdsburg to the Hopes-of-Heaven pastries of Chouxville, each was so delicious that people wept with joy as they ate them. But even in this happy kingdom, a monster lurks. Legend tells of a fearsome creature living far to the north in the Marshlands... the Ickabog. Some say it breathes fire, spits poison, and roars through the mist as it carries off wayward sheep and children alike. Some say it's just a myth... And when that myth takes on a life of its own, casting a shadow over the kingdom, two children - best friends Bert and Daisy - embark on a great adventure to untangle the truth and find out where the real monster lies, bringing hope and happiness to Cornucopia once more. Featuring full color illustrations by children from across the United States and Canada, this original fairy tale from one of the world's most celebrated storytellers will captivate readers of all ages.",
+        "price": 137,
+        "stock": 35,
+        "publishedDate": "2021-02-23",
+        "image": "http://books.google.com/books/content?id=HFeREAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
       }
 
   ]
