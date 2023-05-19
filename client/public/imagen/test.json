@@ -38,6 +38,106 @@
       "stock": 32,
       "publishedDate": "2017-08-29",
       "image": "http://books.google.com/books/content?id=Q5IrDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
+      "id": "ggnLYF266IsC",
+      "title": "Inferno (Edición colombiana)",
+      "authors": [
+        {
+          "name": "Editorial Planeta S.A.U."
+        }
+      ],
+      "publisher": "Grupo Planeta Spain",
+      "gender": [
+        {
+          "name": "Fiction"
+        }
+      ],
+      "description": "En sus bestsellers internacionales El código Da Vinci, Ángeles y demonios y El símbolo perdido, Dan Brown aunó con maestría historia, arte, códigos y símbolos. En su fascinante nuevo thriller, Inferno, Brown recupera su esencia con su novela más ambiciosa hasta la fecha. En el corazón de Italia, el catedrático de Simbología de Harvard Robert Langdon se ve arrastrado a un mundo terrorífico centrado en una de las obras maestras de la Literatura más imperecederas y misteriosas de la Historia: el Infierno de Dante. Con este telón de fondo, Langdon se enfrenta a un adversario escalofriante y lidia con un acertijo ingenioso en un escenario de arte clásico, pasadizos secretos y ciencia futurista. Apoyándose en el oscuro poema épico de Dante, Langdon, en una carrera contrarreloj, busca respuestas y personas de confianza antes de que el mundo cambie irrevocablemente.",
+      "price": 120,
+      "stock": 17,
+      "publishedDate": "2013-05-15",
+      "image": "http://books.google.com/books/content?id=ggnLYF266IsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
+      "id": "E0YmCwAAQBAJ",
+      "title": "El código Da Vinci de Dan Brown (Guía de lectura)",
+      "authors": [
+        {
+          "name": "Nathalie Roland"
+        }
+      ],
+      "publisher": "ResumenExpress.com",
+      "gender": [
+        {
+          "name": "Study Aids"
+        }
+      ],
+      "description": "ResumenExpress.com presenta y analiza en esta guía de lectura El código Da Vinci, superventas de Dan Brown. En esta novela de suspense esotérica el autor nos sumerge en un juego de pistas a través de Francia e Inglaterra, en búsqueda del misterioso Grial y de todos aquellos que han hecho todo lo posible para conservarlo o destruirlo. Salpicando su obra con alusiones a leyendas y hechos históricos, Dan Brown teje una historia cuyo resultado podría modificar la faz del mundo. ¡Ya no tienes que leer y resumir todo el libro, nosotros lo hemos hecho por ti! Esta guía incluye: • Un resumen completo del libro • Un estudio de los personajes • Las claves de lectura • Pistas para la reflexión ¿Por qué elegir ResumenExpress.com? Para aprender de forma rápida. Porque nuestras publicaciones están escritas con un estilo claro y conciso que te ayudará a ganar tiempo y a entender las obras sin esfuerzo. Disponibles en formato impreso y digital, te acompañarán en tu aventura literaria. Toma una dosis de literatura acelerada con ResumenExpress.com",
+      "price": 36,
+      "stock": 47,
+      "publishedDate": "2015-12-07",
+      "image": "http://books.google.com/books/content?id=E0YmCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
+      "id": "GIUS6dvI_JsC",
+      "title": "EL CODIGO DA VINCI DESCODIFICADO",
+      "authors": [
+        {
+          "name": "MARTIN LUNN"
+        }
+      ],
+      "publisher": "Editorial AMAT",
+      "gender": [
+        {
+          "name": "Religion"
+        }
+      ],
+      "description": "LA GUIA NO AUTORIZADA ESENCIAL PARA DESCUBRIR LOS SECRETOS DE EL CÓDIGO DA VINCI El Código Da Vinci es un fenómeno editorial de la era moderna. Con millones de ejemplares publicados, se ha convertido en la novela para adultos más popular del siglo XXI. El autor de El Código Da Vinci, Dan Brown, nos dice que \"todas las descripciones de obras de arte.,edificios, documentos y rituales secretos [...] son veraces\". Pero ¿lo son? Han sido muchos los eruditos y teólogos que han atacado el libro y los \"hechos\" en los que se basa. Algunos afirman que Brown es anticatólico. Clubes de lectura, páginas web especializadas e innumerables críticas y artículos en revistas y periódicos de todo el mundo han avivado el fuego, convirtiendo El Código Da Vinci no sólo en el libro de mayor éxito en su categoría que se haya publicado nunca, sino además, en el más controvertido. Ahora, Martin Lunn, un experto historiador, revela la verdad que hay detrás de la investigación de Dan Brown. La realidad sobre la ramificación católica que es el Opus Dei... los hechos reales sobre el linaje de Jesucristo y el rey David... los sorprendentes secretos del Santo Grial... los orígenes de los Caballeros Templarios y del Priorato de Sión... los secretos de la iglesia del Temple y de la Capilla Rosslyn... y mucho más. Martin Lunn es un reconocido experto en el linaje Davídico y otros temas presentados en El Código Da Vinci. Máster en Historia, posee un extenso historial como periodista. Ha vivido en el Extremo Oriente y en Oriente medio, en los Estados Unidos y en diversos países europeos. Es también Gran Maestre de la Sociedad del Dragón, fundada originalmente en 1408 por el rey Segismundo de Hungría.",
+      "price": 12,
+      "stock": 29,
+      "publishedDate": "2004-11-18",
+      "image": "http://books.google.com/books/content?id=GIUS6dvI_JsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    
+    {
+      "id": "YYcpDwAAQBAJ",
+      "title": "Origen (versión española)",
+      "authors": [
+        {
+          "name": "Dan Brown"
+        }
+      ],
+      "publisher": "Editorial Planeta",
+      "gender": [
+        {
+          "name": "Fiction"
+        }
+      ],
+      "description": "Robert Langdon, profesor de simbología e iconografía religiosa de la universidad de Harvard, acude al Museo Guggenheim Bilbao para asistir a un trascendental anuncio que «cambiará la faz de la ciencia para siempre». El anfitrión de la velada es Edmond Kirsch, un joven multimillonario cuyos visionarios inventos tecnológicos y audaces predicciones lo han convertido en una figura de renombre mundial. Kirsch, uno de los alumnos más brillantes de Langdon años atrás, se dispone a revelar un extraordinario descubrimiento que dará respuesta a las dos preguntas que han obsesionado a la humanidad desde el principio de los tiempos. ¿DE DÓNDE VENIMOS? ¿ADÓNDE VAMOS? Al poco tiempo de comenzar la presentación, meticulosamente orquestada por Edmond Kirsch y la directora del museo Ambra Vidal, estalla el caos para asombro de cientos de invitados y millones de espectadores en todo el mundo. Ante la inminente amenaza de que el valioso hallazgo se pierda para siempre, Langdon y Ambra deben huir desesperadamente a Barcelona e iniciar una carrera contrarreloj para localizar la críptica contraseña que les dará acceso al revolucionario secreto de Kirsch. Perseguidos por un atormentado y peligroso enemigo, Langdon y Ambra descubrirán los episodios más oscuros de la Historia y del extremismo religioso. Siguiendo un rastro de pistas compuesto por obras de arte moderno y enigmáticos símbolos, tendrán pocas horas para intentar desvelar la fascinante investigación de Kirsch... y su sobrecogedora revelación sobre el origen y el destino de la Humanidad. ORIGEN se desarrolla íntegramente en España. Barcelona, Bilbao, Madrid y Sevilla son los escenarios principales en los que transcurre la nueva aventura de Robert Langdon. De la mano del autor de El código Da Vinci, el lector recorrerá escenarios como el Monasterio de Montserrat, la Casa Milà (La Pedrera), la Sagrada Familia, el Museo Guggenheim Bilbao, el Palacio Real o la Catedral de Sevilla. Como ya sucedió con París en El código Da Vinci, con Roma en Ángeles y demonios o con Florencia en Inferno, los escenarios de las novelas de Dan Brown siempre han sido un elemento clave en sus tramas. Edición dedicada por Dan Brown.",
+      "price": 159,
+      "stock": 6,
+      "publishedDate": "2017-10-05",
+      "image": "http://books.google.com/books/content?id=YYcpDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    },
+    {
+      "id": "_xcLc9fkKsYC",
+      "title": "Dan Brown's The Lost Symbol",
+      "authors": [
+        {
+          "name": "Alex Carmine"
+        }
+      ],
+      "publisher": "Punked Books",
+      "gender": [
+        {
+          "name": "Literary Criticism"
+        }
+      ],
+      "description": "Dan Brown's 'The Lost Symbol' was the most anticipated novel of 2009, and was the literary event of the year. Alex Carmine examines all the themes in depth, and provides a chapter-by-chapter analysis of 'The Lost Symbol'. From Alex's assessment of the novel, it is very much apparent that Dan Brown has not only been adhering to his own formula, but that he has also been following Joseph Campbell's concept of the hero's journey. We know that Dan Brown likes to play with the names of his characters, so Alex explores these in great detail. In this way, Alex reveals the name of the real American family upon whom the Solomons are based. Alex also shows that, following its development within 'The Da Vinci Code', Dan Brown's still very much in tune with his 'sacred feminine' side, with his stunning representation of womb envy. Dan Brown's fascinating depiction of masculinity within this novel is studied too. In addition to this, Alex explores the literary devices that Dan Brown employs, and the magical sleights of hand that he uses to make the reader look the wrong way. Indeed, one of the main arguments in this book is that Dan Brown has hidden much of the true meaning of 'The Lost Symbol' behind various veils of allegory, much as the Masons do with regards to their secrets, and like the Symbologist Robert Langdon, Alex reveals these meanings to you. However, Dan Brown is an author who also likes to reward his readers, so Alex examines the clues about the novel that he disseminated prior to publication via Facebook and Twitter. Furthermore, Alex considers the various Masonic practices depicted within the novel, and bring to the fore the conspiracy theories that surround this mysterious fraternity. Alex Carmine's very close reading of the novel literally leaves no stone uncovered, and will transform your own interpretation of the text.",
+      "price": 96,
+      "stock": 13,
+      "publishedDate": "2009",
+      "image": "http://books.google.com/books/content?id=_xcLc9fkKsYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
     }
-
   ]
