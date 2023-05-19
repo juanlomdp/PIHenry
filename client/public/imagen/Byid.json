@@ -1,0 +1,12 @@
+{
+    "id": "fJ1BM2gJEcgC",
+    "title": "Pablo Neruda para niños",
+    "authors": [{"name":"Pablo Neruda"}],
+    "publisher": "Ediciones de la Torre",
+    "gender": [{"name":"Comics"},{"name":"Graphic Novels"} ],
+    "description": "Enamorado de la vida y de las causas de los oprimidos, Neruda, poeta del amor y la libertad (premio Nobel de Literatura 1971), representa y sintetiza todo el vigor y contradicciones de un mundo a la vez muy reciente y antiguo: América del Sur.",
+    "price": 10,
+    "stock":5,
+    "publishedDate": "1996",
+    "image": "http://books.google.com/books/content?id=fJ1BM2gJEcgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+}
