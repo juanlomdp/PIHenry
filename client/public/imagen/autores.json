@@ -41,91 +41,47 @@
 },
 {
   "id":11,
-  "name":"Edmundo Valadés"
-},
-{
-  "id":12,
-  "name":"Gustavo Martín Garzo"
-},
-{
-  "id":13,
-  "name":"Gabriel García Márquez"
-},
-{
-  "id":14,
-  "name":"Magela Baudoin"
-},
-{
-  "id":15,
-  "name":"Alberto Manguel"
-},
-{
-  "id":16,
-  "name":"Antonio Aguilera C."
-},
-{
-  "id":17,
-  "name":"Ryan North"
-},
-{
-  "id":18,
-  "name":"Matthew Bennardo"
-},
-{
-  "id":19,
-  "name":"David Malki"
-},
-{
-  "id":20,
-  "name":"Bernardo Ortín Pérez"
-},
-{
-  "id":21,
-  "name":"Trinidad Ballester"
-},
-{
-  "id":22,
   "name":"Margaret Mahy"
 },
 {
-  "id":23,
+  "id":12,
   "name":"Ana Merino"
 },
 {
-  "id":24,
+  "id":13,
   "name":"Jorge Riechmann"
 },
 {
-  "id":24,
+  "id":14,
   "name":"Adam Versenyi"
 },
 {
-  "id":24,
-  "name":"Michael Byram"
-},
-{
-  "id":24,
-  "name":"Michael Fleming"
-},
-{
-  "id":24,
-  "name":"Rosario Castellanos"
-},
-{
-  "id":24,
-  "name":"Héctor Fouce"
-},
-{
-  "id":24,
-  "name":"Merce Saumell"
-},
-{
-  "id":24,
-  "name":"Jan Peter Nauta"
-},
-{
-  "id":24,
+  "id":15,
   "name":"Jean Duvignaud"
+},
+{
+  "id":16,
+  "name":"Quino"
+},
+{
+  "id":17,
+  "name":"Maitena"
+},
+{
+  "id":18,
+  "name":"Alejandra Lunik"
+},
+{
+  "id":19,
+  "name":"Malaimagen"
+},
+{
+  "id":20,
+  "name":"Dona Herweck Rice"
+},
+{
+  "id":21,
+  "name":"Jorge Ramos"
 }
 
 ]
