@@ -1,499 +1,1022 @@
 [
   {
-    "id": "RmwZEAAAQBAJ",
-    "title": "Cuentos completos",
+    "id": "HbiPSAAACAAJ",
+    "title": "El Alienista",
     "authors": [
-      "Jorge Luis Borges"
+      "Joaquim Maria Machado de Assis",
+      "Machado de Assis"
     ],
-    "publisher": "VINTAGE ESPAÑOL",
+    "publisher": "Magoria",
     "gender": [
-      "Fiction"
+      "Ciencia ficción"
     ],
-    "description": "He intentado, no sé con qué fortuna, la redacción de cuentos directos. No me atrevo a afirmar que son sencillos; no hay en la tierra una sola página, una sola palabra, que lo sea, ya que todas postulan el universo, cuyo más notorio atributo es la complejidad. Este volumen reúne todos los cuentos de Borges, uno de los legados más influyentes y deslumbrantes de la literatura occidental. El universo borgiano, con sus espejos, laberintos, tigres, bibliotecas, gauchos o máscaras, es ya uno de los paisajes fundamentales del siglo XX. En este libro, el verdadero libro de libros, se encuentran obras maestras como El jardín de los senderos que se bifurcan, Pierre Menard, autor del Quijote, Funes el memorioso, El Sur, El Aleph o Ulrica. Leer estos cuentos supone releer la historia de la humanidad y emprender una de las aventuras más enriquecedoras, bellas y emocionantes de todos los tiempos.",
-    "price": 382,
-    "stock": 34,
-    "publishedDate": "2019-10-01",
-    "image": "http://books.google.com/books/content?id=RmwZEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "description": "En la literatura brasileña y en el género del cuento, pocas veces se han dado obras de la calidad del presente texto. Fue publicado por entregas en 1882 y apareció incorporado al libro Papéis Avulsos, donde se mantiene desde entonces. En este libro el autor, con su proverbial sagacidad, hace reír al lector que, sin perder de vista que se encuentra ante una ficción, no puede evitar identificarse con los personajes que pasean su locura pacífica por el cuento. Es difícil quedar ajeno al efecto de este relato sobre nuestros hábitos y convenciones. Más que en cualquier otra obra suya, la sátira se hace contra el hombre que ambiciona el mando, contra las promesas del poder y sus grotescas consecuencias. El libro trata sobre un médico que pretende analizar y curar todos los desequilibrios cerebrales de los ciudadanos de su pequeña ciudad.",
+    "price": 164,
+    "stock": 23,
+    "publishedDate": "2000",
+    "image": "http://books.google.com/books/content?id=HbiPSAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
   },
   {
-    "id": "D3JEEAAAQBAJ",
-    "title": "Borges: el misterio esencial",
+    "id": "bLtjzirQvXcC",
+    "title": "El movimiento antimetafísico del siglo XX",
     "authors": [
-      "Jorge Luis Borges"
+      "Rom Harre",
+      "José Miguel Sagüillo"
     ],
-    "publisher": "SUDAMERICANA",
+    "publisher": "Ediciones AKAL",
     "gender": [
-      "Biography ",
-      " Autobiography"
+      "Ciencia ficción"
     ],
-    "description": "Ya en sus ochenta años y convertido en una personalidad de enorme notoriedad pública a nivel mundial, Borges emprende un viaje a diversas universidades de los Estados Unidos en las que mantiene conversaciones entrañables sobre sí, sus mundos y sus obras, con académicos, periodistas y público general. En la década final de su vida, Borges emprendió una gira por los Estados Unidos con el fin de participar de una serie de diálogos organizados por las universidades más prestigiosas de esa nación (Chicago, Indiana, Columbia y el M.I.T., entre otras). El recorrido traza una cartografía inquietante: Borges conversa sobre el sentido del universo con un astrofísico, sobre misticismo con un experto en cábala y sobre el difuso límite entre realidad y ficción con escritores y poetas. Asiste a un encuentro en el PEN Club de Nueva York y concede incluso una entrevista a una personalidad televisiva: Dick Cavett. A lo largo de estos encuentros, el escritor argentino evoca sueños y pesadillas, sagas nórdicas, frases del inglés antiguo, la presencia del \"otro\" y el doble, y varios de sus autores favoritos, entre otros temas. El placer intelectual de la conversación lleva asimismo a Borges (por lo general renuente a las confidencias) a revelar el significado de símbolos y tramas de varias de sus obras. La traducción y las notas de Martín Hadis junto a las notables fotografías de Willis Barnstone completan en estas páginas el sensible retrato de ese misterio esencial de la literatura que conocemos como Borges.",
-    "price": 110,
-    "stock": 42,
-    "publishedDate": "2021-10-01",
-    "image": "http://books.google.com/books/content?id=D3JEEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "description": "Visión de conjunto sobre los autores y argumentos contemporáneos más destacados en contra de la metafísica, en la que se analizan sus orígenes, límites y compromisos ontológicos y formales.",
+    "price": 336,
+    "stock": 46,
+    "publishedDate": "2001",
+    "image": "http://books.google.com/books/content?id=bLtjzirQvXcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": "B3grTOBB-ukC",
+    "title": "Física cuántica para filo-sofos",
+    "authors": [
+      "Torre, Alberto Clemente de la"
+    ],
+    "publisher": "Fondo de Cultura Economica",
+    "gender": [
+      "Ciencia ficción"
+    ],
+    "description": "Con un estudio introductorio de Sergio García Ramírez, esta obra representa el punto de partida moderno en los anales de la filosofía del derecho judicial y constituye, asimismo, una suma de las ideas sobre la materia que concurren hasta alcanzar su definición más plena en la obra de Montesquieu y los enciclopedistas franceses.",
+    "price": 1,
+    "stock": 6,
+    "publishedDate": "2011",
+    "image": "http://books.google.com/books/content?id=B3grTOBB-ukC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": "1TCtBAAAQBAJ",
+    "title": "Nuevas respuestas a viejas preguntas. La vigencia de Aristóteles en la ciencia contemporánea",
+    "authors": [
+      "Albert Arisó"
+    ],
+    "publisher": "Edicions Universitat Barcelona",
+    "gender": [
+      "Ciencia ficción"
+    ],
+    "description": "Es bien sabido que la ciencia y la filosofía son ramas nacidas de un mismo tronco, y que este tronco común hunde sus raíces en Grecia, sobre todo en el fértil terreno del pensamiento aristotélico. Sin embargo, no siempre somos conscientes de hasta qué punto es palpable la presencia de Aristóteles en la ciencia contemporánea, la cual, en su afán por dar respuestas a las preguntas de siempre y a las nuevas que ella misma genera, acaba por rebasar los límites de sus saberes específicos y por reencontrar sus orígenes filosóficos. Este libro, precisamente, consigue tender puentes entre el pensamiento contemporáneo y los problemas planteados por Aristóteles, cuyos textos, vistos a la luz de la ciencia actual, recobran todo su vigor y muestran tanto la permanencia de los grandes interrogantes que abre el conocimiento como la necesidad de que éste mantenga vivo su espíritu crítico.",
+    "price": 387,
+    "stock": 25,
+    "publishedDate": "2013",
+    "image": "http://books.google.com/books/content?id=1TCtBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": "s-PzdnbRpcQC",
+    "title": "Alicia anotada",
+    "authors": [
+      "Lewis Carroll"
+    ],
+    "publisher": "Ediciones AKAL",
+    "gender": [
+      "Cuentos"
+    ],
+    "description": "La presente edición es, sin lugar a dudas, la más importante realizada hasta la fecha, pues a las dos obras maestras de L. Carroll -y a las no menos magistrales ilustraciones de Tenniel- han venido a unirse las notas y comentarios de Martin Gardner. El autor de esta edición anotada, columnista de Scientific American durante más de veinte años, matemático y ensayista original, era quizá, por su profesión y aficiones, la persona más apropiada para realizar esta labor, arrojando nueva y definitiva luz sobre un texto complicado pero delicioso. No en vano, Charles Dodgson (esto es, L. Carroll) fue también profesor de Lógica y Matemáticas, como el anotador, dejando en sus libros la huella inequívoca de su sutilísimo humor, entretejido de constantes combinaciones y variables imprevistas. A la calidad de los textos, y al meticuloso cuidado con el que ha realizado su traducción Francisco Torres Oliver, viene por último a unirse la magnífica presentación de los textos e ilustraciones. Creemos que el conjunto constituye por todo ello una edición auténticamente imprescindible.",
+    "price": 44,
+    "stock": 0,
+    "publishedDate": "1998",
+    "image": "http://books.google.com/books/content?id=s-PzdnbRpcQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
   },
    {
-    "id": "vV9WCgAAQBAJ",
-    "title": "El legado de Borges.",
+    "id": "Z0s3swEACAAJ",
+    "title": "Narraciones extraordinarias",
     "authors": [
-      "Rafael Olea Franco"
+      "Edgar Allan Poe"
     ],
-    "publisher": "El Colegio de Mexico AC",
+    "publisher": "Clásicos Ilustrados",
     "gender": [
-      "Literary Collections"
+      "Cuentos"
     ],
-    "description": "Se ofrece una serie de sólidas lecturas, elaboradas desde una perspectiva académica que no puede (ni debe) prescindir de la investigación y de la documentación. De este modo, los lectores interesados en la literatura de Borges dispondrán de una mayor cantidad de elementos para aproximarse a su arte verbal (con la certeza de que el conocimiento también contribuye a aumentar el goce literario).",
-    "price": 173,
-    "stock": 48,
-    "publishedDate": "2015-04-23",
-    "image": "http://books.google.com/books/content?id=vV9WCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "description": "Las narraciones extraordinarias de Edgar Allan Poe, el novelista norteamericano nacido en Boston el 19 de enero de 1809 y desaparecido en Baltimore el 7 de octubre de 1849, constituyen la parte más conocida de su obra. El cine y la televisión han explotado, no siempre con fortuna, lo que en Poe hay de misterioso y hasta terrorífico, dejando de lado la intensidad, el pulso y ese acento de campana gigantesca que suponen los valores primordiales de una obra concentrada y personalísima, en la cual lo humano se eleva por caminos pavorosos a tensiones muy superiores a su contenido melodramático. Como si la vida, con su fundamento de terrores y sombras, necesitase ser penetrada por un autor, preocupada por alumbrar inéditos caminos con sus descubrimientos.",
+    "price": 145,
+    "stock": 29,
+    "publishedDate": "2018",
+    "image": "http://books.google.com/books/content?id=Z0s3swEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  
+  
+  {
+    "id": "ivvb07CFUUsC",
+    "title": "El sabor de lo prohibido",
+    "authors": [
+      "José Alcántara Almánzar"
+    ],
+    "publisher": "La Editorial, UPR",
+    "gender": [
+      "Cuentos"
+    ],
+    "description": "The unevenly clustered historical conditions of the Caribbean nations bind us to the revival and redefinition of the ideals of unification begotten by 19th Century Puerto Rican thinkers. Coleccion Caribena is intended to build connection points that will",
+    "price": 143,
+    "stock": 43,
+    "publishedDate": "1993",
+    "image": "http://books.google.com/books/content?id=ivvb07CFUUsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
   },
   {
-    "id": "jGiREAAAQBAJ",
-    "title": "Borges profesor: Curso de literatura inglesa en la Universidad de Buenos Aires / Professor Borges: English Literature Course at the University of Buenos Aires",
+    "id": "y0kftAEACAAJ",
+    "title": "Humo y espejos",
     "authors": [
-      "Jorge Luis Borges"
+      "Neil Gaiman"
     ],
-    "publisher": "National Geographic Books",
+    "publisher": "Salamandra",
     "gender": [
-      "Literary Collections"
+      "Cuentos"
     ],
-    "description": "El libro que revela a Borges en su faceta docente, imprescindible para los amantes de su obra y de la literatura. «No lo cite: léalo. [...] Urge no ya leerlo o releerlo, sino, como sugería Bolaño, \"releerlo otra vez\".»-Gonzalo Núñez, La Razón En 1966, Borges dictó un curso de literatura inglesa en la Universidad de Buenos Aires. Las clases fueron grabadas por algunos alumnos, que luego las transcribieron para que otros pudieran escucharlas. Las cintas originales se han perdido, pero los textos se han conservado hasta hoy. Tras un intenso trabajo de análisis e investigación de las fuentes, Martín Arias y Martín Hadis lograron compilar las transcripciones, sin modificar el lenguaje oral de Borges, que nos ha llegado intacto. La pasión de Borges, conjugada con su memoria casi infalible, hace de este libro una obra esencial para los admiradores del gran escritor argentino y los amantes de la literatura. ENGLISH DESCRIPTION The book that reveals Borges in his teaching facet, essential for fans of his work and literature in general. “Don't quote him: read him. [...] It is not only necessary to just to read or reread him, but as Bolaño suggested, \"we must reread him again and again\".” —Gonzalo Núñez, La Razón In 1966, Borges taught an English literature course at the University of Buenos Aires. Those classes were recorded by some students, who then transcribed them so that others could also enjoy them. The original tapes were lost, but the texts have been preserved. After an intense work of analysis and investigation, Martín Arias and Martín Hadis managed to compile the transcriptions, without modifying Borges' oral language, which remains intact. Borges' passion, combined with his almost infallible memory, makes this book an essential work for fans of the great Argentine writer and literature lovers in general.",
-    "price": 182,
-    "stock": 13,
-    "publishedDate": "2020-07-21",
-    "image": "http://books.google.com/books/content?id=jGiREAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "description": "En las manos maestras de Neil Gaiman, la magia es mucho más que un mero juego de engaños... Una recopilación de treinta relatos, poemas narrativos y piezas breves componen esta maravillosa novela de fantasía e ilusiones. La destreza y el poder de invención de este gran fabulador transforman el entorno cotidiano en un mundo hechizado por sucesos sombríos y extraños, en el que una anciana puede comprar el Santo Grial en una tienda de segunda mano, unos asesinos se anuncian en los clasificados de un periódico bajo la rúbrica «CONTROL DE PLAGAS», o un muchacho asustado debe negociar con un trol malcarado y mezquino que vive bajo un puente ferroviario. Esta recopilación de treinta relatos, poemas narrativos y piezas breves e inclasificables ofrece múltiples y variadas posibilidades para que el lector explore una realidad transformada, astutamente velada por el humo y las sombras, a la vez que tangible y afilada. Todo parece posible en el universo de Gaiman, el gran maestro prestidigitador que despierta los sentidos, cautiva los sueños y mantiene en vilo nuestra mente. La crítica ha dicho... «Antiguas leyendas a las que ha dado un vuelco ingenioso se combinan con espeluznantes atisbos de lo imposible, para formar esta impresionante colección de relatos y poemas.» Publisher's Weekly «Gaiman es una mina de historias. Debemos sentirnos afortunados, escriba en el género que escriba.» Stephen King «Soberbio, [...] evocador [...] y a menudo ingenioso y perversamente divertido. En el mundo de Gaiman, nuestros sueños más sencillos son, en realidad, nuestras elucubraciones más complejas.» Richmond Times-Dispatch «Gaiman es capaz de helarnos la sangre o hacer que soltemos una carcajada.» Minneapolis Star Tribune «Neil Gaiman escribe en tantos estilos y combinaciones de estilos que es difícil clasificar su obra con una sola palabra. Unos la consideran \"fantasy\", otros \"terror\", otros \"ciencia ficción\" o \"ficción especulativa\". Gaiman escribe igual de bien en cada uno de estos géneros. [...] Una cosa sí puede afirmarse sin lugar a dudas: en plena forma, Gaiman es magnífico.» Baltimore Sun «Gaiman es un contador de historias visionario [...] en muchos aspectos, un contador de historias de otra época, no sólo esa voz implacable que nos habla con un susurro sobre los horrores que hay más allá del círculo de luz de la hoguera. También es un escritor desesperadamente pasado de moda, capaz de crear narraciones breves trepidantes, cautivadoras, que logran satisfacer al lector, algo cada vez más raro fuera de la narrativa de género.» Toronto Star «Una caja de bombones para los amantes de la fantasía oscura.» Booklist",
+    "price": 149,
+    "stock": 24,
+    "publishedDate": "2017",
+    "image": "http://books.google.com/books/content?id=y0kftAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  
+  
+  {
+    "id": "G7PsAAAAMAAJ",
+    "title": "La muerte tiene permiso",
+    "authors": [
+      "Edmundo Valadés"
+    ],
+    "publisher": "Fondo de Cultura Economica USA",
+    "gender": [
+      "Cuentos"
+    ],
+    "description": "Dieciocho cuentos excelentes de uno de los maestros del g nero en M xico. Su prosa, aligerada por la variedad de temas abordados, contiene un estilo conseguido a golpe de escritura cotidiana en el noble ejercicio period stico y literario que lo ha hecho uno de los grandes de la narrativa corta contempor nea.",
+    "price": 292,
+    "stock": 29,
+    "publishedDate": "1983",
+    "image": "http://books.google.com/books/content?id=G7PsAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
   },
   {
-    "id": "tCfSI_C2iAkC",
-    "title": "Borges, un escritor en las orillas",
+    "id": "s294mgEACAAJ",
+    "title": "Una casa de palabras",
     "authors": [
-      "Beatriz Sarlo"
+      "Gustavo Martín Garzo"
     ],
-    "publisher": "Siglo XXI de España Editores",
+    "publisher": "Ágora",
     "gender": [
-      "Literary Criticism"
+      "Cuentos"
     ],
-    "description": "Jorge Luis Borges es uno de los escritores más destacados del siglo XX y, sin embargo, en todas las críticas literarias a su obra apenas se menciona el hecho de que era un escritor argentino, como si su reputación mundial de alguna forma hubiera borrado su nacionalidad. En este libro, Sarlo desafía estas lecturas «universalistas» argumentando que dejan de lado aspectos vitales de la escritura de Borges, incluida su poderosa visión de las tradiciones y el pasado argentinos que situaron tanto al escritor como a su país en la extraña intersección de las culturas europea y latinoamericana. Este análisis de la obra de Borges está dividido en dos partes. La primera la forman una serie de conferencias sobre la ficción de Borges; la segunda habla sobre el surgimiento de la vanguardia y las revistas literarias con el fin de situar su literatura en un contexto cultural e ideológico. Borges escribió en un encuentro de caminos. A pesar de la perfecta felicidad del estilo, su obra tiene en el centro una grieta: se desplaza por el filo de varias culturas, que se tocan —o repelen— en sus bordes. Colocado en los límites —entre géneros literarios, entre lenguas, entre culturas—, Borges es el escritor de «las orillas», un marginal en el centro, un cosmopolita en los márgenes; alguien que, paradójicamente, construye su originalidad en la afirmación de la cita, de la copia, de la reescritura de textos ajenos, porque piensa, desde un principio, en la fundación de la escritura desde la lectura, y desconfía, desde un principio, de la posibilidad de representación literaria de lo real. Su obra muestra el conflicto y este libro intenta leerla en esa dimensión desgarrada. Beatriz Sarlo ha querido y ha logrado mantener esta tensión que atraviesa a Borges y constituye su particularidad: un juego en el filo de dos orillas.",
-    "price": 236,
-    "stock": 49,
-    "publishedDate": "2007-01-01",
-    "image": "http://books.google.com/books/content?id=tCfSI_C2iAkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "description": "Los cuentos maravillosos provienen de la noche de los tiempos. Pasan de una generación a otra y se mantienen tan sugerentes y nuevos como en sus orígenes. Son casas de palabras, refugios frente a las angustias y el dolor. Crean un lugar para vivir, al tiempo que permiten habitar el mundo. Una casa de palabras es una intensa y singular meditación acerca de ellos. Una obra de feroz actualidad justamente por ir a contracorriente de la cultura prevaleciente en nuestro tiempo. Gustavo Martín Garzo nació en Valladolid en 1948, ciudad en la que reside actualmente. Es filósofo y psicólogo de formación, novelista, cuentista y ensayista. Storytelling has existed since the beginning of time. Stories are passed on from generation to generation, remaining as evocative and new as ever. They're sites of refuge in the face of anguish and pain. They create a place to live, like a house of words. This book is an intense and unique meditation on stories, running counter to the prevalent culture of our times.",
+    "price": 373,
+    "stock": 30,
+    "publishedDate": "2013",
+    "image": "http://books.google.com/books/content?id=s294mgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
   },
   {
-    "id": "5PuMEAAAQBAJ",
-    "title": "Poesía completa / Complete Poetry Borges",
+    "id": "miYWwTFjGoEC",
+    "title": "Ojos de perro azul / Eyes of a Blue Dog",
     "authors": [
-      "Jorge Luis Borges"
+      "Gabriel García Márquez"
     ],
-    "publisher": "National Geographic Books",
+    "publisher": "Vintage Espanol",
     "gender": [
-      "Poetry"
+      "Cuentos"
     ],
-    "description": "La obra poética completa del maestro argentino en un solo volumen Además de extraordinario narrador y ensayista, Jorge Luis Borges fue un excelente poeta. De hecho, puede decirse que la poesía es el alma de su obra. Indisociable de sus cuentos y ensayos, estos poemas son parte indispensable del universo borgiano y constituyen una indagación paralela a los asuntos que siempre le apasionaron: los libros, la memoria, los laberintos, los espejos, el amor o la eternidad. De los poemas que integran esta fantástica colección cabe destacar “El mar”, “Arte poética”, “El laberinto”, “Límites” y su primer libro de poesía Fervor de Buenos Aires, entre otros muchos. Dueño de un fino oído y una impresionante capacidad para crear imágenes memorables, Borges revive en sus grandes poemas la intensidad que recorre la gran tradición occidental desde Homero hasta Eliot. En palabras del propio Borges: “Ajedrez misterioso la poesía, cuyo tablero y cuyas piezas cambian como en un sueño y sobre el cual me inclinaré después de haber muerto”. “La deuda que tenemos contraída con él quienes escribimos en español es enorme”. —Mario Vargas Llosa ENGLISH DESCRIPTION The complete poetic work of the Argentine master gathered in one single volume. Besides being an extraordinary storyteller and essayist, Jorge Luis Borges was an excellent poet. In fact, it can be said that poetry is the soul of his work. Together with his stories and essays, these poems are an crucial part of the Borgesian universe and make up a parallel inquiry to the issues that always fascinated him: books, memory, labyrinths, mirrors, love, or eternity. Among the poems that make up this fantastic collection include “The Sea”, “The Art of Poetry”, “The Labyrinth”, “Limits” and his first book of poetry Fervor of Buenos Aires, among many others. Having had a fine ear and an impressive capacity to create memorable images, Borges relives in his great poems the intensity that runs through the great Western traditions, from Homer to Eliot. In Borges’ own words: \"Poetry is a mysterious chess game, whose board and whose pieces change as if in a dream and on which I will lean after I die.\"",
-    "price": 38,
+    "description": "A collection of tales by the Nobel Prize-winning author features \"La tercera resignación,\" \"La otra costilla de la muerte,\" \"Eva está dentro de su gato,\" \"Amargura para tres sonámbulos,\" \"Ojos de perro azul,\" and others.",
+    "price": 303,
+    "stock": 17,
+    "publishedDate": "2010",
+    "image": "http://books.google.com/books/content?id=miYWwTFjGoEC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "iqKcswEACAAJ",
+    "title": "La composición de la sal",
+    "authors": [
+      "Magela Baudoin",
+      "Alberto Manguel"
+    ],
+    "publisher": "Almadia",
+    "gender": [
+      "Cuentos"
+    ],
+    "description": "La mayoría de los cuentos resultan muy interesantes, ya que narran un episodio único de lo que se siente es una vida completa. A veces pareciera suceder que el cuento trata de tal o cual cosa, y al final te sorprende con un cambio en el enfoque o un final.",
+    "price": 133,
+    "stock": 4,
+    "publishedDate": "2016",
+    "image": "http://books.google.com/books/content?id=iqKcswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  
+  
+  {
+    "id": "Ndo_ay7qFBEC",
+    "title": "Mal Despertar",
+    "authors": [
+      "Antonio Aguilera C."
+    ],
+    "publisher": "Palibrio",
+    "gender": [
+      "Cuentos"
+    ],
+    "description": "Antonio Aguilera C. nos ofrece, en su segunda novela publicada, una nueva muestra de narración trepidante con sucesivos episodios vibrantes. Drogas, diamantes, secuestros y la cárcel son elementos que van apareciendo, en el momento oportuno, a lo largo del relato y que sin duda ofrecen una lectura atractiva y llena de emoción.",
+    "price": 30,
+    "stock": 22,
+    "publishedDate": "2012",
+    "image": "http://books.google.com/books/content?id=Ndo_ay7qFBEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  
+  
+  {
+    "id": "w3CcpwAACAAJ",
+    "title": "La Maquina de la Muerte",
+    "authors": [
+      "Ryan North",
+      "Matthew Bennardo",
+      "David Malki"
+    ],
+    "publisher": "B BRUGUERA (SELLO)",
+    "gender": [
+      "Cuentos"
+    ],
+    "description": "La máquina fue inventada hace unos años: una máquina que te revela, a partir de una simple muestra de sangre, de qué morirás. No te da una fecha o los detalles. Tan sólo te escupe un papel donde hay escrito las palabras CANCER, VEJEZ, hasta las situacione",
+    "price": 225,
+    "stock": 22,
+    "publishedDate": "2012",
+    "image": "http://books.google.com/books/content?id=w3CcpwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "ainAPAAACAAJ",
+    "title": "Cuentos que curan",
+    "authors": [
+      "Bernardo Ortín Pérez",
+      "Bernardo Ortín",
+      "Trinidad Ballester"
+    ],
+    "publisher": "Oceano Ambar",
+    "gender": [
+      "Cuentos"
+    ],
+    "description": "Los cuentos nos conectan con nuestros deseos más profundos, ya que nos permiten imaginar el mejor de los mundos y viajar a nuestro propio centro. Este libro nos enseña cómo los relatos son una vía privilegiada para conocernos mejor, crecer y disfrutar de la vida. Cuentos que curan es un libro excelente para los amantes de los relatos que quieren profundizar en su estructura y significado, y también para quienes deseen iniciarse en la escritura creativa y el arte de los cuentos en general, tanto en solitario como para trabajar en pareja o en grupo.",
+    "price": 313,
+    "stock": 33,
+    "publishedDate": "2005",
+    "image": "http://books.google.com/books/content?id=ainAPAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "uy_W2BxlWbMC",
+    "title": "Debajo del sillón",
+    "authors": [
+      "Margaret Mahy"
+    ],
+    "publisher": "Intermón Oxfam Editorial",
+    "gender": [
+      "Poesía"
+    ],
+    "description": "\"Cuándo papá pierde las llaves del coche, María, que apenas tiene dos años, sospecha que están debajo del sillón. Participa en la divertida búsqueda de esta familia y verás cómo encuentran todo tipo de cosas debajo del sillón, desde un ratón orejudo y un abejorro, hasta una sarta de perlas y un león con rizos. ¿Bastarán esas cosas para salvar a la familia de la grave situación que atraviesa?\"--Publisher's description.",
+    "price": 464,
+    "stock": 29,
+    "publishedDate": "2010",
+    "image": "http://books.google.com/books/content?id=uy_W2BxlWbMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  
+  
+  {
+    "id": "Px7XSAAACAAJ",
+    "title": "Hagamos caso al tigre",
+    "authors": [
+      "Ana Merino"
+    ],
+    "publisher": "Anaya Infantil",
+    "gender": [
+      "Poesía"
+    ],
+    "description": "Los ojos del gato que no parpadea son grandes ventanas que nunca se cierran. Cocodrilos y ovejas, monstruos y sirenas, arañas y dragones... Animales y seres estrafalarios pasean por las páginas de este libro entre versos llenos de ritmo para descubrirnos algunos secretos que tienen muy escondidos.",
+    "price": 161,
+    "stock": 38,
+    "publishedDate": "2010",
+    "image": "http://books.google.com/books/content?id=Px7XSAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "A833BPr1hkkC",
+    "title": "Con los ojos abiertos",
+    "authors": [
+      "Jorge Riechmann"
+    ],
+    "publisher": "Ediciones BAILE DEL SOL",
+    "gender": [
+      "Poesía"
+    ],
+    "description": "Wallace Stevens, hacia 1950, consideraba que los grandes poemas del cielo y del infierno ya se habían escrito, mientras que el de la Tierra permanecía inédito. Quizá nuestra aparente incapacidad para morar sobre este planeta sin dañarlo irreversiblemente tenga algo que ver con esta situación —en principio tan paradójica— en el ámbito de la poesía. Vivir en esta tierra/ Tierra, sin trascendencias falsas –ni escapatoria al cosmos, ni adoración de ídolos--, es un proyecto que comparten el ecologismo y la poesía moderna. La insistencia en el darnos límites y en la aceptación de los límites naturales puede verse, desde otro ángulo, como una determinación de luchar contra la falsa trascendencia. Con palabras inolvidables lo expresó el poeta René Char: “Nos cerca una intolerancia demente. Su caballo de Troya es la palabra felicidad; esto me parece mortal. Estoy hablando, hombre sin pecado original sobre una tierra presente. No tengo mil años ante mí. No me expreso para los hombres del lejano futuro que serán —¿cómo dudarlo?— tan desdichados como nosotros. Se acostumbra a extender, a guisa de tentación, la clara sombra de un gran ideal delante de lo que llamamos -por comodidad- nuestro camino. ¡Pero ese trazo sinuoso ni siquiera puede elegir entre la inundación, los hierbajos y el fuego! La prometida edad de oro no merecería tal nombre sino en el presente. La perspectiva de un risueño paraíso destruye al ser humano. La totalidad de la aventura humana desmiente el paraíso, pero estimulándonos y no quebrantándonos.” Frente a la teología del mercado y la libido de los grandes almacenes, la fundación de una civilización alternativa.",
+    "price": 178,
+    "stock": 47,
+    "publishedDate": "2007",
+    "image": "http://books.google.com/books/content?id=A833BPr1hkkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": "Dh1_S5GxRhIC",
+    "title": "El teatro en América Latina",
+    "authors": [
+      "Adam Versenyi",
+      "Adam Versényi"
+    ],
+    "publisher": "Ediciones AKAL",
+    "gender": [
+      "Teatro"
+    ],
+    "description": "Adam Versényi indaga en la historia del teatro latinoamericano desde la época precolombina hasta el drama contemporáneo. El teatro en América Latina ha sido históricamente una poderosa fuerza para el cambio social y frecuentemente ha combinado lo religioso y lo político con la práctica del espectáculo para crear un estilo de drama típico de la región. Versényi investiga esta específica interconexión de religión, política y teatro, llegando a la conclusión de que está presente ya desde los primeros contactos entre Cortés y los aztecas, y a través de la influencia española en el drama contemporáneo de marcada carga política en países como Cuba, Argentina, Chile y otros. Su estudio no sólo entrega una historia teatral de América Latina, sino que ofrece una detallada explicación de cómo los elementos teatrales, políticos y teológicos se han mezclado consistentemente en la historia de América Latina, y por qué ha sido así.",
+    "price": 294,
+    "stock": 4,
+    "publishedDate": "1996",
+    "image": "http://books.google.com/books/content?id=Dh1_S5GxRhIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+
+  {
+    "id": "pZ-KP8uGK00C",
+    "title": "Perspectivas interculturales en el aprendizaje de idiomas",
+    "authors": [
+      "Michael Byram",
+      "Michael Fleming"
+    ],
+    "publisher": "Cambridge University Press",
+    "gender": [
+      "Teatro"
+    ],
+    "description": "This book discusses the importance of sensitivity to cultural differences for language learners.",
+    "price": 252,
+    "stock": 10,
+    "publishedDate": "2001",
+    "image": "http://books.google.com/books/content?id=pZ-KP8uGK00C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  
+  
+  
+  
+  
+  {
+    "id": "ZG8HAQAAIAAJ",
+    "title": "El eterno femenino",
+    "authors": [
+      "Rosario Castellanos"
+    ],
+    "publisher": "Fondo de Cultura Economica",
+    "gender": [
+      "Teatro"
+    ],
+    "description": "\"A Rosario Castellanos Ie intereso siempre el teatro como medio de expresion, como manera de lIegar a un publico mas amplio y diverso y de poder comunicarse con el. Sin embargo, no se dedico al genero hasta muy tarde y nunca lIego a publicar esta obra que termino de escribir pocos meses antes de su muerte. EI tema de la mujer, de su situacion en el mundo, fue una de sus preocupaciones constantes. Asi, no es de extranar que El eterno femenino tenga un caracter abiertamente feminista, sin perder por eso la ternura y el buen humor que caracterizan toda la produccion que nos ha dejado Rosario Castellanos en la Iirica y en la prosa.\"--Back cover.",
+    "price": 414,
+    "stock": 32,
+    "publishedDate": "1975",
+    "image": "http://books.google.com/books/content?id=ZG8HAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  
+  {
+    "id": "D8iNxZluEHsC",
+    "title": "La música poprock y El teatro contemporáneo",
+    "authors": [
+      "Héctor Fouce",
+      "Merce Saumell"
+    ],
+    "publisher": "Editorial UOC",
+    "gender": [
+      "Teatro"
+    ],
+    "description": "El teatro vivió su renovación a partir de 1960. Tal como ya había pasado con las artes plásticas, la escena rompió con el realismo y las representaciones tradicionales. Aquí empieza el teatro contemporáneo. Sin la música pop y rock, la segunda mitad del siglo XX habría sido probablemente diferente. Este libro traza la evolución de esta música popular y analiza la gran influencia que ha tenido.",
+    "price": 5,
+    "stock": 33,
+    "publishedDate": "2008",
+    "image": "http://books.google.com/books/content?id=D8iNxZluEHsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": "N8yTBQAAQBAJ",
+    "title": "Tablas",
+    "authors": [
+      "Jan Peter Nauta"
+    ],
+    "publisher": "Cambridge University Press",
+    "gender": [
+      "Teatro"
+    ],
+    "description": "Tablas offers advanced students the opportunity to improve their Spanish communication while planning and staging a theatrical production. Scripts and detailed suggestions for staging allow students to improve written comprehension while working with engaging and practical material.",
+    "price": 480,
+    "stock": 36,
+    "publishedDate": "2014",
+    "image": "http://books.google.com/books/content?id=N8yTBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": "vpS_AAAACAAJ",
+    "title": "Sociología del teatro",
+    "authors": [
+      "Jean Duvignaud"
+    ],
+    "publisher": "Fondo de Cultura Economica USA",
+    "gender": [
+      "Teatro"
+    ],
+    "description": "El teatro es un arte arraigado como ningun otro en la trama palpitante de la experiencia colectiva y es sensible a todas las convulsiones de la vida social. Asi, el arte alcanza un grado que va mas alla de la literatura escrita, y convierte la estetica en accion social.",
+    "price": 8,
+    "stock": 14,
+    "publishedDate": "1981",
+    "image": "http://books.google.com/books/content?id=vpS_AAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "IYeJEAAAQBAJ",
+    "title": "La venganza de los bibliotecarios",
+    "authors": [
+      "Tom Gauld"
+    ],
+    "publisher": "SALAMANDRA GRAPHIC",
+    "gender": [
+      "Humor"
+    ],
+    "description": "Nuevas tiras cómicas del dibujante que ama los libros, que regresa con su punzante humor con La venganza de los bibliotecarios. Con su estilo más que reconocible, a Tom Gauld no hay objetivo que se le resista: es capaz de abordar cualquier temática con su mirada irónica y certera. En esta ocasión, regresa al mundo literario para poner el foco en el templo de los libros y sus guardianes: bibliotecas y bibliotecarios. Con la inteligencia sin pretensiones a la que nos tiene acostumbrados, dando rienda suelta a su amplio conocimiento acerca de las triquiñuelas del sector y sirviéndose de su habilidad para las analogías científicas y su reconocido gusto por la ciencia ficción, Gauld regresa con una colección de viñetas imperdible, que reúne lo mejor de sus publicaciones semanales de The Guardian. La venganza de los bibliotecarios viene a confirmar que su ingenio es inagotable. La crítica ha dicho: «Tom Gauld es siempre divertido, pero lo es de una forma que te hace sentir inteligente.» Neil Gaiman «Las caricaturas esquemáticas [de Tom Gauld] añaden capas de significado incluso a las historietas de una sola viñeta e inyectan a lo ordinario un poco de lo fantástico. Encantador y sin pretensiones, todo lector puede admirar algo en la obra de Gauld.» The Comics Journal «El trabajo de Gauld me atrae más como amante de los libros: de cada una de las piezas surgen bromas que conectan con las comunidades de la ciencia ficción o la literatura, y denuncian por igual el esnobismo literario y a los fanáticos pedantes.» The Verge «Un libro imprescindible para todo bibliófilo por poco sentido del humor que tenga. [...] Muy recomendable.» The Austin Chronicle",
+    "price": 68,
+    "stock": 33,
+    "publishedDate": "2022",
+    "image": "http://books.google.com/books/content?id=IYeJEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": "QHsrAwAAQBAJ",
+    "title": "Los cansados",
+    "authors": [
+      "Michele Serra"
+    ],
+    "publisher": "ALFAGUARA",
+    "gender": [
+      "Humor"
+    ],
+    "description": "¿Cuándo se ha visto un mundo en el que los viejos trabajan y los jóvenes duermen? La historia de un padre y su hijo adolescente que está conmoviendo a toda Italia. A lo mejor están en la habitación de al lado, o tal vez en otro lugar. En general duermen cuando los demás están despiertos, y velan cuando el resto del mundo duerme. Son los cansados: los hijos adolescentes. Michele Serra tiene una mirada implacable hacia los hijos y hacia los padres, y narra los conflictos, las ocasiones perdidas, el sentimiento de culpa. ¿Cuándo ha pasado? ¿Cómo ha pasado? ¿Dónde nos hemos perdido? ¿Bastará, para el reencuentro, la desesperada y patética invitación a dar juntos un paseo por la montaña? Entre tormentas afectivas y sátira social, Los cansados penetra en el mundo desconocido de los hijos y en el no menos desconocido de los «postpadres». Un viaje hacia una generación que se ha extendido horizontalmente por el mundo y quizás desde esa postura pueda ver cosas que los «erectos» todavía no ven o ya no quieren ver. La crítica ha dicho... «Un libro muy tierno, donde la ironía y la fuerza satírica alternan con momentos conmovedores, con una nostalgia lírica de rara intensidad y una escritura de gran pureza y belleza.» Massimo Recalcati, La Repubblica «Diálogo sin interlocutor, diario familiar, carta abierta, sátira social y hasta novela fantasticoapocalíptica. Los cansados es una larga reflexión entretejida de ironía, sentimientos de culpa, amor y asombro acerca del arduo oficio de la paternidad.» Paolo Di Stefano, Corriere della Sera «Con la leve seriedad que caracteriza su escritura, Serra analiza la distancia que lo separa de su hijo. En 150 páginas cargadas de cariño, dudas, ternura e ironía, describe las sensaciones de un padre hacia su hijo de diecinueve años.» Antonella Sbriccoli, Panorama «Los cansados hace reír y hace sufrir porque revela nuestros sentimientos más profundos: por un lado, el sufrimiento por estar perdidos, casi derrotados, delante de esa montaña altísima, pero tumbada en el sofá, que es esta juventud que no tiene ni siquierala necesitad de rebelarse; y por el otro, la comicidad que se halla en las cosas propias de la adolescencia.» Annalena Benini,Il Foglio «Autocrítica, reflexiva y llena de humor y sátira sobre padres e hijos, Los cansados retrata a la primera generación real del mundo dual, analógico y digital.» El País «Breve e intenso, ha situado un espejo descarnado delante de miles de padres que ven cómo su hijo se les escapa.» La Vanguardia «Un ensayo revelador sobre las nuevas generaciones de jóvenes enganchados al móvil.» Los semáforos, La Vanguardia «Escrito con una ironía que no esconde la amargura, este libro se está convirtiendo en viral.» Tiempo «Los cansados sirve a los jóvenes como manual para enfrentar a sus padres y a los mayores cómo curso acelerado para entender a sus hijos.» Glamour «Los cansados ha de ser leído con la atención que demanda un asunto que nos compete y cuyas certezas son algo más que meras anécdotas de convivencia. El humor, aunque indispensable, si se trata de padres e hijos, no alivia gravedad de las emociones.» Revista Leer «Supongo que muchos padres españoles se reirán con el libro de Michele Serra.» Luis García Montero «Una mirada implacable hacia los hijos y hacia los padres. [...] Momentos hilarantes se alternan con reflexiones tiernas y profundas sobre el oficio de ser padres y el perpetuo conflicto generacional implícito en la relación padre-hijos.» Diario de Ávila",
+    "price": 222,
+    "stock": 8,
+    "publishedDate": "2014",
+    "image": "http://books.google.com/books/content?id=QHsrAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": "ISxzZ57V9cQC",
+    "title": "La sanguijuela de mi niña",
+    "authors": [
+      "Christopher Moore"
+    ],
+    "publisher": "La Factoría de Ideas",
+    "gender": [
+      "Humor"
+    ],
+    "description": "La vida de los vampiros es todo romanticismo y poesía... ¿o no? Cuando la joven Jody se despierta una mañana con parte del cuerpo quemado y una sed de sangre terrible, tiene que enfrentarse a todos los aspectos prácticos de su nueva condición: dónde dormir, cómo conseguir sangre fresca, cómo mantener el tipo ante su madre... No parece una empresa fácil para una chica que no ha visto una película de vampiros en su vida. Cuando Thomas, un escritor frustrado y dependiente a tiempo parcial, se cruza en su vida, Jody coge la oportunidad por el cuello... literalmente.",
+    "price": 460,
+    "stock": 45,
+    "publishedDate": "2012",
+    "image": "http://books.google.com/books/content?id=ISxzZ57V9cQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": "HBCtEAAAQBAJ",
+    "title": "Dominga habla sola",
+    "authors": [
+      "Elisabeth Justicia"
+    ],
+    "publisher": "AGUILAR",
+    "gender": [
+      "Humor"
+    ],
+    "description": "El primer libro ilustrado con viñetas y textos de @dominga_habla_sola, la cuenta más tierna, gamberra y viral de Instagram que ya ha conquistado a cientos de miles de personas y está a punto de conquistar tu corazón. Dominga habla sola ¡y a veces hasta se da la razón! La anciana más tierna, gamberra y viral de las redes nos muestra su ingenio y su filosofía vital en este libro de viñetas y textos en el que recopila algunas de sus más conocidas escenas junto a otras muchas ilustraciones inéditas. En estas páginas Dominga reflexiona sobre la soledad (la elegida y la obligada), el miedo (como obstáculo y como reto) y el paso del tiempo (que a veces vuela y otras se hace eterno), y a través de ello nos habla de otras muchas cosas, como las emociones, el feminismo, la salud mental o el edadismo. Siempre a través de la ironía deslenguada y la sabiduría que solo alguien que ha vivido mucho puede permitirse. La ilustradora y diseñadora Elisabeth Justicia ha construido un personaje maravilloso, con alma propia, que da visibilidad a las personas mayores y sus problemáticas, que en el fondo no dejan de ser un reflejo de las de nuestra sociedad.",
+    "price": 248,
+    "stock": 11,
+    "publishedDate": "2023",
+    "image": "http://books.google.com/books/content?id=HBCtEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": "mEhGDwAAQBAJ",
+    "title": "El fruto prohibido",
+    "authors": [
+      "Liv Strömquist"
+    ],
+    "publisher": "RESERVOIR BOOKS",
+    "gender": [
+      "Humor",
+      "Graphic Novels"
+    ],
+    "description": "Una novela gráfica que toda madre debería regalar a su hija, ¡y toda hija a su pareja! El cómic feminista sobre la historia cultural de la vulva (dejaos de vaginas) que está cambiando el mundo. #VivaLaVulva Cierta parte de la anatomía femenina ha suscitado a lo largo de la historia, y sigue suscitando, el interés digamos que «vivo» de ciertos representantes del género masculino. Pero... los más ilustres próceres no han dado pie con bola en milenios. El fruto prohibido es una historia cultural de la vulva, desde la Biblia hasta Freud y más allá, pasando por los más variopintos padres de la Iglesia, pedagogos, sexólogos e incluso por famosos anuncios de tampones que, tras siglos y siglos de represión sexual, han seguido llenando nuestras cabezas de concepciones falsas sobre los genitales femeninos. En siete capítulos, de manera desenfadada y lúcida, Liv Strömquist cuestiona la mirada del patriarcado al órgano sexual de las mujeres y denuncia los problemas que se siguen de ella. El fruto prohibido sorprende por la justicia y la claridad de su análisis, por el interesante manejo de conceptos políticos, científicos y sociológicos, por la gracia con la que confronta presente y pasado, por sus paralelismos sorprendentes y, sobre todo, por su humor omnipresente y vitriólico. Críticas: «Liv Strömquist es esa dibujante de las costumbres humanas que jamás irá con el freno de mano puesto. Con paso decidido y sin ningún tipo de dilación, es capaz de transformar teorías sociales avanzadas en viñetas diáfanas que además le dan a la indignación un contrapunto hilarante.» Aftonbladet «Un excelente cómic llegado de Suecia: feminista, cáustico, instructivo y terriblemente divertido.» Time Out Paris «Las partes íntimas de la mujer son un campo de batalla que ha sido explicado o bien en términos místicos o bien estigmatizándolo y reduciéndolo al tabú. Señoras y señores, Liv Strömquist ha llegado para cambiarlo.» tip Berlin «El cómic feminista que llama a la vulva por su nombre.» Verne (El País)",
+    "price": 249,
     "stock": 25,
-    "publishedDate": "2012-09-04",
-    "image": "http://books.google.com/books/content?id=5PuMEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "publishedDate": "2018",
+    "image": "http://books.google.com/books/content?id=mEhGDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
   },
   {
-    "id": "noq5DwAAQBAJ",
-    "title": "Borges profesor",
+    "id": "9Wy4EAAAQBAJ",
+    "title": "Amor en arriendo",
     "authors": [
-      "Jorge Luis Borges"
+      "Tamara Kruger"
+    ],
+    "publisher": "PLAZA & JANES",
+    "gender": [
+      "Humor"
+    ],
+    "description": "Una comedia romántica trepidante y en clave millenial. Emilia es una chica tímida y superada por su contexto: las deudas, la enfermedad de su madre, una relación estancada y los dolores de cabeza que le genera el centro comercial que administra, la tienen al borde del colapso. Todo cambiará con la llegada de Mateo, su amor platónico del colegio, quien asoma por el recinto buscando un local para abrir su clínica veterinaria. En medio de cafés veganos, tiendas de carcasas, farmacias y centros de estética, los protagonistas deberán enfrentar la verdad que los acecha y que no han querido aceptar: el amor que sintieron cuando eran apenas unos adolescentes, está más vivo que nunca. En su debut literario en Penguin Random House, Tamara Kruger presenta una comedia romántica desenfadada, que no tiene miedo a escarbar en las expectativas y frustraciones de aquella generación que egresó de la universidad llena de sueños y ahora intenta navegar con dificultad en el mundo real.",
+    "price": 289,
+    "stock": 27,
+    "publishedDate": "2023",
+    "image": "http://books.google.com/books/content?id=9Wy4EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": "tb8XEAAAQBAJ",
+    "title": "La filosofía de Mafalda",
+    "authors": [
+      "Quino"
     ],
     "publisher": "LUMEN",
     "gender": [
-      "Literary Criticism"
+      "Humor"
     ],
-    "description": "El libro que revela a Borges en su faceta docente, imprescindible para los amantes de su obra y de la literatura. «No lo cite: léalo. [...] Urge no ya leerlo o releerlo, sino, como sugería Bolaño, \"releerlo otra vez\".» Gonzalo Núñez, La Razón En 1966, Borges dictó un curso de literatura inglesa en la Universidad de Buenos Aires. Las clases fueron grabadas por algunos alumnos, que luego las transcribieron para que otros pudieran escucharlas. Las cintas originales se han perdido, pero los textos se han conservado hasta hoy. Tras un intenso trabajo de análisis e investigación de las fuentes, Martín Arias y Martín Hadis lograron compilar las transcripciones, sin modificar el lenguaje oral de Borges, que nos ha llegado intacto. La pasión de Borges, conjugada con su memoria casi infalible, hace de este libro una obra esencial para los admiradores del gran escritor argentino y los amantes de la literatura. Reseñas: «Borges es el escritor en español más importante desde Cervantes. [...] Uno de los artistas contemporáneos más memorables. [...] La deuda que tenemos contraída con él quienes escribimos en español es enorme.» Mario Vargas Llosa «Uno de los escritores más extraordinarios del siglo xx.» The New York Times «Es un lugar común llamar maestro a un gran escritor. Pero algunos lo fueron realmente. Si ya se saben de memoria to- dos sus cuentos, Borges profesor recoge las clases de literatura inglesa que dio en la Universidad de Buenos Aires, a partir de las transcripciones de alumnos.» Xavi Ayén, La Vanguardia «Reflexiones cautivadoras, llenas calor y compromiso, con el fin de comunicar amor por sus obras y así arrastrar a sus alumnos a la lectura. [...] Un profesor ejemplar que recuerda muchísimo al soberano poeta y escritor que fue.» Ángel Rupérez,Babelia (\"De cómo enseñar a amar la literatura\") «A los dieciocho años descubrí a Borges. Leía, pero erráticamente. No sólo su literatura me deslumbró sino que lo que pasa con Borges es que él es toda la literatura, no solamente la europea sino la universal. Fui leyendo a todos los autores que indicaba. Me ha formado mi gusto literario.» Jacobo Siruela, El Mundo «La naturaleza informal de esos registros aporta un punto de vista distinto, pero no por ello menos luminoso: ese Borges de modesta pedantería, que habla como escribe y mantiene la pulcritud de su discurso.» Karina Sainz Borgo, Vozpópuli «Junto con un pequeño séquito de colegas y profetas (se me ocurren Kafka y Joyce), Borges es más que un cuentista sorprendente y un brillante estilista: es un espejo que refl eja el espíritu de su tiempo.» Chicago Tribune «Gracias a la minuciosa reconstrucción filológica de Arias y Hadis tenemos la ocasión de asistir a las clases de Borges: [...] los admiradores del escritor estamos de enhorabuena.» José Luis García Martín, El Comercio - Cultura «Borges, visionario escéptico, nos fascina. [...] Cumple con nuestro anhelo esencial en cuanto a las razones por que leemos.» Harold Bloom, Cómo leer a Jorge Luis Borges",
-    "price": 226,
-    "stock": 39,
-    "publishedDate": "2019-11-01",
-    "image": "http://books.google.com/books/content?id=noq5DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "description": "El pensamiento vivo de Mafalda, «una heroína de nuestro tiempo» (Umberto Eco) «La filosofía de Mafalda, ya un clásico, supone la vuelta en tiras esta primavera de la \"hija\" de Quino. Los bocados mafaldinos son un trago de humor negro pero siempre con un punto soñador que ayuda a refrescar el viaje. [...] Mafalda nos columpia de la carencia al ideal para traernos siempre de vuelta a la realidad. La suya es una filosofía en pequeñas dosis para aprender a aterrizar.» Ana Abelenda, La Voz de Galicia Podrían decirse muchas sutilezas del mundo, pero hay que reconocer que a menudo puede parecer un inmenso plato de sopa. ¿Y qué decir de la humanidad que lo habita? Aunque parezca incorregible, tratar de comprenderla y de aportar su granito de arena para mejorarla, como hace una pequeña filósofa como Mafalda, es la tarea a la que nos invita Quino, una y otra vez, a través de sus tiras. La crítica ha dicho... «Las ocurrencias más sabias de la hija de Quino: un cerebro contra los lugares comunes, los tedios y las violencias aprendidas. Mafalda era una humanista, una niña Sócrates que miraba la vida con agudeza, con curiosidad, con alegría, con dudas y con templanza. [...] Era una cría contestataria de los setenta, una rebelde de su tiempo y del nuestro, una punk enana y cabezona que no envejeció en cincuenta años de viñetas, que jamás pasó por el aro, que jamás se acomodó al discurso dominante. Un ser lleno de preguntas y de reveses. Puro combate dialéctico. Puro pensamiento diáfano. [...] Sabemos que lo de Mafalda era filosofía porque molestaba.» Lorena G. Maldonado, El Español «Una niña que con alegría, desparpajo y curiosidad decía verdades evidentes que a menudo a los adultos se nos olvidan. La filosofía de Mafalda reúne algunas de las mejores viñetas de su \"pensamiento\". [...] Mafalda es Sócrates porque nos invita a un banquete platónico donde los comensales son sus amigos, su hermano Guille, y sus amigos Felipe, Manolito, Susanita, Miguelito y Libertad.» César Suárez, Telva «A través de sus pinceladas, Quino creó una escuela de pensamiento caracterizada por la pluralidad [...] y nosotros, los lectores, aprendemos con [Mafalda] como si fuera una maestra en la búsqueda de nuevas ideas. [...] Ha ocurrido prácticamente desde su nacimiento: sus viñetas son y seguirán siendo una ventana desde la que mirar la sociedad en la que vivimos.» José Antonio Luna, elDiario «Mirá que cambiaste el mundo con tus dibujitos, ¡eh! Lo mejoraste bastante. No, no alcanzó. Nunca alcanza. No hay témpera blanca que lo corrija. [...] ¡Y tus páginas! Filosofía y poesía. Crítica feroz y ternura. Un pibe de ocho años y un viejo sabio en los mismos zapatos.» Tute «Los lúcidos mensajes de Quino siguenvigentes por haber combinado con sabiduría la simplicidad en el trazo del dibujo con la profundidad de su pensamiento. La obra de Quino conlleva un enorme valor educativo y ha sido traducida a numerosos idiomas, lo que revela su dimensión universal. Sus personajes trascienden cualquier geografía, edad y condición social.» Acta del jurado de los Premios Príncipe de Asturias «Seguro que le debo mucho a Quino como humorista gráfico, pero más le debo como persona. Su mirada del mundo me llegó de niño de la mano de Mafalda, y como todo lo que descubrimos en la infancia, entró directo a mi ADN.» Liniers «Era un dibujante austero. Un contenido progresista que sigue vigente cuarenta años después, lo cual supone que vaticinó lo que iba a venir, o que la sociedad no ha cambiado mucho. [...] Quino buscaba la eficacia social, no por lucimiento gráfico ni personal. Es un tipo de dibujo muy ético.» El Roto «Lo intuíamos. El verdadero Principito era Quino.» Miguel Rep «Qué importante has sido en nuestras vidas. [...] Siempre estaban tus viñetas dando sentido a los detalles absurdos de la vida y la sociedad. Cada lección era un guiño de risa silenciosa que se volvía carcajada y suspiro, filosofía pura, crítica social, lenguaje de gestos expresivos y pequeños detalles, el humor más refinado concentrado en los dibujos. Qué gran compañero has sido.» Ana Merino «Un príncipe del humor. Un faro cuya luz ha iluminado el papel en blanco en el que muchos dibujantes hemos ido dejando nuestros primeros trazos, nuestras primeras ideas. Hay quienes nos consideramos hermanos de tinta de Mafalda.» Pinto & Chinto, La Voz de Galicia «Quino, el grande Quino, seguirá vivo en su Mafalda, que nos enseñó que, como siempre, lo urgente no deja tiempo para lo importante.» Héctor Abad Faciolince «Nunca he amado a una mujer que no haya amado previamente a Mafalda.» Manuel Jabois «Las nuevas generaciones siguen leyendo a Mafalda con regocijo. No es un simple vestigio del pasado o un recuerdo nostálgico, sino un personaje muy vivo que sigue incendiando conciencias y promoviendo el inconformismo.» Rafael Narbona, El Cultural «Como Charlie Brown o Nancy, Mafalda es un instrumento para proyectar, a través de la infancia, las miserias de los adultos y las contradicciones de este valle de lágrimas. ¡Aleluya!» Vicent Sanchis, Catorze",
+    "price": 312,
+    "stock": 0,
+    "publishedDate": "2021",
+    "image": "http://books.google.com/books/content?id=tb8XEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
   },
   {
-    "id": "FwaLE_sONaQC",
-    "title": "Borges ante el espejo",
+    "id": "AUdSAwAAQBAJ",
+    "title": "Lo mejor de Maitena",
     "authors": [
-      "Justo R. Molachino",
-      "Jorge Mejía Prieto"
-    ],
-    "publisher": "LD Books",
-    "gender": [
-      "Biography ",
-      " Autobiography"
-    ],
-    "description": "This collection of writings of Jorge Luis Borges and others provides a glimpse into Borges's life.",
-    "price": 364,
-    "stock": 27,
-    "publishedDate": "2005",
-    "image": "http://books.google.com/books/content?id=FwaLE_sONaQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-  },
-  {
-    "id": "HjozDQAAQBAJ",
-    "title": "Homenaje a Borges",
-    "authors": [
-      "María Kodama"
+      "Maitena"
     ],
     "publisher": "SUDAMERICANA",
     "gender": [
-      "Biography ",
-      " Autobiography"
+      "Humor"
     ],
-    "description": "A treinta años de la muerte de Borges, su viuda, María Kodama, presenta al gran público, por primera vez y a manera de homenaje, una selección de las cientos de conferencias que ha dado sobre él y su obra en todo el mundo. Kodama recorre tópicos indispensables de la obra borgeana y aspectos poco conocidos de la intimidad de Borges y de la relación que la unió a él desde sus dieciséis años.",
-    "price": 65,
-    "stock": 43,
-    "publishedDate": "2016-08-01",
-    "image": "http://books.google.com/books/content?id=HjozDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "description": "La mejor selección del humor de Maitena.",
+    "price": 141,
+    "stock": 30,
+    "publishedDate": "2013",
+    "image": "http://books.google.com/books/content?id=AUdSAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
   },
   {
-    "id": "0NcCEAAAQBAJ",
-    "title": "Borges",
+    "id": "j2SmEAAAQBAJ",
+    "title": "111 cosas que podrías hacer en lugar de depilarte",
     "authors": [
-      "Enrique Gallud Jardiel"
+      "Alexis Ortiz"
     ],
-    "publisher": "Editorial Verbum",
+    "publisher": "MOLINO",
     "gender": [
-      "Biography ",
-      " Autobiography"
+      "Humor"
     ],
-    "description": "Jorge Luis Borges (1899-1986) es, sin duda alguna, uno de los más grandes genios que ha dado la literatura. Este poeta y narrador argentino, de extraordinaria cultura literaria y excepcionales dotes creadoras, se inició en el ultraísmo para derivó hacia un estilo propio, original e inigualable. En sus temas, locales o universales, se encuentran las más bellas metáforas y los más intrincados símbolos. Su vida transcurrió entre libros, que eran su pasión, pues fue bibliotecario durante muchos años. Se mostraba más orgulloso de los libros que había leído que de los que había escrito. Por una de esas terribles ironías del destino, esta persona, nacida para leer, perdió la vista por una enfermedad. Los avatares de su vida se cuentan en esta biografía, bellamente ilustrada, que nos acercará a uno de los hombres que más han amado la cultura y el saber.",
-    "price": 113,
-    "stock": 42,
-    "publishedDate": "2020-10-14",
-    "image": "http://books.google.com/books/content?id=0NcCEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-  },
-  {
-    "id": "oahdAAAAMAAJ",
-    "title": "Expliquémonos a Borges como poeta",
-    "authors": [
-      "Angel Flores"
-    ],
-    "publisher": "Siglo XXI",
-    "gender": [
-      "Juvenile Nonfiction"
-    ],
-    "description": "En la lírica de Jorge Luis Borges, lector infatigable de diversas literaturas, convergen influencias tan dispares como los poetas metafísicos del siglo XVII inglés (John Donne, en especial), los expresionistas alemanes de fines del siglo XIX y los ultraístas españoles del XX. No obstante, el famoso autor argentino pronto quedó libre de estas influencias logrando crear una lírica que capta conmovedoramente ya sea su sentimiento trágico de la vida o las voces de los arrabales bonaerenses.",
-    "price": 61,
-    "stock": 32,
-    "publishedDate": "1984",
-    "image": "http://books.google.com/books/content?id=oahdAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-  },
-  {
-    "id": "TxMuDAAAQBAJ",
-    "title": "El tango",
-    "authors": [
-      "Jorge Luis Borges"
-    ],
-    "publisher": "SUDAMERICANA",
-    "gender": [
-      "Music"
-    ],
-    "description": "Cincuenta años después de pronunciadas, cuatro conferencias inéditas de Borges sobre el tango que abordan, a puro ingenio, desde sus orígenes en los arrabales de la Buenos Aires de antaño, sus raíces en la milonga y sus personajes (compadritos, \"niños bien\", mujeres de mala vida), hasta la figura de Carlos Gardel, el espíritu del \"tango llorón\", y el lugar del gaucho y las \"casas malas\" en su lírica.",
-    "price": 319,
-    "stock": 18,
-    "publishedDate": "2016-06-01",
-    "image": "http://books.google.com/books/content?id=TxMuDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-  },
-  {
-    "id": "iGaREAAAQBAJ",
-    "title": "Borges esencial. Edición Conmemorativa / Essential Borges: Commemorative Edition",
-    "authors": [
-      "Jorge Luis Borges"
-    ],
-    "publisher": "National Geographic Books",
-    "gender": [
-      "Fiction"
-    ],
-    "description": "Una nueva edición conmemorativa de la RAE y la ASALE que incluye lo mejor de la obra de Jorge Luis Borges. La obra fundamental del maestro de la ficción contemporánea. El presente volumen incluye los textos íntegros de Ficciones y El Aleph, dos de sus obras narrativas más representativas, así como una selección de sus poemas y textos ensayísticos. Una obra bella, pura y original escrita con un lenguaje aparentemente desnudo pero dotado de la precisión de un bisturí, y de un gran poder evocador y carga simbólica. Jorge Luis Borges nació el 24 de agosto de 1899 en Buenos Aires. Su obra ha sido traducida a más de veinticinco idiomas, y actualmente Jorge Luis Borges es considerado uno de los más importantes autores en lengua hispana de todos los tiempos. Murió en Ginebra el 14 de junio de 1986. ENGLISH DESCRIPTION A new, commemorative edition by the Real Academia Española and the ASALE that includes the best of Jorge Luis Borges’s work. The fundamental works of the master of contemporary fiction. This volume includes the unabridged texts of Ficciones and El Aleph, two of his most representative narrative works, as well as a selection of his poems and essays. A beautiful, pure, and original work, written in a bare style but with the precision of a scalpel, and with great evocative power and symbolic weight. Jorge Luis Borges was born on August 24, 1899, in Buenos Aires. His works have been translated into more than 25 languages, and Borges is currently considered one of the most important Spanish-language authors of all time. He died in Geneva in 1986.",
-    "price": 221,
-    "stock": 41,
-    "publishedDate": "2017-08-29",
-    "image": "http://books.google.com/books/content?id=iGaREAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-  },
-   {
-    "id": "6IBlAAAAMAAJ",
-    "title": "Borges crítico",
-    "authors": [
-      "Sergio Pastormerlo"
-    ],
-    "publisher": "Fondo de Cultura Economica USA",
-    "gender": [
-      "Literature"
-    ],
-    "description": "La obra de Jorge Luis Borges siempre ha suscitado profundos debates y reflexiones desde distintas perspectivas del mbito intelectual. Si bien es ampliamente reconocido por sus relatos y poemas, Borges, como lector apasionado, escribi constantemente sobre autores y libros desde una visi n que por su misma singularidad no dej de provocar controversias en la escena literaria. el autor propone un recorte particular: el del Borges cr tico, el lugar de la cr tica en su obra y las repercusiones de sus textos cr pticos en el marco de la literatura argentina.",
-    "price": 221,
-    "stock": 6,
-    "publishedDate": "2007",
-    "image": "http://books.google.com/books/content?id=6IBlAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-  },
-  {
-    "id": "cj5wEAAAQBAJ",
-    "title": "Reflejos de la memoria. Homenaje a Jorge Luis Borges",
-    "authors": [
-      "Varios Autores"
-    ],
-    "publisher": "Universidad de las Américas Ecuador",
-    "gender": [
-      "Fiction"
-    ],
-    "description": "\"Las revelaciones/destellos que el lector encontrará en este espejo son los recuerdos de un selecto grupo de jóvenes estudiantes rebeldes quienes, allá por el 78, un 29 de noviembre, organizaron en la Pontificia Universidad Católica del Ecuador un coloquio que les marcaría de por vida, hasta el punto de cambiar su visión de la existencia y autodefinirse como «borgeanos». Sus nombres resaltan en el horizonte intelectual y profesional del Ecuador, y hoy se juntan para dar identidad a esta compilación de testimonios sobre uno de los acontecimientos culturales más importantes que tuvo el país en la segunda mitad del siglo XX, el I Encuentro Iberoamericano de Escritores. A este conjunto de anécdotas se añade material invaluable: varios extractos inéditos del diálogo entre el escritor argentino y su auditorio, transcritos del único audio grabado aquel día. A los cuarenta y un años de la presencia de Jorge Luis Borges en Quito —que como exlibirs, se conserva perenne, fresca e intacta—, la Universidad de Las Américas se enorgullece en homenajear a quien, a todas luces, es la figura latinoamericana más relevante de la Literatura Universal.\"",
-    "price": 447,
-    "stock": 19,
-    "publishedDate": "2022-05-17",
-    "image": "http://books.google.com/books/content?id=cj5wEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-  },
-  {
-    "id": "VfZPAQAAIAAJ",
-    "title": "Borges",
-    "authors": [
-      "Emir Rodríguez Monegal"
-    ],
-    "publisher": "Fondo de Cultura Economica USA",
-    "gender": [
-      "Authors, Argentine"
-    ],
-    "description": "La vida de Jorge Luis Borges transcurrio, con excepcion de los dos viajes de juventud, apacible en Buenos Aires. No hay en esa vida mas que minimas anecdotas que dan cuenta de un hombre dedicado al culto de los libros en la extraordinaria biblioteca paterna y en la Biblioteca Nacional. Esas historias de la memoria personal que transcurrieron en aquellos espacios privilegiados, permiten reconocer los intimos lazos que anudan la obra y la vida de uno de los mayores escritores de nuestra lengua.",
-    "price": 6,
+    "description": "¿SABÍAS QUE DEDICAMOS UNA MEDIA DE 1.000 HORAS DE NUESTRA VIDA A DEPILARNOS? QUIZÁ HAYA LLEGADO EL MOMENTO DE HACER OTRAS COSAS CON NUESTRO TIEMPO. Un libro cargado de ideas para llenar tu vida de creatividad, diversión y buenos momentos. Nuestro tiempo es valiosísimo y quizá no haga falta invertir buena parte de él a quitarnos los pelos. En su lugar, nos podríamos dedicar a cosas mucho más interesantes como aprender a comunicarnos solo en memes, practicar la papiroflexia, usar la ouija para contactar con el espíritu de Marie Curie, batir un récord Guinness (el de más huevos rotos con la cabeza parece bastante accesible) o, no sé, incluso derribar el patriarcado. Porque no hay nada que una mujer con tiempo entre manos, y con (o sin) pelos en las piernas, no pueda hacer. Ilustrado por Rocío Vidal (@rainvart)",
+    "price": 77,
     "stock": 49,
-    "publishedDate": "1987",
-    "image": "http://books.google.com/books/content?id=VfZPAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "publishedDate": "2023",
+    "image": "http://books.google.com/books/content?id=j2SmEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  
+  {
+    "id": "sRqsEAAAQBAJ",
+    "title": "El amor según",
+    "authors": [
+      "Cristina Fuertes"
+    ],
+    "publisher": "RANDOM COMICS",
+    "gender": [
+      "Humor"
+    ],
+    "description": "El primer libro de Cris Fuertes, la ilustradora que ha revolucionado las redes sociales con su particular visión sobre el amor, siempre al ritmo de la mejor música. Cris Fuertes vive por y para la música, la literatura y el cine. El amor que siente por el arte le ha convertido en la artista que es hoy en día. El amor según es su primer libro, en el que ahondará en los acontecimientos más importantes de su vida: la muerte de su padre, las primeras relaciones, su trabajo, etc. A ratos a ritmo de los Beatles y de Julio Iglesias y a otros a ritmo de Leiva y Arctic Monkeys. A través de su estrechísima relación con la música -que está presente en todos y cada uno de los momentos reseñables de su vida- Cristina Fuertes construye este libro, que además cuenta con unas preciosísimas ilustraciones, muchas de ellas exclusivas. El amor según de Cristina Fuertes ofrece la oportunidad de que los lectores se metan de lleno en un diario privado; uno en el que la imagen ha sustituido la palabra porque esta ilustradora se expresa desde el dibujo con total sinceridad, sin esconder nada y sin dejar de retratarse en cada página. Con cientos de miles de seguidores en su cuenta de Instagram, (@cris.fuertes), donde no solo publica sus ilustraciones sino que habla de curiosidades del mundo de la música y de la literatura, la joven artista se ha convertido en una de las mejores evidencias del poder que la música tiene sobre las emociones, los sentimientos y los recuerdos. El resultado es un libro para disfrutar, en el que abrir cualquier página hará que el lector conecte directamente con algún momento de su pasado o su presente y que, a través de la vida de Cris Fuertes y de la música, pueda emocionarse, reflexionar, reír, llorar y, por qué no, volver a enamorarse.",
+    "price": 230,
+    "stock": 44,
+    "publishedDate": "2023",
+    "image": "http://books.google.com/books/content?id=sRqsEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
   },
   {
-    "id": "fJ1BM2gJEcgC",
-    "title": "Pablo Neruda para niños",
+    "id": "JZZWEAAAQBAJ",
+    "title": "Hierba",
     "authors": [
-      "Pablo Neruda"
+      "Keum Suk Gendry-Kim"
     ],
-    "publisher": "Ediciones de la Torre",
+    "publisher": "RESERVOIR BOOKS",
     "gender": [
-      "Comics ",
-      " Graphic Novels"
+      "Humor"
     ],
-    "description": "Enamorado de la vida y de las causas de los oprimidos, Neruda, poeta del amor y la libertad (premio Nobel de Literatura 1971), representa y sintetiza todo el vigor y contradicciones de un mundo a la vez muy reciente y antiguo: América del Sur.",
-    "price": 470,
-    "stock": 13,
-    "publishedDate": "1996",
-    "image": "http://books.google.com/books/content?id=fJ1BM2gJEcgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-  },
- 
-  {
-    "id": "vGqREAAAQBAJ",
-    "title": "Neruda. Poesía de amor. De tus caderas a tus pies quiero hacer un largo viaje / Love Poetry",
-    "authors": [
-      "Pablo Neruda",
-      "Mar Guixe"
-    ],
-    "publisher": "National Geographic Books",
-    "gender": [
-      "Poetry"
-    ],
-    "description": "El volumen Poesía de amor. De tus caderas a tus pies quiero hacer un largo viaje de la colección «Poesía portátil» reúne los mejores poemas de amor de Pablo Neruda. El Premio Nobel de Literatura Pablo Neruda es uno de los poetas en lengua española más leídos por todos los públicos, un autor que consiguió grabar en la memoria de jóvenes y adultos unos versos que se transmiten de generación a generación. Reunimos en este título algunos de los poemas de amor más emblemáticos de Neruda, desde sus primeros textos en Crepusculario o Veinte poemas de amor y una canción desesperada a sus Cien sonetos de amor. «Desnuda eres tan simple como una de tus manos, lisa, terrestre, mínima, redonda, transparente.» ENGLISH DESCRIPTION The volume Love Poetry: From Your Hips to your Feet, I Want to Make a Long Journey, from the collection \"Portable Poetry,\" gathers Pablo Neruda’s best love poems. Nobel Prize winner Pablo Neruda is one of the most read Spanish-language poets in all crowds; an author who has managed to engrave verses in the minds of young and old alike, which are passed down from generation to generation. In this book, we have collected some of Neruda’s most emblematic love poems, from his first texts in Crepusculario and Twenty Love Poems and a Song of Despair to his One Hundred Love Sonnets.",
-    "price": 320,
+    "description": "Una aclamada novela gráfica de no ficción sobre las \"mujeres de consuelo\" asiáticas en la Segunda Guerra Mundial. Hierba es la historia real de una superviviente: Lee Ok-Sun, una joven coreana que durante la Guerra del Pacífico fue explotada como «mujer de consuelo», el eufemismo utilizado por el ejército imperial japonés para referirse a sus esclavas sexuales. A día de hoy, aquel sigue siendo uno de los capítulos más oscuros del siglo XX. Partiendo de las entrevistas que mantuvo con Lee Ok-Sun en una residencia de ancianos, la autora ha narrado el devenir de su infancia en un ambiente extremadamente humilde, vendida sucesivamente a varias familias adoptivas, hasta que llegó la ocupación japonesa y en 1942 fue trasladada a la fuerza a una base aérea en China. CÓMIC DEL AÑO para The New York Times, The Guardian, Los Angeles Times, Library Journal. GANADOR DE LOS PREMIOS: Harvey Award, Krause Essay Prize, Cartoonist Studio Prize, Big Other Book Award, YALSA Book Award, Prix Bulles d'Humanité. FINALISTA DE LOS PREMIOS: Eisner Award, Believer Book Award, LA Times Book Prize, Ringo Award. La crítica ha dicho: «Una obra maestra del cómic biográfico e histórico, de la misma magnitud que Maus, Persépolis o El arte de volar.» La Repubblica «Atractivo y devastador, te romperá el corazón silenciosamente. Con toda probabilidad, el cómic del año.» The Guardian «Un testimonio íntimo y sobrio sobre unos hechos abominables.» Libération «Su dibujo poderoso, de trazo salvaje y negros muy densos, logra meternos de lleno en un reino de pesadilla.» New York Times Book Review «Golpea donde tiene que golpear.» South China Morning Post «Está a la altura de los grandes cómics sobre la Historia con mayúscula.» Quill and Quire «Un libro inquebrantable.» The New York Times «Hay que tener un talento extraordinario para convertir esta historia trágica en una lectura tan fascinante.» Montreal Review of Books «Duro y conmovedor. Gendry-Kim nos cuenta la formidable historia de Lee Ok-Sun con gracia, sentido de la estética y humildad. Como testimonio, merece ser encumbrado.» Publishers Weekly «Un libro bello y poderoso que a su vez transmite mucha humanidad, la historia de una superviviente... Uno de esos libros fundamentales que simplemente no se pueden olvidar.» Planete BD",
+    "price": 255,
     "stock": 23,
-    "publishedDate": "2017-10-31",
-    "image": "http://books.google.com/books/content?id=vGqREAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "publishedDate": "2022",
+    "image": "http://books.google.com/books/content?id=JZZWEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
   },
   {
-    "id": "Erg1DwAAQBAJ",
-    "title": "El cartero de Neruda",
+    "id": "bpTGh8-KlOgC",
+    "title": "Españistán",
     "authors": [
-      "Antonio Skarmeta"
+      "Aleix Saló"
     ],
     "publisher": "DEBOLS!LLO",
     "gender": [
-      "Fiction"
+      "Humor"
     ],
-    "description": "«Un canto emocionante a la poesía y al amor en sus más contundentes y jocundas expresiones de vitalidad». Miguel García-Posada, Babelia. Mario Jiménez, un joven pescador, decide abandonar su oficio para convertirse en cartero de Isla Negra, donde la única persona que recibe y envía correspondencia es el poeta Pablo Neruda. Jiménez admira a Neruda y espera pacientemente que algún día el poeta le dedique un libro, o que se produzca algo más que un brevísimo cruce de palabras y el pago de la propina. Su anhelo se verá finalmente recompensado y entre ambos se entablará una relación muy peculiar. Sin embargo, la enrarecida atmósfera que se vive en el Chile de aquellos años precipitará un dramático descenlace.",
-    "price": 238,
-    "stock": 7,
-    "publishedDate": "2017-09-01",
-    "image": "http://books.google.com/books/content?id=Erg1DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-  },
-  {
-    "id": "pqtz6V9g21wC",
-    "title": "Neruda y su tiempo: 1904-1949",
-    "authors": [
-      "David Schidlowsky"
-    ],
-    "publisher": "RIL Editores",
-    "gender": [
-      "Electronic books"
-    ],
-    "description": "Este libro es parte de la colección e-Libro en BiblioBoard.",
-    "price": 390,
-    "stock": 20,
-    "publishedDate": "2008",
-    "image": "http://books.google.com/books/content?id=pqtz6V9g21wC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-  },
-  {
-    "id": "TPZ7DwAAQBAJ",
-    "title": "Antología general (Edición conmemorativa de la RAE y la ASALE)",
-    "authors": [
-      "Pablo Neruda"
-    ],
-    "publisher": "LENGUA VIVA",
-    "gender": [
-      "Poetry"
-    ],
-    "description": "Lo mejor de la obra de Pablo Neruda en una antología preparada y avalada por la Real Academia Española y la Asociación de Academias de la Lengua Española. Un original itinerario cronológico por los escritos de Neruda, que entrelaza la prosa con la poesía, las cartas con los artículos periodísticos, y estos con las crónicas de viajes, hasta conformar una biografía vital y literaria del poeta a través de su obra. La compilación de la obra de Neruda ha estado a cargo del académico chileno Hernán Loyola, uno de los estudiosos del poeta más importantes, quien ha logrado perfilar una excelente guía para poder seguir, en doce capítulos, la aventura creadora del gran poeta. Los textos de Neruda vienen acompañados, además del de Loyola, de una serie de estudios de académicos de diversos países y de especialistas en la obra del poeta: Jorge Edwards, Alain Sicard, Selena Millares, Marco Martos Carrera, José Luis Vega, Pere Gimferrer, Andrés Gallardo, Francisco Brines y Eduardo Lizalde. La obra incluye un curioso texto inédito del poeta, la «Crónica de San Pancho», con el que el poeta quiso agradecer la protección que en 1948 le brindó una familia cuando era perseguido por sus ideas políticas. La crítica ha dicho sobre la colección de ediciones conmemorativas: «Un club [la colección de ediciones conmemorativas] que ya cuenta con invitados más que ilustres.» El País «Sean bienvenidas, por muchos motivos, estas ediciones conmemorativas auspiciadas por instituciones académicas del mayor rango. Unas ediciones que, por sus precios populares, y ahora que los buenos libros han pasado a ser un objeto de lujo, facilitan al gran público el acceso a unos autores que, paradójicamente, no por ser -clásicos- de la literatura en lengua castellana (antiguos o modernos) dejan de ser para algunos, aún hoy, unos grandes desconocidos.» El Imparcial",
-    "price": 148,
+    "description": "Una oportuna reflexión sobre la crisis española en clave de humor. Formato especial KF8 para tabletas Kindle. Esta es la historia de un cani (o un choni, o un poligonero, ya saben...) que, en su empeño por deshacerse de la hipoteca, deberá recorrer el Reino de Españistán para enfretarse con todos y cada uno de los malandrines, meapilas y soplagaitasque lo pueblan, dando lugar a un relato plagado de tópicos, tacos y faltas de ortografía, con bien de lobbies, parados, mileuristas, pensionistas, funcionarios, obispos, SGAE, telebasura, enchufes, sobornos y estilismos poligoneros.",
+    "price": 274,
     "stock": 23,
-    "publishedDate": "2018-12-03",
-    "image": "http://books.google.com/books/content?id=TPZ7DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "publishedDate": "2012",
+    "image": "http://books.google.com/books/content?id=bpTGh8-KlOgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
   },
   {
-    "id": "BhQN9QPFZ0kC",
-    "title": "Neruda y los escritores de la Edad de Oro",
+    "id": "DSGAvrYDMpwC",
+    "title": "Salome",
     "authors": [
-      "María Isabel López Martínez"
+      "Oscar Wilde"
     ],
-    "publisher": "Editorial CSIC - CSIC Press",
+    "publisher": "Courier Corporation",
     "gender": [
-      "Comics ",
-      " Graphic Novels"
+      "Humor"
     ],
-    "description": "Se hace un estudio de la estancia de Neruda en España (desde 1934 hasta la Guerra civil) y las relaciones con Lorca, Alberti, Miguel Hernández..., poetas que fomentan su gusto por los escritores de los Siglos de Oro. Durante el resto de su vida evocó este período, que le hizo valorar el mejor legado: la lengua. La segunda parte de la monografía se centra en los “Cien sonetos de amor”, un libro compuesto en la madurez, cuando se enamora de Matilde Urrutia. Escribe sonetos con huellas de los clásicos, pero con tersura contemporánea.",
-    "price": 262,
-    "stock": 30,
-    "publishedDate": "2009",
-    "image": "http://books.google.com/books/content?id=BhQN9QPFZ0kC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "description": "Wilde's notorious masterpiece enacts the biblical tale of a wanton woman's erotic dance and the martyrdom of John the Baptist. Complete English edition (1894) with illustrations by Aubrey Beardsley.",
+    "price": 123,
+    "stock": 49,
+    "publishedDate": "2002",
+    "image": "http://books.google.com/books/content?id=DSGAvrYDMpwC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
   },
   {
-    "id": "HAZ6tAEACAAJ",
-    "title": "Neruda: el llamado del poeta",
+    "id": "kZuSEAAAQBAJ",
+    "title": "Nostalgia Milenial: Sobreviviré",
     "authors": [
-      "Mark Eisner"
+      "Nostalgia milenial"
     ],
-    "publisher": "HarperCollins Espanol",
+    "publisher": "RANDOM COMICS",
     "gender": [
-      "Biography ",
-      " Autobiography"
+      "Humor"
     ],
-    "description": "Un convincente retrato biográfico de una de las figuras más fascinantes e influyentes en la historia de América Latina, Pablo Neruda. Pocos poetas han capturado la imaginación mundial como Pablo Neruda. En su país natal, Chile, como en toda América Latina y en muchas otras partes del mundo, su nombre y su legado se han convertido casi en un sinónimo de movimientos de liberación, y con el lenguaje del amor erótico. Este libro es el producto de quience años de investigación por Mark Eisner, escritor, traductor y director de documentales. El libro describe vívidamente su vida, prosa intensa y creencias fervientes en la «obligación del poeta» de usar la poesía para el bien social. Combina tres ámbitos principales de la vida de Neruda: su poesía aclamada mundialmente; su participación política; y su tumultuosa e incluso controversial vida personal; formando una narrativa coherente de intimidad y amplitud. Los acontecimientos fascinantes de la vida de Neruda se intercalan el análisis profundo de Eisner acerca de los poemas, tanto como obras de arte y como reflejo de la vida y época de Neruda. El resultado es un libro que trae a la luz la fascinante historia de la vida de Neruda de una manera nueva, que ofrece una atractiva versión narrativa de la vida y las obras de Neruda, apoyada en una investigación exhaustiva, pero diseñado para presentar esta colosal figura literaria a un público más amplio.",
-    "price": 292,
-    "stock": 5,
-    "publishedDate": "2018-05-01",
-    "image": "http://books.google.com/books/content?id=HAZ6tAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "description": "Preparate para desbloquear tus recuerdos porque vuelve la cuenta más delirante y divertida de Instagram con un segundo libro: Nostalgia milenial. ¿JUGABAS A LOS TAZOS EN EL RECREO? ¿COMÍAS VIENDO LOS SIMPSON EN ANTENA 3? ¿TE APRENDISTE DE MEMORIA EL ANUNCIO DE «MIS PEINADOS PREFERIDOS»? ¿LO DISTE TODO BAILANDO «LA BOMBA» Y «LA MAYONESA»? ¿APUNTASTE CON UN PUNTERO LÁSER A LOS OJOS DE OTROS NIÑOS? Si lo hiciste todo, no hay duda, eres milenial. Y, si a ti también te engañaron con eso de que ser mayor molaba, este es tu libro. Con él podrás viajar a aquellos increíbles años y olvidarte unas horas de la vida adulta. Recordarás la vuelta al cole, los juegos en la calle, los coleccionables más míticos, los juguetes, los helados y cientos de cosas más. Como diría Casper: «¿Te quedas conmigo?».",
+    "price": 388,
+    "stock": 46,
+    "publishedDate": "2022",
+    "image": "http://books.google.com/books/content?id=kZuSEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
   },
- 
- 
   {
-    "id": "bOxcEAAAQBAJ",
-    "title": "Pablo Neruda: Poet of the People (Bilingual Edition)",
+    "id": "5w9ACQAAQBAJ",
+    "title": "Mafalda 11",
     "authors": [
-      "Monica Brown"
+      "Quino"
     ],
-    "publisher": "Henry Holt and Company (BYR)",
+    "publisher": "Panarea Digital",
     "gender": [
-      "Juvenile Nonfiction"
+      "Humor"
     ],
-    "description": "A new Spanish and English bilingual edition of the stunning picture book biography of Pablo Neruda, one of the world's most enduring and popular poets, from the acclaimed Monica Brown. Había una vez un niño llamado Neftalí, quien amaba las cosas salvajes locamente y las cosas tranquilas serenamente. Desde el momento en que aprendió a hablar, se rodeó de palabras. Neftalí descubrió la magia oculta entre las páginas de los libros. Cuando tenía dieciséis años, comenzó a publicar sus poemas bajo el nombre Pablo Neruda. Pablo escribió poemas sobre las cosas que amaba: obras creadas por sus amigos artistas, objetos hallados en los mercados y elementos de la naturaleza. Escribió sobre la gente de Chile y su lucha por salir adelante. Porque sobre todas las cosas y sobre todas las palabras, Pablo Neruda amaba a la gente. Once there was a little boy named Neftalí who loved wild things wildly and quiet things quietly. From the moment he could talk, he surrounded himself with words, seeking comfort and inspiration from the magic he discovered between the pages of books. When he was sixteen, he began publishing his writing as Pablo Neruda. Pablo wrote poems about the things he loved—things made by his friends in the café, things found at the marketplace, and things he saw in nature. He wrote about the people of Chile and their stories of struggle. Because above all things and above all words, Pablo Neruda loved people. With a new translation of Monica Brown's lyrical text and Julia Paschkis' gorgeous art, which celebrates multiple languages, this new edition will introduce the youngest of readers—of English, Spanish, and both—to the legacy of one of history's most iconic talents.",
-    "price": 171,
-    "stock": 5,
-    "publishedDate": "2022-04-05",
-    "image": "http://books.google.com/books/content?id=bOxcEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "description": "Mafalda, la niña de 6 años que ha enamorado millones de corazones en América Latina y el mundo, llega a Google Play con su gusto por los Beatles, los panqueques y la lectura, la tele (menos la series), correr al aire libre y jugar a los cowboys. Este personaje ha sido inspiración de muchos, otros tantos aprendieron a leer con ella. Mafalda es un símbolo de libertad y de los derechos del niño; ella odia la sopa y no soporta la injusticia, la guerra, la violencia y el racismo. Le gustaría trabajar en la ONU cuando sea grande para ayudar al mundo. Es contestataria e inocente a la vez, una combinación que seguro te atraerá. Las reflexiones que plantea y los valores que enseña, son buenas razones para leer sus tiras cómicas en familia. Descarga y comparte sus 11 libros, ahora disponibles para Google Play. Que la disfrutes.",
+    "price": 99,
+    "stock": 14,
+    "publishedDate": "2015",
+    "image": "http://books.google.com/books/content?id=5w9ACQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
   },
- 
   {
-    "id": "MJPGDwAAQBAJ",
-    "title": "Neruda. Naturaleza, historia y poética",
+    "id": "sTz2_fVECrQC",
+    "title": "Peter Capusotto fantástico",
     "authors": [
-      "Eduardo Camacho Guizado"
+      "Diego Capusotto",
+      "Pedro Saborido"
     ],
-    "publisher": "Universidad de los Andes",
+    "publisher": "MONDADORI",
     "gender": [
-      "Literary Criticism"
+      "Humor"
     ],
-    "description": "Este libro ofrece una visión global de la obra poética de Neruda, y a la vez encauzada hacia el tratamiento que en ella se da a la naturaleza, la historia y la reflexión poética, a través de los diferentes períodos de la vida literaria del chileno. El estudio de Camacho cuenta con un importante aparato de citas, tanto de poemas de Neruda, como de sus grandes críticos, lo que no sólo abre nuevos caminos hacia la poesía de Pablo Neruda, sino que orienta en la consulta de la vastísima bibliografía que hay al respecto. La exposición de Camacho es directa y clara, sujeta a un plan riguroso que podemos seguir desde la introducción. Son pocos los estudios que logran una visión tan completa y, sin embargo, tan centrada y rigurosa en el seguimiento de unos temas, tratándose de una producción lírica tan amplia y variada como la de Neruda. Este texto es un ejemplo excelente de cómo tratar con obras literarias monumentales y la de Neruda lo es en las que, si no se eligen vías de acceso claras y precisas y se las sigue con rigor, el estudio se dispersa en afirmaciones generales.",
-    "price": 319,
-    "stock": 47,
-    "publishedDate": "2010-01-01",
-    "image": "http://books.google.com/books/content?id=MJPGDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "description": "Segundo volumen de las aventuras del antihéroe rockero, ahora en plan misterios inexplicables.",
+    "price": 220,
+    "stock": 46,
+    "publishedDate": "2013",
+    "image": "http://books.google.com/books/content?id=sTz2_fVECrQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
   },
   {
-    "id": "fDu-DwAAQBAJ",
-    "title": "Los pecados de Neruda",
+    "id": "4P01DwAAQBAJ",
+    "title": "Maestra de pueblo con L de novata",
     "authors": [
-      "HERNAN LOYOLA"
+      "Maestra de pueblo",
+      "Cristina Picazo"
+    ],
+    "publisher": "GRIJALBO",
+    "gender": [
+      "Humor"
+    ],
+    "description": "Toda leyenda tiene un comienzo... Maestra de pueblo, la profe más popular de internet, nos cuenta sus inicios en esta divertidísima novela gráfica. «Doy clase, vigilo los recreos, corrijo cuadernos, me coordino, atiendo a las familias, programo en casa, me formo en mi tiempo libre pero... ¡tengo muchas vacaciones!» María apenas ha pisado el campo en su vida, pero cuando le ofrecen por primera vez trabajar en un colegio, no le importa que sea en un pueblecito perdido en medio de la sierra, y se lanza al ruedo sin pensarlo: ¡Por fin va a ser maestra! Pero no solo eso, también conocerá la realidad de las aulas y de los pueblos al mismo tiempo. Esta maestra con L de novata se verá obligada a sacar toda la artillería para sobrevivir durante un curso como tutora de una revoltosa clase de segundo. Lo que nadie le enseñó en la facultad es que, en su díaa día como maestra, también tendría que ser una excelente: juez, detective, enfermera, mecánica multitarea, diseñadora, banquera... y todo ello, sin perder la vocación de enseñar. Ahora, sentaos y abrid el libro por la primera página. Reseñas: «Obligatorio para los del gremio. Más real que la realidad. Enhorabuena, profe.» El Hematocrítico «De las filas de Twitter llega esta anónima profesora de infantil que comparte, en clave de humor, los absurdos, los imposibles y los momentos tiernos de su vida laboral.» Mujer Hoy",
+    "price": 320,
+    "stock": 25,
+    "publishedDate": "2017",
+    "image": "http://books.google.com/books/content?id=4P01DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": "mMbjDwAAQBAJ",
+    "title": "Cuando Colón llegó a Japón",
+    "authors": [
+      "Javier Traité"
+    ],
+    "publisher": "Principal de los Libros",
+    "gender": [
+      "Humor"
+    ],
+    "description": "Embárcate en esta desternillante crónica del descubrimiento de América. ¿Quién no conoce a Colón? El gran descubridor de América es un personaje popular en todo el mundo, pero ¿de verdad sabemos cómo era? ¿Nos hacemos realmente a la idea de lo loco que estaba? Esta es la historia torcida del mayor caso de chamba que han conocido los siglos: el de un hombre que convenció a una reina de que le diera tres barcos para ir a Japón y se salvó de palmarla en el mar por el simple hecho de que, si uno navega hacia el poniente desde España y se empecina en no dar media vuelta, que es lo que habríamos hecho todos, es prácticamente imposible NO descubrir América. Únete a Bartolomé y Giacomo Colón, Juan de la Cosa, Martín Alonso Pinzón, Luis de Torres y muchos otros marineros que acompañaron a Cristóbal Colón en su búsqueda de Japón y descubre que la Historia no es como te la han contado, sino mucho más torcida.",
+    "price": 38,
+    "stock": 43,
+    "publishedDate": "2020",
+    "image": "http://books.google.com/books/content?id=mMbjDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": "YDF3EAAAQBAJ",
+    "title": "CASI 5000 CHISTES PARA NO NIÑOS, NIÑOS, NIÑAS, NO NIÑAS, NIÑES, NO NIÑES Y TODO TIPO DE ADULTO Y NO ADULTO, ASÍ EN GENERAL",
+    "authors": [
+      "J.J. Bernier"
+    ],
+    "publisher": "Independent Published Spanish Bookz",
+    "gender": [
+      "Humor"
+    ],
+    "description": "CASI 5000 CHISTES PARA NO NIÑOS, NIÑOS, NIÑAS, NO NIÑAS, NIÑES, NO NIÑES Y TODO TIPO DE ADULTO Y NO ADULTO, ASÍ EN GENERAL \ufeffRedondeando al último dígito son casi 5000 chistes, si no te lo crees puedes contarlos uno a uno. Chistes de todo tipo, centrados en varias temáticas como animales (benditos bichitos, desde gatitos a perritos pasando por leoncitos), profesiones (sin ánimo de ofender a los doctores, que bastante tienen con el coronabicho), lugares (un saludo Lepe!) o por ejemplo cortos, ese tipo de chiste que cuando más malo más bueno....Si te gusta reírte, éste es tu libro, si no te gusta reírte....tomate la pastillita.De buen rollo, para todas las edades (aunque haya una sección de chistes relacionados con el sexo, pero aún en ellos la explicitad del sexo es como la de los ángeles) y sin ánimo de ofender a nadie, paz, amor y chistes! Porque lo principal es reírse de uno mismo y poner una sonrisa en la vida",
+    "price": 225,
+    "stock": 28,
+    "publishedDate": "2022",
+    "image": "http://books.google.com/books/content?id=YDF3EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": "tl8TZq_-6tkC",
+    "title": "El libro rojo de Mongolia",
+    "authors": [
+      "Mongolia"
+    ],
+    "publisher": "RESERVOIR BOOKS",
+    "gender": [
+      "Humor"
+    ],
+    "description": "¿Es un pájaro? ¿Es un avión? ¿Es Superman? No, es El Libro Rojo de Mongolia. Un volumen imprescindible, especialmente si no ha sabido responder a las tres preguntas anteriores. En El Libro Rojo de Mongolia encontrará multitud de temas tratados con el rigor histórico y científico que caracteriza a Mongolia. Conocimientos que le harán mejor persona -salvo que sea usted banquero- y le proporcionarán horas y horas de conversación para convertirse en ese invitado que anima cualquier fiesta de cumpleaños mejor que el payaso de los globos. Por fin sabrá por qué los trogloditas pintaban en las paredes, por qué los egipcios andaban tan raro o por qué a los franceses les sentó tan mal la toma de la Pastilla. Conozca gracias a nuestros test su grado de españolidad, si es hombre o mujer o si esa persona que comparte casa con usted es realmente su hijo y viceversa. Póngase al día sobre las religiones más populares, entérese de cuáles son las creencias más raras y hable el lenguaje de hoy gracias a nuestro diccionario. Hágase un favor: cambie su vida con Mongolia. Y no nos dé las gracias: lo hacemos encantados.",
+    "price": 255,
+    "stock": 17,
+    "publishedDate": "2013",
+    "image": "http://books.google.com/books/content?id=tl8TZq_-6tkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  
+  {
+    "id": "NuX3DwAAQBAJ",
+    "title": "Chistes de Videojuegos, Historias, Memes & Más",
+    "authors": [
+      "Leet Emperor"
+    ],
+    "publisher": "Babelcube Inc.",
+    "gender": [
+      "Humor"
+    ],
+    "description": "Esta guía te ayudará a apender a contar chistes sobre videojuegos. Por eso, esta guía se enfoca en formas y métodos naturales para ofrecer los mejores resultados y sin efectos secundarios. Este libro te enseñará lo siguiente: - chistes de videojuegos - memes de videojuegos - contar buenos chistes Si quieres aprender a contar chistes sobre videojuegos, este libro es para ti.",
+    "price": 364,
+    "stock": 35,
+    "publishedDate": "2020",
+    "image": "http://books.google.com/books/content?id=NuX3DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": "CsiLDwAAQBAJ",
+    "title": "Las abuelas bien",
+    "authors": [
+      "Guadalupe Loaeza"
+    ],
+    "publisher": "Océano",
+    "gender": [
+      "Humor"
+    ],
+    "description": "Primero, como todas, fueron niñas. Luego siguieron llevando con orgullo el nombre, que ya las distinguía: niñas bien, niñas educadas, niñas de familia. Pronto vivieron los años con arrojo y con amor, y se volvieron niñas con familia. Y hoy... esas niñas son abuelas. En este libro de carácter nostálgico y muy íntimo, Guadalupe Loaeza nos comparte cartas, fotografías y anécdotas de su historia familiar para explorar el privilegio de ser nietos y abuelos. Un homenaje a varias generaciones que han hecho de este vínculo una de las mayores fuentes de afecto, aprendizaje y amor por la vida.",
+    "price": 133,
+    "stock": 17,
+    "publishedDate": "2018",
+    "image": "http://books.google.com/books/content?id=CsiLDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": "nGp_DQAAQBAJ",
+    "title": "Hermostra",
+    "authors": [
+      "Malena Pichot",
+      "Charo López"
+    ],
+    "publisher": "RESERVOIR BOOKS",
+    "gender": [
+      "Humor"
+    ],
+    "description": "Una guía sobre cómo ser bella aunque ello signifique perder la vida. Un catálogo de consejos extremos para llevar una vida de éxito en un mundo machista regido por la injusticia social.",
+    "price": 483,
+    "stock": 12,
+    "publishedDate": "2016",
+    "image": "http://books.google.com/books/content?id=nGp_DQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": "tM7DDwAAQBAJ",
+    "title": "Mafalda. Todas las tiras (edición limitada)",
+    "authors": [
+      "Quino"
     ],
     "publisher": "LUMEN",
     "gender": [
-      "Biography ",
-      " Autobiography"
+      "Humor"
     ],
-    "description": "El libro que se hace cargo de los pecados bajo los que se han visto envueltas en los últimos años la figura y la obra de Pablo Neruda. Breve y consistente ensayo biográfico de la pluma del gran nerudiano Hernán Loyola, en donde aborda las polémicas póstumas en que se han visto envueltas la obra y figura de Neruda. En ocho capítulos, ocho pecados, Loyola aborda, enfrenta y encara cada una de estas polémicas: el poeta inútil, el poeta machista, el poeta fabulador, el poeta violador, el poeta mal marido, el poeta mal padre, el poeta plagiario, el poeta insolente y el poeta abandonador.",
-    "price": 106,
-    "stock": 40,
-    "publishedDate": "2019-11-13",
-    "image": "http://books.google.com/books/content?id=fDu-DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "description": "Las tiras de Mafalda en un solo volumen. «Mafalda es una heroína de nuestro tiempo.» Umberto Eco Polémica, concienciada y encantadora. Así es el personaje más entrañable del catálogo de Lumen. Ahora, por primera vez, presentamos en un solo volumen todas las tiras de la niña argentina más famosa de todos los tiempos. De la primera a la última tira, podrás disfrutar de Mafalda, sus amigos y su familia. La crítica ha dicho... «Quino, el grande Quino, seguirá vivo en su Mafalda, que nos enseñó que, como siempre, lo urgente no deja tiempo para lo importante.» Héctor Abad Faciolince «Nunca he amado a una mujer que no haya amado previamente a Mafalda.» Manuel Jabois «Qué importante has sido en nuestras vidas. [...] Siempre estaban tus viñetas dando sentido a los detalles absurdos de la vida y la sociedad. Cada lección era un guiño de risa silenciosa que se volvía carcajada y suspiro, filosofía pura, crítica social, lenguaje de gestos expresivos y pequeños detalles, el humor más refinado concentrado en los dibujos. Qué gran compañero has sido.» Ana Merino «Las nuevas generaciones siguen leyendo a Mafalda con regocijo. No es un simple vestigio del pasado o un recuerdo nostálgico, sino un personaje muy vivo que sigue incendiando conciencias y promoviendo el inconformismo.» Rafael Narbona, El Cultural «Como Charlie Brown o Nancy, Mafalda es un instrumento para proyectar, a través de la infancia, las miserias de los adultos y las contradicciones de este valle de lágrimas. ¡Aleluya!» Vicent Sanchis, Catorze «Con ustedes, la filósofa con lacito con la que han crecido varias generaciones, [...] la Greta Thunberg de la historieta. [...] Por su espíritu contestatario, humor cuchillero y costumbrismo con guiños progres, Mafalda jamás pasará de moda. [...] Quino seganó la inmortalidad y los amantes de las viñetas una heroína para todos los públicos. Una que, a la que te descuidas, te suelta en plan filósofa: \"¿Qué te gustaría ser si vivieras?\"» El Mundo «Mafalda, esa niña que, a estas alturas, ya debería ser Patrimonio de la Humanidad. Básica para la vuelta a la rutina.» El País «No tiene importancia lo que yo pienso sobre Mafalda. Lo importante es lo que Mafalda piensa de mí.» Julio Cortázar «Mafalda es una heroína de nuestro tiempo.» Umberto Eco «Creo que, junto con El Eternauta, Mafalda es la historieta más influyente. Es un icono argentino como el alfajor, Fangio, Gardel o el Obelisco. Mafalda está en el subconsciente argentino.» Liniers «Afortunadamente, no me puedo imaginar a Mafalda sino como la graciosa niña que fue, es y será siempre. Los personajes de historieta tienen ese privilegio (enarbolado por Peter Pan) de no envejecer.» Roberto Fontanarrosa «Mafalda es, digámoslo de una vez, más humana que muchos seres humanos.» Román Gubern",
+    "price": 275,
+    "stock": 8,
+    "publishedDate": "2020",
+    "image": "http://books.google.com/books/content?id=tM7DDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
   },
   {
-    "id": "v9rRCgAAQBAJ",
-    "title": "Neruda. El príncipe de los poetas. La biografía",
+    "id": "Lq7LDQAAQBAJ",
+    "title": "Educating Mr. Macri",
     "authors": [
-      "MARIO AMOROS"
+      "Alejandro Borensztein"
     ],
-    "publisher": "B DE BOOKS",
+    "publisher": "Emecé Argentina",
     "gender": [
-      "Biography ",
-      " Autobiography"
+      "Humor"
     ],
-    "description": "La primera biografía histórica y literaria de Pablo Neruda que se publica en España. Pablo Neruda es el gran poeta del siglo XX. Como Pablo Picasso, Albert Einstein o Charles Chaplin, tuvo una capacidad creativa y una genialidad indiscutibles, y nos legó una obra reconocida y admirada universalmente. El historiador y periodista Mario Amorós ha investigado durante años en archivos de Chile, España, Rusia y otros países a fin de arrojar nueva luz sobre la vida del autor de Canto general. Su azarosa y apasionante existencia se relata en estas páginas a través de documentos inéditos, cartas, artículos, discursos, entrevistas y testimonios de amigos... y enemigos. También de las mujeres que lo amaron. Cuando se cumplen cien años de sus primeros versos, Amorós reconstruye la infancia de Pablo Neruda en Temuco, entre los bosques y la lluvia del sur del mundo; el periodo como cónsul en varias ciudades asiáticas y Buenos Aires; la llegada a España en 1934 y la relación fraternal con Federico García Lorca, Rafael Alberti o Miguel Hernández; el impacto que produjo en él la Guerra Civil y la epopeya del Winnipeg; así como los años en México, la adscripción al movimiento comunista y la obtención del Premio Nobel en 1971. Con documentos y testimonios inéditos hasta ahora, Amorós describe, en los últimos capítulos, el terrible sufrimiento de Neruda tras el golpe de Estado militar, relato que adquiere un valor singular por apoyarse en la investigación judicial abierta en Chile tras la denuncia de que fue asesinado por la dictadura del general Pinochet, el 23 de septiembre de 1973.",
-    "price": 264,
-    "stock": 38,
-    "publishedDate": "2015-11-11",
-    "image": "http://books.google.com/books/content?id=v9rRCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "description": "\"A mí me pasa lo mismo que a usted, querido lector. Por eso entiendo sus angustias mejor que nadie.\" Después de cinco libros publicados sobre las peripecias del gobierno kirchnerista, Alejandro Borensztein ha escrito el primero dedicado a las del gobierno macrista. Cuando todo hacía pensar que, tras un tenso año de elecciones, llegaría un tiempo de calma política, la Argentina volvió a mostrar que es una caja inagotable de sorpresas. De las estancias de Báez a los bolsos de López, pasando por la sangría de dirigentes kirchneristas, los tarifazos, las denuncias omnipresentes de Lilita Carrió, el desfile de Cristina por Comodoro Py, la visita de Barack Obama, las peregrinaciones al Vaticano y el inhallable \"segundo semestre\", 2016 fue un festival de escándalos de corrupción y sucesos políticos y económicos para el infarto. Alejandro Borensztein demuestra en estas páginas su maestría para retratar la realidad nacional con sagacidad, ironía y gracia incomparables. Educating Mr. Macri vuelve a confirmarlo como el mejor humorista político de la Argentina actual.",
+    "price": 38,
+    "stock": 43,
+    "publishedDate": "2017",
+    "image": "http://books.google.com/books/content?id=Lq7LDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  
+  
+  {
+    "id": "jJwhEAAAQBAJ",
+    "title": "Cómo acabar sigilosamente con la humanidad",
+    "authors": [
+      "El Coronavirus de Twitter"
+    ],
+    "publisher": "Arpa",
+    "gender": [
+      "Humor"
+    ],
+    "description": "@CoronaVid19, el virus que ha contagiado Twitter de sátira y humor negro, revela el plan secreto de las pandemias más letales de la historia para acabar con la humanidad. ¿Cómo surgieron las pandemias que ha sufrido la humanidad? ¿Qué hizo la sociedad? ¿Y la ciencia? ¿Había negacionistas? ¿Qué errores se cometieron entonces? ¿Es la estupidez humana una pandemia? ¿A qué huelen las nubes? Hay tantas maneras de contarlo como formas de afrontar los problemas del día a día. Y si no que se lo pregunten a @CoronaVid19, el virus que ha sembrado el pánico —o más bien la risa— en las redes sociales. En este libro relata, sin espículas en la lengua y con una buena dosis de humor negro, cómo la ciencia y la humanidad han intentado terminar con algunas de las pandemias más letales del planeta: la gripe española, la malaria, el sarampión, la peste negra, el sida, el ébola, la viruela o, cómo no, el propio coronavirus. ¡Seguro que nunca te has parado a pensar su versión de la historia! \"Como creador de plagas debo decir que este libro ha colmado mis expectativas. @CoronaVid19 demuestra el porqué de su milagro viral en Twitter. Humor contagioso para aprenderlo todo de las pandemias\". Diostuitero \"Hay también un \"virus\" que se cura leyendo. Intentando aprender y con mucho sentido del humor. El autor de este libro lo ha conseguido y es muy recomendable seguirle. Ácido e incisivo. Se ha coronado. ¡Muerte a este rey de los nuevos virus!\". Jesús Cintora \"Volcanes, pandemias o lluvias torrenciales de monos venenosos. Si alguien sabe convertir eso en risas, estamos salvados. Solo el humor hace la vida soportable\". Luis Piedrahita \"Va a ser difícil vencer a un patógeno que escribe tan bien\". Pedro Vallín \"Es indiscutible que @CoronaVid19 es el fenómeno viral del siglo. Espero que por lo menos el murciélago estuviese rico\". Norcoreano",
+    "price": 36,
+    "stock": 6,
+    "publishedDate": "2021",
+    "image": "http://books.google.com/books/content?id=jJwhEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
   },
   {
-    "id": "0jKc9UsVV1AC",
-    "title": "Libro de Las Preguntas",
+    "id": "sFnpAwAAQBAJ",
+    "title": "El diablo se llama Trotsky",
     "authors": [
-      "Pablo Neruda"
+      "Rius"
     ],
-    "publisher": "Copper Canyon Press",
+    "publisher": "GRIJALBO",
     "gender": [
-      "Poetry"
+      "Humor"
     ],
-    "description": "Pablo Neruda is one of the world's most popular poets, and The Book of Questions is Copper Canyon's all-time best-seller. This updated bilingual edition is entirely re-designed and features a new cover, new interior, and an introduction by translator. In The Book of Questions, Neruda refuses to be corralled by the rational mind. Composed of 316 unanswerable questions, these poems integrate the wonder of a child with the experiences of an adult. By turns Orphic, comic, surreal, and poignant, Neruda's questions lead the reader beyond reason into realms of intuition and pure imagination. Tell me, is the rose naked or is that her only dress? Why do trees conceal the splendor of their roots? Is there anything in the world sadder than a train standing in the rain? When Neruda died in 1973, The Book of Questions was one of eight unpublished poetry manuscripts that lay on his desk. In it, Neruda achieves a deeper vulnerability and vision than in his earlier work-and this unique book is a testament to everything that made Neruda an artist. \"Neruda's questions evoke pictures that make sense on a visual level before the reader can grasp them on a literal one. The effect is mildly dazzling [and] O'Daly's translations achieve a tone that is both meditative and spontaneous.\" -Publishers Weekly Pablo Neruda, born in southern Chile, led a life charged with poetic and political activity. He was the recipient of the Nobel Prize in Literature, the International Peace Prize, and served as Chile's ambassador to several countries, including Burma, France, and Argentina. He died in 1973. II. Tell me, is the rose naked or is that her only dress? Why do trees conceal the splendor of their roots? Who hears the regrets of the thieving automobile? Is there anything in the world sadder than a train standing in the rain? XIV. And what did the rubies say standing before the juice of pomegranates? Why doesn't Thursday talk itself into coming after Friday? Who shouted with glee when the color blue was born? Why doe",
-    "price": 316,
-    "stock": 19,
-    "publishedDate": "2001",
-    "image": "http://books.google.com/books/content?id=0jKc9UsVV1AC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "description": "Creador de Los Agachados, Mis Supermachos y más de un centenar de libros publicados, Rius, el gran monero mexicano, ocupó un lugar clave en la historia de la cultura popular. Un libro de historia del siglo XX al estilo Rius. Lo único que los mexicanos sabemos sobre Trotsky es que era un comunista ruso, amigo de Diego y Frida, asesinado hace muchos años en su casa de Coyoacán. Para llenar nuestras lagunas de información sobre este importantísimo personaje, ligado a México en muchos sentidos, Rius decidió escribir este libro, anteponiéndole en el título el calificativo de \"diablo\", lo que implica que el personaje fue polémico. Tan fue así que Stalin, el dictador soviético, decidió desterrarlo, perseguirlo después y asesinarlo. Consiguió hacerlo en nuestro país. Rius nos cuenta la vida de Trotsky, al igual que su lucha política y militar al lado de Lenin, con quien planeó y ejecutó la Revolución rusa. También ahonda en su posición radical, cercana al anarquismo, y nos explica por qué se opuso a Stalin y cómo intentó combatir su dictadura, lo que le costó la vida.",
+    "price": 94,
+    "stock": 42,
+    "publishedDate": "2014",
+    "image": "http://books.google.com/books/content?id=sFnpAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
   },
   {
-    "id": "dqUjtAEACAAJ",
-    "title": "Veinte poemas de amor y una canción desesperada",
+    "id": "DNetudFh7VcC",
+    "title": "101 modos de olvidar a tu ex",
     "authors": [
-      "Pablo Neruda"
+      "Federica Bosco"
     ],
-    "publisher": "De Borsillo",
+    "publisher": "Grupo Planeta Spain",
     "gender": [
-      "Literary Collections"
+      "Humor"
     ],
-    "description": "Una de las obras más célebres del poeta Pablo Neruda. « Me gusta cuando callas porque estás como ausente. Distante y dolorosa como si hubieras muerto. Una palabra entonces, una sonrisa bastan. Y estoy alegre, alegre de que no sea cierto .» Reseña: «Neruda significa un hombre nuevo en la América, una sensibilidad con la cual abre todo capítulo emocional americano. Su alta categoría arranca de su rotunda diferenciación.» Gabriela Mistral",
-    "price": 130,
-    "stock": 12,
-    "publishedDate": "2004",
-    "image": "http://books.google.com/books/content?id=dqUjtAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "description": "Federica Bosco ha recopilado en este libro con gran humor sus experiencias amorosas, las de sus amigos y las de muchos de sus lectores, y las ha convertido en un manual para ti con 101 palabras mágicas que ayudarán a hacer frente a la ruptura. Prepárate para recibir sabios y divertidos consejos de otras personas que han pasado lo mismo que tú estás pasando, para recuperar la fuerza perdida y fabricar tu propio manual de «desintoxicación».",
+    "price": 269,
+    "stock": 2,
+    "publishedDate": "2011",
+    "image": "http://books.google.com/books/content?id=DNetudFh7VcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
   },
- {
-    "id": "-z5lAAAAMAAJ",
-    "title": "Neruda por Skármeta",
+    {
+    "id": "1TQPEAAAQBAJ",
+    "title": "S.O.S. Mamis. El libro",
     "authors": [
-      "Antonio Skármeta"
+      "Tamara Acosta",
+      "Loreto Aravena",
+      "Paz Bascuñán",
+      "Jenny Cavallo",
+      "Mane Swett",
+      "Antonia Boza"
     ],
-    "publisher": "Planeta",
+    "publisher": "Zig-Zag",
     "gender": [
-      "Chilean fiction"
+      "Humor"
     ],
-    "description": "Esta obra nos lleva por la vida de uno de los más grandes poetas de todos los tiempos: Pablo Neruda. El autor hace esta investigación como homenaje a este hombre que vivió su vida entre pasiones, amores y paisajes que lo llevaban a inspirarse para escribir sus hermosos poemas. Para acercarnos mejor a esta figura se nos relatan entretenidas anécdotas que vivió Neruda, que no están alejadas del sentido del humor tan particular que tenía el poeta. Su obra se muestra aquí como una respuesta de sus vivencias, del entorno que le tocó vivir, de la realidad política de su tiempo, de su compromiso con la gente, de los amores que tuvo, de las casas que habitó, de los lugares donde vivió, todo ello fue lo que lo motivó a escribir versos que han maravillado a cientos de personas en el mundo entero. El libro se convierte así en un reconocimiento personal a la figura de Neruda.",
-    "price": 278,
+    "description": "Cinco mujeres, cada una con una personalidad muy diferente, unidas en uno de sus roles más importantes en la vida: ser madres. Con humor, ironía y situaciones en donde más de una se podrá sentir representada, las mamis nos hablan de reuniones de apoderados, de bullying escolar, de tipos de educación, pero también de sexualidad, de infidelidad y, más que nada, de aquella sinceridad inocente pero punzante de los hijos. Las graciosas ilustraciones de Antonia Boza acompañan las páginas con picardía, humor y mucho talento. Una lectura sinpatiquísima que ninguna que sea madre se querrá perder, y totalmente recomendada para aquellas que estén considerando embarcarse en este camino.",
+    "price": 64,
     "stock": 22,
-    "publishedDate": "2004",
-    "image": "http://books.google.com/books/content?id=-z5lAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "publishedDate": "2020",
+    "image": "http://books.google.com/books/content?id=1TQPEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": "OuYaDgAAQBAJ",
+    "title": "Adivinanzas",
+    "authors": [
+      "Somos Mamás"
+    ],
+    "publisher": "Somos Mamás",
+    "gender": [
+      "Humor"
+    ],
+    "description": "Las mejores adivinanzas infantiles para jugar y divertirse. ¿Eres tan inteligente como crees? A los niños les encantan las adivinanzas porque son divertidas, los hacen pensar, pero sobre todo ¡sorprenderse! En este libro encontrarás una selección de adivinanzas muy divertida de objetos, animales, comidas, plantas, juegos, herramientas y muchas cosas más. La colección más completa de adivinanzas A los niños les encantan las adivinanzas porque son divertidas, los hacen pensar, pero sobre todo ¡sorprenderse!",
+    "price": 373,
+    "stock": 13,
+    "publishedDate": "2017",
+    "image": "http://books.google.com/books/content?id=OuYaDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": "xZjeAAAAQBAJ",
+    "title": "Lola",
+    "authors": [
+      "Alejandra Lunik"
+    ],
+    "publisher": "SUDAMERICANA",
+    "gender": [
+      "Humor"
+    ],
+    "description": "Lola es culposa, cínica, cabrona y un poco infantil, también es fuerte e independiente. Algunos dirán que es el alterego perfecto de Alejandra Lunik, su creadora. Lo que sí podemos confirmar es que Lunik es irónica y amable en el punto justo, una observadora exquisita y, sin lugar a dudas, la mejor dibujante de su generación.",
+    "price": 365,
+    "stock": 11,
+    "publishedDate": "2013",
+    "image": "http://books.google.com/books/content?id=xZjeAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": "UVWGEAAAQBAJ",
+    "title": "Basta de caricaturas",
+    "authors": [
+      "Malaimagen"
+    ],
+    "publisher": "RESERVOIR BOOKS",
+    "gender": [
+      "Humor"
+    ],
+    "description": "Cuando pensábamos que nada podía estar peor, llega el dibujante más ácido del medio nacional con sus viñetas agudas, punzantes y catastróficas. Malaimagen nunca ha tenido la mejor opinión de la raza humana. Y con esta nueva entrega nos confirma que los personajes que desfilan por sus viñetas son perdedores, chantas, corruptos y en el mejor de los casos, ingenuos. Seres cuyos sueños se hacen pedazos con la realidad y cuya única esperanza parece ser que nos extingamos luego. Pero tranquilo, es solo un despliegue de su más mordaz humor negro... ¿o no?",
+    "price": 480,
+    "stock": 16,
+    "publishedDate": "2022",
+    "image": "http://books.google.com/books/content?id=UVWGEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": "ds_DDwAAQBAJ",
+    "title": "Gente en su sitio",
+    "authors": [
+      "Quino"
+    ],
+    "publisher": "LUMEN",
+    "gender": [
+      "Humor"
+    ],
+    "description": "Lo más disparatado de uno de los mejores humoristas argentinos de nuestros tiempos. Quino nos muestra realidades cotidianas con una veta de su gran humor. «Cada libro de Quino es lo que más se parece a la felicidad: la quinoterapia.» Gabriel García Márquez «¡Lo compré! ¡Finalmente lo compré!! En cuotas, por supuesto. Ahora tendremos que ajustar un poco los gastos pero ¿No es maravilloso?. ¡Ni cables, ni enchufes, ni nada! »¡Se autoalimenta con baterias desechables que duran casi un mes! Me suscribí al Service, así no nos saldrán tan caras. Y además, vas a ver...¡Ahí está! ¡Viene con modificador electrónico de horizontabilidad bidireccional servo-estabilizable! »Bueno, pero...¿y este aparato para que sirve?» *En este libro encontramos situaciones cómicas en sucesos cotidianos, en episodios históricos y algunas sátiras de lo que puede llegar a ser el futuro. La crítica ha dicho... «Los lúcidos mensajes de Quino siguen vigentes por haber combinado con sabiduría la simplicidad en el trazo del dibujo con la profundidad de su pensamiento. La obra de Quino conlleva un enorme valor educativo y ha sido traducida a numerosos idiomas, lo que revela su dimensión universal. Sus personajes trascienden cualquier geografía, edad y condición social.» Acta del jurado del Premio Príncipe de Asturias «Seguro que le debo mucho a Quino como humorista gráfico, pero más le debo como persona.» Liniers «Mirá que cambiaste el mundo con tus dibujitos, ¡eh! Lo mejoraste bastante. No, no alcanzó. Nunca alcanza. No hay témpera blanca que lo corrija. [...] ¡Y tus páginas! Filosofía y poesía. Crítica feroz y ternura. Un pibe de ocho años y un viejo sabio en los mismos zapatos.» Tute «Lo intuíamos. El verdadero Principito era Quino.» Miguel Rep «Un excepcional testigo de medio siglo de historia, un testigo irónico y lúcido, aunque no se nos proponga en ningún momento como imparcial, porque el autor ha tomado, en su vida y en su obra, abiertamente partido.» Esther Tusquets «Quino resumió las ganas de reír y de estamparse contra la pared.» Karina Sainz Borgo, Vozpópuli «Uno de los espíritus más lúcidos, insobornables y creativos de ese género menospreciado que cambia constantemente de nombre: tebeo, cómic, historieta.» Rafael Narbona, El Cultural",
+    "price": 191,
+    "stock": 4,
+    "publishedDate": "2020",
+    "image": "http://books.google.com/books/content?id=ds_DDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "uYXhBAAAQBAJ",
+    "title": "Chicas y chicos malos del mundo antiguo (Bad Guys and Gals of the Ancient World) (Spanish Version)",
+    "authors": [
+      "Dona Herweck Rice"
+    ],
+    "publisher": "Teacher Created Materials",
+    "gender": [
+      "Biografía"
+    ],
+    "description": "Readers are introduced to some of the most well-known criminals and tyrants of the past in this exciting nonfiction reader. Featuring intriguing facts and theories, colorful images, and informational text in conjunction with a glossary of terms, a bibliography, and a list of helpful websites with more information, this text will make readers want to learn all they can about ancient history and the bad guys and gals from the past. This book has been translated into Spanish.",
+    "price": 321,
+    "stock": 2,
+    "publishedDate": "2013",
+    "image": "http://books.google.com/books/content?id=uYXhBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+
+  {
+    "id": "7c9HAQAAQBAJ",
+    "title": "Séptimo centenario de los estudios orientales en Salamanca",
+    "authors": [
+      "A. AGUD… [et al.]"
+    ],
+    "publisher": "Ediciones Universidad de Salamanca",
+    "gender": [
+      "Biografía"
+    ],
+    "description": "En el concilio celebrado en Vienne (Francia) en 1311, el papa Clemente V decretó un Canon en el que se autorizaba y ordenaba a las universidades de Salamanca, Oxford, París y Bolonia la enseñanza de lenguas orientales, en concreto, de «árabe, hebreo y caldeo». El canon conciliar de Clemente V no cayó en papel mojado y tuvo como consecuencia el comienzo inmediato en Salamanca de la enseñanza de lenguas orientales entre las que ocupó un lugar preferente el hebreo. De hecho, el hebreo permaneció en el elenco de enseñanzas de la Universidad de Salamanca desde esa fecha hasta la desamortización de Mendizábal (1836). Doscientos años más tarde (1521) se introdujeron las enseñanzas de hebreo en la Universidad de Alcalá que corrieron la misma suerte que los estudios de Salamanca con la mencionada desamortización. A mediados del s. XIX hubo un nuevo impulso de los estudio de hebreo que se introdujeron en las Universidades de Madrid, Barcelona y, una vez más, Salamanca. En nuestra Universidad, sin embargo, se vieron dramáticamente interrumpidos en 1936 y no se restauraron hasta 1990, si bien en Salamanca la Universidad Pontificia de Salamanca los había introducido ya en los años 70 del siglo pasado.",
+    "price": 124,
+    "stock": 21,
+    "publishedDate": "2013",
+    "image": "http://books.google.com/books/content?id=7c9HAQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+
+  {
+    "id": "nOa7CwAAQBAJ",
+    "title": "Teoría de la Biografía",
+    "authors": [
+      "María Teresa del Olmo Ibáñez"
+    ],
+    "publisher": "Dykinson",
+    "gender": [
+      "Biografía"
+    ],
+    "description": "La Biografía es un género tradicionalmente de primer rango tanto desde el criterio de la Ciencia literaria como desde el criterio de la Educación y por supuesto del pensamiento humanístico en su sentido más característico, ya en sus primeras formaciones de la Antigüedad, especialmente Plutarco. Se trata de la representación del personaje real y los asuntos humanos. Todo ello, que en primer término se diría obvio, resulta finalmente muy problemático, pues ha conducido sin embargo a una situación poco menos que paradójica en el estado del conocimiento y de los estudios. Para empezar, no existe, o no ha existido hasta hoy en que la presente Teoría de la Biografía ha puesto remedio a una situación aún más incomprensible que lamentable, una verdadera monografía sobre el género capaz de dar cuenta del estado de la cuestión, del conjunto de problemas que se suscita y de la posible resolución de los mismos en el régimen constructivo del saber y la disciplina. Esta Teoría de la Biografía que presentamos es, pues, un libro importante por radicalmente necesario.",
+    "price": 70,
+    "stock": 36,
+    "publishedDate": "2015",
+    "image": "http://books.google.com/books/content?id=nOa7CwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": "gjvTCwAAQBAJ",
+    "title": "Sin Miedo",
+    "authors": [
+      "Jorge Ramos"
+    ],
+    "publisher": "Celebra",
+    "gender": [
+      "Biografía",
+      "AutoBiografía"
+    ],
+    "description": "Después de treinta fascinantes años de estar desenmascarando la verdad, Jorge Ramos, el periodista ganador de varios premios Emmy, habla por primera vez de lecciones de vida fundamentales a través de cautivadoras historias nunca antes compartidas. Ampliamente reconocido por su forma franca y sin limitaciones de entrevistar a líderes mundiales, titanes de los negocios, legisladores democráticos y dictadores que amenazan con destruir esos principios, Jorge descubre el denominador común que los une: todos son rebeldes. Los rebeldes son diferentes. En un determinado momento decidieron poner a prueba el estatus quo. Algunas veces ser rebelaron para logar un cambio de régimen, en otras para evitar abusos o discriminaciones, pero en todos los casos lograron corregir una injusticia. En Lecciones de rebeldes, Ramos recupera entrevistas pioneras con rebeldes como el presidente Barack Obama, la ministra de la Corte Suprema de Justicia Sonia Sotomayor, Spike Lee, Barbara Walters, Fidel Castro, entre otros. De manera honesta y a veces controvertida, Jorge Ramos logra atraer la atención hacia temas que influyen en la manera de pensar del mayor grupo minoritario de este país, y la manera en que este grupo, sin duda alguna, influirá no sólo en los resultados de las elecciones presidenciales. --Publisher.",
+    "price": 372,
+    "stock": 10,
+    "publishedDate": "2016",
+    "image": "http://books.google.com/books/content?id=gjvTCwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
   }
 
 ]
-
