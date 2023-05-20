@@ -95,5 +95,129 @@
 		"stock":5,
 		"publishedDate": "2021-10-01",
 		"image": "http://books.google.com/books/content?id=D3JEEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
-	}
+	},
+	{
+		"id": "el2cEAAAQBAJ",
+		"title": "Revisiones posmodernas del gótico en la literatura y las artes visuales",
+		"authors": [
+		  "José María Mesa Villa",
+		  "Ana González-Rivas Fernández",
+		  "Antonio José Miralles Pérez"
+		],
+		"publisher": "Ediciones Universidad de Salamanca",
+		"gender": [
+		  "Ciencia ficción"
+		],
+		"description": "Durante siglos, la narrativa gótica ha fascinado e inquietado al público a partes iguales, resolviendo misterios, explorando los traumas de sus protagonistas, enfrentándolos a lo monstruoso, o transportándolos a escenarios tan hermosos como amenazadores. Estos elementos, no obstante, no acaban en sí mismos: lo que nos incomoda, estremece o aterroriza también nos hace partícipes de una valiosa reflexión donde se abordan temas clave para la existencia humana, desde las dinámicas del poder, lo engañoso de las apariencias o los peligros que entraña un desarrollo científico-tecnológico sin referentes éticos. Este volumen recoge doce estudios de caso que abordan las transformaciones del género gótico en obras contemporáneas de ámbitos como el cine (Tim Burton, Guillermo del Toro, David Lowery), la literatura (Carmen Martín Gaite, Iris Murdoch), la novela gráfica (Manifest Destiny) o la ficción televisiva (Westworld, American Horror Story, Black Mirror, C.S.I.). Desde una perspectiva interdisciplinar y multi-perspectivista, examinaremos el diálogo que se establece entre una selección de obras producidas en las últimas décadas y clásicos como Edgar Allan Poe, Mary Shelley, Robert Louis Stevenson o Bram Stoker, entre otros. El resultado: la evidencia de que la sociedad cambia, pero el terror sigue siendo universal.",
+		"price": 0,
+		"stock": 49,
+		"publishedDate": "2021-12-15",
+		"image": "http://books.google.com/books/content?id=el2cEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+	  },
+		{
+		"id": "bU_sBAAAQBAJ",
+		"title": "MALAS",
+		"authors": [
+		  "ALMELA BOIX Margarita",
+		  "GUZMÁN GARCÍA Helena",
+		  "GARCÍA LORENZO María Magdalena "
+		],
+		"publisher": "Editorial UNED",
+		"gender": [
+		  "Ciencia ficción"
+		],
+		"description": "Malas es el sexto volumen del Seminario Permanente sobre Literatura y Mujer (siglos XX y XXI). Después de los estudios precedentes Universos femeninos en la literatura actual. Mujeres de papel, Tejiendo el mito, Ecos de la memoria, Mujeres a la conquista de espacio y Mujeres en la frontera, el seminario ha centrado su atención en la intrincada relación de la mujer con el concepto de bondad y maldad dentro de la cultura patriarcal. El concepto moderno de mujer buena, y su antagónica mujer mala, nace en las postrimerías del siglo XIX cuando a la mujer se le otorga la posibilidad de la agencia del bien. “El ángel del hogar” que describiera el poeta británico Coventry Patmore en su poema homónimo (1854) se contrapone a lo que hasta entonces la mujer “ha sido” en el imaginario de la cultura patriarcal: la demoniaca y tentadora Eva. En este volumen un elenco de investigadores e investigadoras nacionales e internacionales examinan en los diferentes capítulos cuestiones sobre la representación literaria y en las artes visuales de la buena y la mala señalando sus ambigüedades, contradicciones, paradojas y cambios.",
+		"price": 346,
+		"stock": 23,
+		"publishedDate": "2014-10-22",
+		"image": "http://books.google.com/books/content?id=bU_sBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+	  },
+		{
+		"id": "2lwyDwAAQBAJ",
+		"title": "Los estudios organizacionales",
+		"authors": [
+		  "Sanabria, Mauricio",
+		  "Saavedra, Juan Javier",
+		  "Smida, Ali"
+		],
+		"publisher": "Editorial Universidad del Rosario",
+		"gender": [
+		  "Ciencia ficción"
+		],
+		"description": "El objetivo de este texto es establecer una cartografía del campo de los estudios organizacionales (EO), más conocido internacionalmente como 'organization studies' (OS). Presenta, en ocho capítulos, un panorama amplio de este campo, atendiendo a consideraciones históricas, teóricas, epistemológicas, metodológicas, institucionales, sociales, políticas, culturales y geográficas. La obra surge en el marco del núcleo de trabajo académico e investigativo en estudios organizacionales de la escuela de administración de la Universidad del Rosario, con la cooperación de la Universidad de París XIII - Sorbonne Paris Cité y la Association Internationale et Interdisciplinaire de la Décisión (A2ID).",
+		"price": 201,
+		"stock": 14,
+		"publishedDate": "2014-02-05",
+		"image": "http://books.google.com/books/content?id=2lwyDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+	  },
+		{
+		"id": "9KQVBgAAQBAJ",
+		"title": "Les romancières sentimentales: nouvelles approches, nouvelles perspectives",
+		"authors": [
+		  "Àngels Santa",
+		  "Carme Figuerola"
+		],
+		"publisher": "Universitat de Lleida",
+		"gender": [
+		  "Ciencia ficción"
+		],
+		"description": "La literatura popular y, dentro de ésta , la figura de la mujer, han sido y son los focos principales de los estudios llevados a cabo por el grupo de investigación de la Universidad de Lleida, dirigido por Àngels Santa y M.Carme Figuerola. En este volumen se presentan casi una veintena de trabajos, centrados en la novela la romántica, desde el siglo XVII hasta la actualidad. A través de la crítica literaria y el análisis exhaustivo, autores y autoras intentan otorgar a cuentos, relatos y novelas románticas el valor que les corresponde y que, a menudo, se les ha cuestionado.",
+		"price": 361,
+		"stock": 26,
+		"publishedDate": "2014-02-12",
+		"image": "http://books.google.com/books/content?id=9KQVBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+	  },
+	   {
+		"id": "AYrphwJZh1MC",
+		"title": "La novela ecuatoriana del siglo XIX",
+		"authors": [
+		  "Flor María Rodríguez-Arenas",
+		  "Raul Neira",
+		  "Christen Picicci"
+		],
+		"publisher": "Stockcero, Inc",
+		"gender": [
+		  "Ciencia ficción"
+		],
+		"description": "During the nineteenth century in Ecuador, writers produced novels that contributed to literary movements and schools of thought within Spanish-American literature. Plácido (1871) by Francisco Campos and Entre el amor y el deber: Escenas de la campaña de 1882-1883 en el Ecuador (1886) by Teófilo Pozo Monsalve are serious contributions to Romanticism. El hombre de las ruinas... (1869) by Francisco Javier Salazar Arboleda, departs from a raw Realism, but ultimately arrives vigorously at the characteristics associated with Naturalism. Conversely, Soledad by José Peralta (1885) and Timoleón Coloma: Dibujos de costumbres quiteñas (1887) by Carlos Rodolfo Tobar represent the consolidation of the realistic novel during the last quarter of the century; shortly thereafter, Campana y campanero (1891), by Honorato Vázquez, expresses attachment to Ecuadorian fiction and turn-of-the-century Spiritualistic Realism. The selection of essays concludes with Titania (1892) by Alfredo Baquerizo Moreno, a novel that exhibits tension between aspects of Realism and Naturalism, and which ultimately inscribes its world of fiction within Spanish-American modernism. The collection ends with an analysis of Abelardo (1895) by Eudófilo Álvarez, a completely modern novel and precursor to the well-known «-isms» and unprecedented ideological changes of the twentieth century. La Novela Ecuatoriana del siglo XIX - Essays Flor Maria Rodriguez-Arenas (editor) Essays by: Flor María Rodríguez-Arenas - Raúl Neira - Christen Picicci - Danilo García Bernal - César Andrés Ospina Mesa - Patricia G. Carrasco - Jeimy García Sánchez on: «El hombre de la ruinas...» (1869) by Francisco Javier Salazar Arboleda - «Plácido» (1871) by Francisco Campos - «Soledad» (1885) by José Peralta - «Entre el amor y el deber: escenas de la campaña de 1882 y 1883 en el Ecuador» (1886) by Teófilo Pozo Monsalve - «Timoleón Coloma» (1887) by Carlos R. Tobar - «Campana y Campanero» (1891) by Honorato Vázquez - «Titania» (1892) by Alfredo Baquerizo Moreno - «Abelardo» (1895) by Eudófilo Álvarez",
+		"price": 128,
+		"stock": 49,
+		"publishedDate": "2012-03-07",
+		"image": "http://books.google.com/books/content?id=AYrphwJZh1MC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+	  },
+	   {
+		"id": "6lxdAgAAQBAJ",
+		"title": "Poesia y educación poética",
+		"authors": [
+		  "Pedro C. Cerrillo Torremocha",
+		  "Ángel Luis Luján Atienza"
+		],
+		"publisher": "Univ de Castilla La Mancha",
+		"gender": [
+		  "Poesía"
+		],
+		"description": "El objetivo de este libro es servir de introducción a la enseñanza de la poesía en las aulas, y va dirigido principalmente a educadores o futuros educadores, aunque también lo pueden encontrar útil aquellos alumnos de diversos niveles y especialidades que quieran una guía para iniciarse en la lectura y disfrute de la poesía, y cualquiera que esté interesado en este antiguo arte. Ha sido intención de los autores proporcionar a los docentes y lectores los elementos imprescindibles para realizar una lectura de la poesía con rigor y profundidad y poner a su disposición algunas herramientas didácticas para aplicar ese conocimiento en los niveles de enseñanza primaria, secundaria y bachillerato.Cada uno de los capítulos del libro está dedicado de manera monográfica a uno de los aspectos imprescindibles en la formación de lectores de poesía. La voluntad de síntesis que rige el volumen permite presentar una visión sucinta pero completa de todo aquello que debe tenerse en cuenta para fomentar la lectura y comprensión de la poesía como un capítulo esencial de la educación literaria.",
+		"price": 285,
+		"stock": 11,
+		"publishedDate": "2010-06-18",
+		"image": "http://books.google.com/books/content?id=6lxdAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+	  },
+		{
+		"id": "-yFIP63O1bcC",
+		"title": "Leer y entender la poesía",
+		"authors": [
+		  "Martín Muelas Herraiz",
+		  "Juan José Gómez Brihuega"
+		],
+		"publisher": "Univ de Castilla La Mancha",
+		"gender": [
+		  "Poesía"
+		],
+		"description": "Leer y Entender la Poesía es un proyecto a medio plazo que pretende ayudar a superar, en la medida de lo posible, las dificultades de comprensión que suelen presentar los textos poéticos, atendiendo para ello a la interacción de todos los factores que confluyen en una obra poética dada. José Hierro ha sido el primer pretexto para este acercamiento. Las ponencias recogidas en este volumen y las participaciones personales del propio Hierro, como primer y más activo discutidor de los componentes éticos y estéticos que dan sentido a su obra, constituyen un punto de arranque inmejorable para este proyecto. Las palabras del propio Hierro resumen a la perfección el propósito del mismo: Estoy del lado de aquellos que consideran la poesía como una fe de vida. El hombre aspira a vivir eternamente, a vencer al tiempo y al espacio. La poesía lo representa allí donde no alcanza su presencia física. Mis versos no podrán dejar de ser un testimonio diario, una suma de instantes vividos con intensidad. Las ponencias recogidas en este volumen forman un corpus crítico con identidad suficiente para que sea de consulta obligada de quienes deseen comprender en profundidad la obra de José Hiero y manejar determinadas claves para la lectura de la poesía en general.",
+		"price": 285,
+		"stock": 33,
+		"publishedDate": "2001",
+		"image": "http://books.google.com/books/content?id=-yFIP63O1bcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+	  }
 ]
+
