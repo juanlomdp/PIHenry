@@ -1,123 +1,31 @@
 [
 {
   "id":1,
-  "name":"Biography"
+  "name":"Ciencia ficción"
 },
 {
    "id":2,
-  "name":"Autobiography"
+  "name":"Cuentos"
 },
 {
   "id":3,
-  "name":"Electronic books"
+  "name":"Poesía"
 },
 {
   "id":4,
-   "name":"Authors, Argentine"
+   "name":"Teatro"
 },
 {
    "id":5,
-  "name":"Argentine fiction"
+  "name":"Humor"
 },
 {
    "id":6,
-   "name":"Comics"
+   "name":"Biografía"
 },
 {
   "id":7,
-   "name":"Graphic Novels"
-},
-{
-  "id":8,
-  "name":"Fiction"
-},
-{
-  "id":9,
-  "name":"Chilean fiction"
-},
-{
-  "id":10,
-  "name":"Spanish language materials"
-},
-{
-  "id":11,
-  "name":"Poetry"
-},
-{
-  "id":12,
-  "name":"Literary Criticism"
-},
-{
-  "id":13,
-  "name":"Literary Collections"
-},
-{
-  "id":14,
-  "name":"Spanish American literature"
-},
-{
-  "id":15,
-  "name":"Education"
-},
-{
-  "id":16,
-  "name":"Juvenile Fiction"
-},
-{
-  "id":17,
-  "name":"Young Adult Fiction"
-},
-{
-  "id":18,
-  "name":"History"
-},
-{
-  "id":19,
-  "name":"England"
-},
-{
-  "id":20,
-  "name":"Juvenile Nonfiction "
-},
-{
-  "id":21,
-  "name":"Adventure fiction"
-},
-{
-  "id":22,
-  "name":"Study Aids"
-},
-{
-  "id":23,
-  "name":"Religion"
-},
-{
-  "id":24,
-  "name":"Art museum curators"
-},
-{
-  "id":25,
-  "name":"Science"
-},
-{
-  "id":26,
-  "name":"Novelists, American"
-},
-{
-  "id":27,
-  "name":"Cryptographers"
-},
-{
-  "id":28,
-  "name":"Anti-Catholicism"
-},
-{
-  "id":29,
-  "name":"Apocryphal Gospels"
-},
-{
-  "id":30,
-  "name":"Social Science"
+   "name":"AutoBiografía"
 }
 ]
 
