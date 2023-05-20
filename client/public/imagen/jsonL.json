@@ -1,928 +1,499 @@
 [
   {
-    "id": "iHkPDQAAQBAJ",
-    "title": "El código Da Vinci (Nueva Edición)",
+    "id": "RmwZEAAAQBAJ",
+    "title": "Cuentos completos",
     "authors": [
-      {
-        "name": "Dan Brown"
-      }
+      "Jorge Luis Borges"
     ],
-    "publisher": "Editorial Planeta",
+    "publisher": "VINTAGE ESPAÑOL",
     "gender": [
-      {
-        "name": "Juvenile Fiction"
-      }
+      "Fiction"
     ],
-    "description": "El profesor de simbología religiosa de la Universidad de Harvard Robert Langdon se encuentra en París dando una conferencia. En la recepción que tiene lugar a continuación tiene una cita con el prestigioso comisario del museo del Louvre, pero éste nunca aparece. Horas más tarde, el profesor recibe una llamada: el comisario ha sido encontrado muerto y la policía francesa requiere de sus servicios. Langdon es conducido al Louvre y allí descubre que la víctima ha dejado un mensaje cifrado en la escena del crimen. Convertido en el sospechoso principal, Langdon debe descifrar, junto a la criptóloga francesa Sophie Neveu, una serie de pistas que han sido dejadas específicamente para ellos. Si no consiguen resolver el puzzle a tiempo, un secreto milenario podría perderse para siempre, y sus vidas peligrarían. \"Espero sinceramente que esta adaptación de El código Da Vinci provoque en nuevos lectores el mismo entusiasmo que siento al explorar la historia secreta y los misterios del mundo en el que vivimos.\" Dan Brown",
-    "price": 75,
-    "stock": 39,
-    "publishedDate": "2016",
-    "image": "http://books.google.com/books/content?id=iHkPDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "description": "He intentado, no sé con qué fortuna, la redacción de cuentos directos. No me atrevo a afirmar que son sencillos; no hay en la tierra una sola página, una sola palabra, que lo sea, ya que todas postulan el universo, cuyo más notorio atributo es la complejidad. Este volumen reúne todos los cuentos de Borges, uno de los legados más influyentes y deslumbrantes de la literatura occidental. El universo borgiano, con sus espejos, laberintos, tigres, bibliotecas, gauchos o máscaras, es ya uno de los paisajes fundamentales del siglo XX. En este libro, el verdadero libro de libros, se encuentran obras maestras como El jardín de los senderos que se bifurcan, Pierre Menard, autor del Quijote, Funes el memorioso, El Sur, El Aleph o Ulrica. Leer estos cuentos supone releer la historia de la humanidad y emprender una de las aventuras más enriquecedoras, bellas y emocionantes de todos los tiempos.",
+    "price": 382,
+    "stock": 34,
+    "publishedDate": "2019-10-01",
+    "image": "http://books.google.com/books/content?id=RmwZEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
   },
   {
-    "id": "Q5IrDwAAQBAJ",
-    "title": "Fortaleza digital",
+    "id": "D3JEEAAAQBAJ",
+    "title": "Borges: el misterio esencial",
     "authors": [
-      {
-        "name": "Dan Brown"
-      }
+      "Jorge Luis Borges"
     ],
-    "publisher": "Editorial Planeta",
+    "publisher": "SUDAMERICANA",
     "gender": [
-      {
-        "name": "Fiction"
-      }
+      "Biography ",
+      " Autobiography"
     ],
-    "description": "Cuando el sofisticado superordenador de la NSA —la agencia de Inteligencia más poderosa del mundo— intercepta un código que es incapaz de descifrar, ésta debe recurrir a su mejor criptógrafa, Susan Fletcher. Fletcher descubrirá algo que hará tambalear las más altas esferas de poder: un intrincado código que, si llegara a hacerse público, podría provocar el mayor desastre de la historia de los servicios de inteligencia de Estados Unidos. Atrapada en una espiral de secretos y mentiras, Fletcher quiere salvar la agencia en la que cree pero, traicionada por todos, pronto se da cuenta de que debe luchar no sólo por su país, sino también por su vida. Una batalla por la supervivencia, una carrera crucial para destruir una creación de increíble sabiduría que amenaza con poner en jaque el equilibrio del poder mundial...para siempre. Un trepidante y vertiginoso thriller que transporta a los lectores desde las calles de Sevilla o los rascacielos de Tokio hasta el corazón de uno de los organismos más secretos del mundo. La primera novela de Dan Brown.",
-    "price": 349,
-    "stock": 32,
-    "publishedDate": "2017",
-    "image": "http://books.google.com/books/content?id=Q5IrDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "description": "Ya en sus ochenta años y convertido en una personalidad de enorme notoriedad pública a nivel mundial, Borges emprende un viaje a diversas universidades de los Estados Unidos en las que mantiene conversaciones entrañables sobre sí, sus mundos y sus obras, con académicos, periodistas y público general. En la década final de su vida, Borges emprendió una gira por los Estados Unidos con el fin de participar de una serie de diálogos organizados por las universidades más prestigiosas de esa nación (Chicago, Indiana, Columbia y el M.I.T., entre otras). El recorrido traza una cartografía inquietante: Borges conversa sobre el sentido del universo con un astrofísico, sobre misticismo con un experto en cábala y sobre el difuso límite entre realidad y ficción con escritores y poetas. Asiste a un encuentro en el PEN Club de Nueva York y concede incluso una entrevista a una personalidad televisiva: Dick Cavett. A lo largo de estos encuentros, el escritor argentino evoca sueños y pesadillas, sagas nórdicas, frases del inglés antiguo, la presencia del \"otro\" y el doble, y varios de sus autores favoritos, entre otros temas. El placer intelectual de la conversación lleva asimismo a Borges (por lo general renuente a las confidencias) a revelar el significado de símbolos y tramas de varias de sus obras. La traducción y las notas de Martín Hadis junto a las notables fotografías de Willis Barnstone completan en estas páginas el sensible retrato de ese misterio esencial de la literatura que conocemos como Borges.",
+    "price": 110,
+    "stock": 42,
+    "publishedDate": "2021-10-01",
+    "image": "http://books.google.com/books/content?id=D3JEEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+   {
+    "id": "vV9WCgAAQBAJ",
+    "title": "El legado de Borges.",
+    "authors": [
+      "Rafael Olea Franco"
+    ],
+    "publisher": "El Colegio de Mexico AC",
+    "gender": [
+      "Literary Collections"
+    ],
+    "description": "Se ofrece una serie de sólidas lecturas, elaboradas desde una perspectiva académica que no puede (ni debe) prescindir de la investigación y de la documentación. De este modo, los lectores interesados en la literatura de Borges dispondrán de una mayor cantidad de elementos para aproximarse a su arte verbal (con la certeza de que el conocimiento también contribuye a aumentar el goce literario).",
+    "price": 173,
+    "stock": 48,
+    "publishedDate": "2015-04-23",
+    "image": "http://books.google.com/books/content?id=vV9WCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
   },
   {
-    "id": "ggnLYF266IsC",
-    "title": "Inferno (Edición colombiana)",
+    "id": "jGiREAAAQBAJ",
+    "title": "Borges profesor: Curso de literatura inglesa en la Universidad de Buenos Aires / Professor Borges: English Literature Course at the University of Buenos Aires",
     "authors": [
-      {
-        "name": "Editorial Planeta S.A.U."
-      }
+      "Jorge Luis Borges"
     ],
-    "publisher": "Grupo Planeta Spain",
+    "publisher": "National Geographic Books",
     "gender": [
-      {
-        "name": "Fiction"
-      }
+      "Literary Collections"
     ],
-    "description": "En sus bestsellers internacionales El código Da Vinci, Ángeles y demonios y El símbolo perdido, Dan Brown aunó con maestría historia, arte, códigos y símbolos. En su fascinante nuevo thriller, Inferno, Brown recupera su esencia con su novela más ambiciosa hasta la fecha. En el corazón de Italia, el catedrático de Simbología de Harvard Robert Langdon se ve arrastrado a un mundo terrorífico centrado en una de las obras maestras de la Literatura más imperecederas y misteriosas de la Historia: el Infierno de Dante. Con este telón de fondo, Langdon se enfrenta a un adversario escalofriante y lidia con un acertijo ingenioso en un escenario de arte clásico, pasadizos secretos y ciencia futurista. Apoyándose en el oscuro poema épico de Dante, Langdon, en una carrera contrarreloj, busca respuestas y personas de confianza antes de que el mundo cambie irrevocablemente.",
-    "price": 120,
-    "stock": 17,
-    "publishedDate": "2013",
-    "image": "http://books.google.com/books/content?id=ggnLYF266IsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-  },
-  {
-    "id": "E0YmCwAAQBAJ",
-    "title": "El código Da Vinci de Dan Brown (Guía de lectura)",
-    "authors": [
-      {
-        "name": "Nathalie Roland"
-      }
-    ],
-    "publisher": "ResumenExpress.com",
-    "gender": [
-      {
-        "name": "Study Aids"
-      }
-    ],
-    "description": "ResumenExpress.com presenta y analiza en esta guía de lectura El código Da Vinci, superventas de Dan Brown. En esta novela de suspense esotérica el autor nos sumerge en un juego de pistas a través de Francia e Inglaterra, en búsqueda del misterioso Grial y de todos aquellos que han hecho todo lo posible para conservarlo o destruirlo. Salpicando su obra con alusiones a leyendas y hechos históricos, Dan Brown teje una historia cuyo resultado podría modificar la faz del mundo. ¡Ya no tienes que leer y resumir todo el libro, nosotros lo hemos hecho por ti! Esta guía incluye: • Un resumen completo del libro • Un estudio de los personajes • Las claves de lectura • Pistas para la reflexión ¿Por qué elegir ResumenExpress.com? Para aprender de forma rápida. Porque nuestras publicaciones están escritas con un estilo claro y conciso que te ayudará a ganar tiempo y a entender las obras sin esfuerzo. Disponibles en formato impreso y digital, te acompañarán en tu aventura literaria. Toma una dosis de literatura acelerada con ResumenExpress.com",
-    "price": 36,
-    "stock": 47,
-    "publishedDate": "2015",
-    "image": "http://books.google.com/books/content?id=E0YmCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-  },
-  {
-    "id": "GIUS6dvI_JsC",
-    "title": "EL CODIGO DA VINCI DESCODIFICADO",
-    "authors": [
-      {
-        "name": "MARTIN LUNN"
-      }
-    ],
-    "publisher": "Editorial AMAT",
-    "gender": [
-      {
-        "name": "Religion"
-      }
-    ],
-    "description": "LA GUIA NO AUTORIZADA ESENCIAL PARA DESCUBRIR LOS SECRETOS DE EL CÓDIGO DA VINCI El Código Da Vinci es un fenómeno editorial de la era moderna. Con millones de ejemplares publicados, se ha convertido en la novela para adultos más popular del siglo XXI. El autor de El Código Da Vinci, Dan Brown, nos dice que \"todas las descripciones de obras de arte.,edificios, documentos y rituales secretos [...] son veraces\". Pero ¿lo son? Han sido muchos los eruditos y teólogos que han atacado el libro y los \"hechos\" en los que se basa. Algunos afirman que Brown es anticatólico. Clubes de lectura, páginas web especializadas e innumerables críticas y artículos en revistas y periódicos de todo el mundo han avivado el fuego, convirtiendo El Código Da Vinci no sólo en el libro de mayor éxito en su categoría que se haya publicado nunca, sino además, en el más controvertido. Ahora, Martin Lunn, un experto historiador, revela la verdad que hay detrás de la investigación de Dan Brown. La realidad sobre la ramificación católica que es el Opus Dei... los hechos reales sobre el linaje de Jesucristo y el rey David... los sorprendentes secretos del Santo Grial... los orígenes de los Caballeros Templarios y del Priorato de Sión... los secretos de la iglesia del Temple y de la Capilla Rosslyn... y mucho más. Martin Lunn es un reconocido experto en el linaje Davídico y otros temas presentados en El Código Da Vinci. Máster en Historia, posee un extenso historial como periodista. Ha vivido en el Extremo Oriente y en Oriente medio, en los Estados Unidos y en diversos países europeos. Es también Gran Maestre de la Sociedad del Dragón, fundada originalmente en 1408 por el rey Segismundo de Hungría.",
-    "price": 12,
-    "stock": 29,
-    "publishedDate": "2004",
-    "image": "http://books.google.com/books/content?id=GIUS6dvI_JsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-  },
-  
-  {
-    "id": "YYcpDwAAQBAJ",
-    "title": "Origen (versión española)",
-    "authors": [
-      {
-        "name": "Dan Brown"
-      }
-    ],
-    "publisher": "Editorial Planeta",
-    "gender": [
-      {
-        "name": "Fiction"
-      }
-    ],
-    "description": "Robert Langdon, profesor de simbología e iconografía religiosa de la universidad de Harvard, acude al Museo Guggenheim Bilbao para asistir a un trascendental anuncio que «cambiará la faz de la ciencia para siempre». El anfitrión de la velada es Edmond Kirsch, un joven multimillonario cuyos visionarios inventos tecnológicos y audaces predicciones lo han convertido en una figura de renombre mundial. Kirsch, uno de los alumnos más brillantes de Langdon años atrás, se dispone a revelar un extraordinario descubrimiento que dará respuesta a las dos preguntas que han obsesionado a la humanidad desde el principio de los tiempos. ¿DE DÓNDE VENIMOS? ¿ADÓNDE VAMOS? Al poco tiempo de comenzar la presentación, meticulosamente orquestada por Edmond Kirsch y la directora del museo Ambra Vidal, estalla el caos para asombro de cientos de invitados y millones de espectadores en todo el mundo. Ante la inminente amenaza de que el valioso hallazgo se pierda para siempre, Langdon y Ambra deben huir desesperadamente a Barcelona e iniciar una carrera contrarreloj para localizar la críptica contraseña que les dará acceso al revolucionario secreto de Kirsch. Perseguidos por un atormentado y peligroso enemigo, Langdon y Ambra descubrirán los episodios más oscuros de la Historia y del extremismo religioso. Siguiendo un rastro de pistas compuesto por obras de arte moderno y enigmáticos símbolos, tendrán pocas horas para intentar desvelar la fascinante investigación de Kirsch... y su sobrecogedora revelación sobre el origen y el destino de la Humanidad. ORIGEN se desarrolla íntegramente en España. Barcelona, Bilbao, Madrid y Sevilla son los escenarios principales en los que transcurre la nueva aventura de Robert Langdon. De la mano del autor de El código Da Vinci, el lector recorrerá escenarios como el Monasterio de Montserrat, la Casa Milà (La Pedrera), la Sagrada Familia, el Museo Guggenheim Bilbao, el Palacio Real o la Catedral de Sevilla. Como ya sucedió con París en El código Da Vinci, con Roma en Ángeles y demonios o con Florencia en Inferno, los escenarios de las novelas de Dan Brown siempre han sido un elemento clave en sus tramas. Edición dedicada por Dan Brown.",
-    "price": 159,
-    "stock": 6,
-    "publishedDate": "2017",
-    "image": "http://books.google.com/books/content?id=YYcpDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-  },
-  {
-    "id": "_xcLc9fkKsYC",
-    "title": "Dan Brown's The Lost Symbol",
-    "authors": [
-      {
-        "name": "Alex Carmine"
-      }
-    ],
-    "publisher": "Punked Books",
-    "gender": [
-      {
-        "name": "Literary Criticism"
-      }
-    ],
-    "description": "Dan Brown's 'The Lost Symbol' was the most anticipated novel of 2009, and was the literary event of the year. Alex Carmine examines all the themes in depth, and provides a chapter-by-chapter analysis of 'The Lost Symbol'. From Alex's assessment of the novel, it is very much apparent that Dan Brown has not only been adhering to his own formula, but that he has also been following Joseph Campbell's concept of the hero's journey. We know that Dan Brown likes to play with the names of his characters, so Alex explores these in great detail. In this way, Alex reveals the name of the real American family upon whom the Solomons are based. Alex also shows that, following its development within 'The Da Vinci Code', Dan Brown's still very much in tune with his 'sacred feminine' side, with his stunning representation of womb envy. Dan Brown's fascinating depiction of masculinity within this novel is studied too. In addition to this, Alex explores the literary devices that Dan Brown employs, and the magical sleights of hand that he uses to make the reader look the wrong way. Indeed, one of the main arguments in this book is that Dan Brown has hidden much of the true meaning of 'The Lost Symbol' behind various veils of allegory, much as the Masons do with regards to their secrets, and like the Symbologist Robert Langdon, Alex reveals these meanings to you. However, Dan Brown is an author who also likes to reward his readers, so Alex examines the clues about the novel that he disseminated prior to publication via Facebook and Twitter. Furthermore, Alex considers the various Masonic practices depicted within the novel, and bring to the fore the conspiracy theories that surround this mysterious fraternity. Alex Carmine's very close reading of the novel literally leaves no stone uncovered, and will transform your own interpretation of the text.",
-    "price": 96,
+    "description": "El libro que revela a Borges en su faceta docente, imprescindible para los amantes de su obra y de la literatura. «No lo cite: léalo. [...] Urge no ya leerlo o releerlo, sino, como sugería Bolaño, \"releerlo otra vez\".»-Gonzalo Núñez, La Razón En 1966, Borges dictó un curso de literatura inglesa en la Universidad de Buenos Aires. Las clases fueron grabadas por algunos alumnos, que luego las transcribieron para que otros pudieran escucharlas. Las cintas originales se han perdido, pero los textos se han conservado hasta hoy. Tras un intenso trabajo de análisis e investigación de las fuentes, Martín Arias y Martín Hadis lograron compilar las transcripciones, sin modificar el lenguaje oral de Borges, que nos ha llegado intacto. La pasión de Borges, conjugada con su memoria casi infalible, hace de este libro una obra esencial para los admiradores del gran escritor argentino y los amantes de la literatura. ENGLISH DESCRIPTION The book that reveals Borges in his teaching facet, essential for fans of his work and literature in general. “Don't quote him: read him. [...] It is not only necessary to just to read or reread him, but as Bolaño suggested, \"we must reread him again and again\".” —Gonzalo Núñez, La Razón In 1966, Borges taught an English literature course at the University of Buenos Aires. Those classes were recorded by some students, who then transcribed them so that others could also enjoy them. The original tapes were lost, but the texts have been preserved. After an intense work of analysis and investigation, Martín Arias and Martín Hadis managed to compile the transcriptions, without modifying Borges' oral language, which remains intact. Borges' passion, combined with his almost infallible memory, makes this book an essential work for fans of the great Argentine writer and literature lovers in general.",
+    "price": 182,
     "stock": 13,
-    "publishedDate": "2009",
-    "image": "http://books.google.com/books/content?id=_xcLc9fkKsYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "publishedDate": "2020-07-21",
+    "image": "http://books.google.com/books/content?id=jGiREAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
   },
   {
-    "id": "VyrEv0paxDQC",
-    "title": "Secrets of The Lost Symbol",
+    "id": "tCfSI_C2iAkC",
+    "title": "Borges, un escritor en las orillas",
     "authors": [
-      {
-        "name": "Daniel Burstein"
-      },
-      {
-        "name": "Arne de Keijzer"
-      }
+      "Beatriz Sarlo"
     ],
-    "publisher": "Harper Collins",
+    "publisher": "Siglo XXI de España Editores",
     "gender": [
-      {
-        "name": "History"
-      }
+      "Literary Criticism"
     ],
-    "description": "“If anyone can divine the contents of The Lost Symbol, it’s Dan Burstein.” —New York magazine With Secrets of the Lost Symbol, co-authors Dan Burstein and Arne de Keijzer delve into the real history, science, and hidden meanings behind Dan Brown’s latest blockbuster novel, The Lost Symbol. As they have done previously with their extraordinary New York Times bestsellers Secrets of the Code and Secrets of Angels & Demons, Burstein and de Keijzer explore the themes, conspiracies, mythologies, codes, encrypted signs, and alternate histories—from the birth of Knights Templar to the present day—popularized by the acclaimed creator of The Da Vinci Code, giving them fresh and fascinating relevance while separating truth from fantasy.",
-    "price": 313,
-    "stock": 14,
-    "publishedDate": "2009",
-    "image": "http://books.google.com/books/content?id=VyrEv0paxDQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-  },
-  
-  
-  
-  {
-    "id": "Mmk-PQAACAAJ",
-    "title": "Toda la verdad sobre El Código Da Vinci",
-    "authors": [
-      {
-        "name": "Dan Burstein"
-      }
-    ],
-    "publisher": "Booket",
-    "gender": [
-      {
-        "name": "Science"
-      }
-    ],
-    "description": "Después de leer El código Da Vinci, Dan Burstein decidió investigar qué hay de cierto en las polémicas teorías que se manejan en la novela. El resultado es este libro, que se ha convertido en la guía imprescindible para entender los auténticos secretos del Código.",
-    "price": 206,
-    "stock": 3,
-    "publishedDate": "2006",
-    "image": "http://books.google.com/books/content?id=Mmk-PQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-  },
-  {
-    "id": "ty1SAwAAQBAJ",
-    "title": "Inferno",
-    "authors": [
-      {
-        "name": "Dan Brown"
-      }
-    ],
-    "publisher": "Mizan Publishing",
-    "gender": [
-      {
-        "name": "Fiction"
-      }
-    ],
-    "description": "Tempat tergelap di neraka dicadangkan bagi mereka yang tetap bersikap neteral di saat krisis moral. Tengah malam, Robert Langdon terbangun di rumah sakit dan syok saat mendapati dirinya ada di Florence, Italia. Padahal, ingatan terakhirnya adalah berjalan pulang setelah memberi kuliah di Harvard. Belum sempat Langdon memahami keganjilan ini, dunianya meledak dalam kekacauan. Di depan mata, dokter yang merawatnya ditembak mati. Langdon berhasil lolos atas bantuan Sienna Brooks, seorang dokter muda yang penuh rahasia. Dalam pelarian, Langdon menyadari bahwa dia memiliki sebuah stempel kuno berisi kode-kode rahasia ciptaan ilmuwan fanatik yang terobsesi pada kehancuran dunia berdasarkan mahakarya terhebat yang pernah ditulis?Inferno karya Dante. Ciptaan genetis ilmuwan tersebut mengancam kelangsungan umat manusia, Langdon harus berpacu dengan waktu memecahkan teka-teki yang berkelindan dalam puisi-puisi gelap Dante Alighieri. Belum lagi, dia harus menghindari sepasukan tentara berseragam hitam yang bertekad menangkapnya. Sang master, Dan Brown, sekali lagi menunjukkan kegeniusannya mengolah sejarah, seni, kode, dan simbol dalam sebuah kisah yang tak terlupakan. Setelah Da Vinci Code, Angels & Demons, dan The Lost Symbol, Inferno kembali menegaskan kejayaan Dan Brown sebagai perajut kisah luar biasa. [Mizan, Bentar, Novel, Memoar, Remaja, Indonesia]",
-    "price": 490,
-    "stock": 11,
-    "publishedDate": "2013",
-    "image": "http://books.google.com/books/content?id=ty1SAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-  },
-  {
-    "id": "ra6ZNFVBs1YC",
-    "title": "The Man Behind the Da Vinci Code",
-    "authors": [
-      {
-        "name": "Lisa Rogak"
-      }
-    ],
-    "publisher": "Andrews McMeel Publishing",
-    "gender": [
-      {
-        "name": "Novelists, American"
-      }
-    ],
-    "description": "Chronicles the life of author Dan Brown, discussing his childhood, schooling, efforts to avoid the public eye, acclaimed novels, impact on the literary world, and other related topics.",
-    "price": 178,
-    "stock": 33,
-    "publishedDate": "2005",
-    "image": "http://books.google.com/books/content?id=ra6ZNFVBs1YC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-  },
-  {
-    "id": "3A3eswEACAAJ",
-    "title": "Origin",
-    "authors": [
-      {
-        "name": "Dan Brown"
-      }
-    ],
-    "publisher": "Corgi Books",
-    "gender": [
-      {
-        "name": "Cryptographers"
-      }
-    ],
-    "description": "Harvard professor Robert Langdon arrives at the Guggenheim Museum Bilbao to attend the unveiling of an astonishing scientific breakthrough. The evening's host is billionaire Edmond Kirsch, a futurist whose dazzling high-tech inventions and audacious predictions have made him a controversial global figure. But before his secret can be revealed, the meticulously orchestrated evening is blown apart. With his life under threat, Langdon is forced to flee, aided by the museum's director, Ambra Vidal. If they are to beat a devious enemy to Kirsch's discovery, Langdon and Vidal must follow a perilous trail. signposted only by enigmatic symbols, hidden history and elusive modern art. At its end they will come face-to-face with a breathtaking truth that has remained buried - until now.",
-    "price": 344,
-    "stock": 20,
-    "publishedDate": "2018",
-    "image": "http://books.google.com/books/content?id=3A3eswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-  },
-  {
-    "id": "Pz4YDQAAQBAJ",
-    "title": "Origin",
-    "authors": [
-      {
-        "name": "Dan Brown"
-      }
-    ],
-    "publisher": "Anchor",
-    "gender": [
-      {
-        "name": "Fiction"
-      }
-    ],
-    "description": "The #1 New York Times Bestseller (October 2017) from the author of The Da Vinci Code. Robert Langdon, Harvard professor of symbology, arrives at the ultramodern Guggenheim Museum Bilbao to attend the unveiling of a discovery that “will change the face of science forever.” The evening’s host is Edmond Kirsch, a forty-year-old billionaire and futurist, and one of Langdon’s first students. But the meticulously orchestrated evening suddenly erupts into chaos, and Kirsch’s precious discovery teeters on the brink of being lost forever. Facing an imminent threat, Langdon is forced to flee. With him is Ambra Vidal, the elegant museum director who worked with Kirsch. They travel to Barcelona on a perilous quest to locate a cryptic password that will unlock Kirsch’s secret. Navigating the dark corridors of hidden history and extreme re\u00adligion, Langdon and Vidal must evade an enemy whose all-knowing power seems to emanate from Spain’s Royal Palace. They uncover clues that ultimately bring them face-to-face with Kirsch’s shocking discovery…and the breathtaking truth that has long eluded us.",
-    "price": 58,
-    "stock": 41,
-    "publishedDate": "2017",
-    "image": "http://books.google.com/books/content?id=Pz4YDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-  },
-  {
-    "id": "jfqdB3bcZ28C",
-    "title": "Decoding the Lost Symbol",
-    "authors": [
-      {
-        "name": "Simon Cox"
-      }
-    ],
-    "publisher": "Random House",
-    "gender": [
-      {
-        "name": "Literary Criticism"
-      }
-    ],
-    "description": "Written in a clear and concise A to Z format, Decoding the Lost Symbol is the essential guide to the thrilling third Dan Brown novel to feature Harvard symbologist Robert Langdon, The Lost Symbol. Decoding the Lost Symbol takes you on a journey of discovery through the world of Dan Brown and Robert Langdon, opening up the real mysteries and historical facts that are the basis of The Lost Symbol. Set over a breathtaking twelve hours, The Lost Symbol creates a world of intrigue and mystery based around the city of Washington DC. You will discover the amazing truth behind the storyline in Decoding the Lost Symbol, the must-have definitive guide to the Dan Brown novel. Simon Cox is the world-renowned expert on the mysteries of Dan Brown, having already authored the international bestseller Cracking the Da Vinci Code, Illuminating Angels & Demons and The Dan Brown Companion. His guides are essential reading for all fans of the Robert Langdon series of novels and are available in more than fifteen languages.",
-    "price": 478,
-    "stock": 1,
-    "publishedDate": "2009",
-    "image": "http://books.google.com/books/content?id=jfqdB3bcZ28C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-  },
-  
-  {
-    "id": "GXznEnKwTdAC",
-    "title": "Angels & Demons - Movie Tie-In",
-    "authors": [
-      {
-        "name": "Dan Brown"
-      }
-    ],
-    "publisher": "Simon and Schuster",
-    "gender": [
-      {
-        "name": "Fiction"
-      }
-    ],
-    "description": "The murder of a world-famous physicist raises fears that the Illuminati are operating again after centuries of silence, and religion professor Robert Langdon is called in to assist with the case.",
-    "price": 160,
-    "stock": 35,
-    "publishedDate": "2009",
-    "image": "http://books.google.com/books/content?id=GXznEnKwTdAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-  },
-  {
-    "id": "IPsKBAAAQBAJ",
-    "title": "Inferno - Illustrated Edition",
-    "authors": [
-      {
-        "name": "Dan Brown"
-      }
-    ],
-    "publisher": "Random House",
-    "gender": [
-      {
-        "name": "Fiction"
-      }
-    ],
-    "description": "SEEK AND YOU WILL FIND Florence: Harvard symbologist Robert Langdon awakes in a hospital bed with no recollection of where he is or how he got there. Nor can he explain the origin of the macabre object that is found hidden in his belongings. A threat to his life will propel him and a young doctor, Sienna Brooks, into a breakneck chase across the city. Only Langdon’s knowledge of the hidden passageways and ancient secrets that lie behind its historic facade can save them from the clutches of their unknown pursuers. With only a few lines from Dante’s The Inferno to guide them, they must decipher a sequence of codes buried deep within some of the Renaissance’s most celebrated artworks to find the answers to a puzzle which may, or may not, help them save the world from a terrifying threat... When it was published in the summer of 2013, Inferno became a global sensation, selling over 15 million copies in hardcover. This new and exclusive illustrated edition illuminates the sights and cities which form the backdrop to Dan Brown’s most thought-provoking and compelling novel yet, and reveals the rich tapestry of history, art and literature which inspired its narrative.",
-    "price": 394,
+    "description": "Jorge Luis Borges es uno de los escritores más destacados del siglo XX y, sin embargo, en todas las críticas literarias a su obra apenas se menciona el hecho de que era un escritor argentino, como si su reputación mundial de alguna forma hubiera borrado su nacionalidad. En este libro, Sarlo desafía estas lecturas «universalistas» argumentando que dejan de lado aspectos vitales de la escritura de Borges, incluida su poderosa visión de las tradiciones y el pasado argentinos que situaron tanto al escritor como a su país en la extraña intersección de las culturas europea y latinoamericana. Este análisis de la obra de Borges está dividido en dos partes. La primera la forman una serie de conferencias sobre la ficción de Borges; la segunda habla sobre el surgimiento de la vanguardia y las revistas literarias con el fin de situar su literatura en un contexto cultural e ideológico. Borges escribió en un encuentro de caminos. A pesar de la perfecta felicidad del estilo, su obra tiene en el centro una grieta: se desplaza por el filo de varias culturas, que se tocan —o repelen— en sus bordes. Colocado en los límites —entre géneros literarios, entre lenguas, entre culturas—, Borges es el escritor de «las orillas», un marginal en el centro, un cosmopolita en los márgenes; alguien que, paradójicamente, construye su originalidad en la afirmación de la cita, de la copia, de la reescritura de textos ajenos, porque piensa, desde un principio, en la fundación de la escritura desde la lectura, y desconfía, desde un principio, de la posibilidad de representación literaria de lo real. Su obra muestra el conflicto y este libro intenta leerla en esa dimensión desgarrada. Beatriz Sarlo ha querido y ha logrado mantener esta tensión que atraviesa a Borges y constituye su particularidad: un juego en el filo de dos orillas.",
+    "price": 236,
     "stock": 49,
-    "publishedDate": "2014",
-    "image": "http://books.google.com/books/content?id=IPsKBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "publishedDate": "2007-01-01",
+    "image": "http://books.google.com/books/content?id=tCfSI_C2iAkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
   },
   {
-    "id": "yrRdbryIcvcC",
-    "title": "Inferno",
+    "id": "5PuMEAAAQBAJ",
+    "title": "Poesía completa / Complete Poetry Borges",
     "authors": [
-      {
-        "name": "Dan Brown"
-      }
-    ],
-    "publisher": "Random House",
-    "gender": [
-      {
-        "name": "Fiction"
-      }
-    ],
-    "description": "THE #1 GLOBAL BESTSELLER 'A swirl of big ideas and non-stop action' New York Times Florence: Harvard symbologist Robert Langdon awakes in a hospital bed with no recollection of where he is or how he got there. Nor can he explain the origin of the macabre object that is found hidden in his belongings. A threat to his life will propel him and a young doctor, Sienna Brooks, into a breakneck chase across the city. Only Langdon's knowledge of the hidden passageways and ancient secrets that lie behind its historic facade can save them from the clutches of their unknown pursuers. With only a few lines from Dante's Inferno to guide them, they must decipher a sequence of codes buried deep within some of the Renaissance's most celebrated artworks to find the answers to a puzzle which may, or may not, help them save the world from a terrifying threat . . .",
-    "price": 32,
-    "stock": 11,
-    "publishedDate": "2013",
-    "image": "http://books.google.com/books/content?id=yrRdbryIcvcC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-  },
-  
-  {
-    "id": "e92DEAAAQBAJ",
-    "title": "Digital Fortress",
-    "authors": [
-      {
-        "name": "Dan Brown"
-      }
-    ],
-    "publisher": "St. Martin's Griffin",
-    "gender": [
-      {
-        "name": "Fiction"
-      }
-    ],
-    "description": "Before the multi-million, runaway bestseller The Da Vinci Code, Dan Brown set his razor-sharp research and storytelling skills on the most powerful intelligence organization on earth--the National Security Agency (NSA)--in this thrilling novel, Digital Fortress. When the NSA's invincible code-breaking machine encounters a mysterious code it cannot break, the agency calls its head cryptographer, Susan Fletcher, a brilliant, beautiful mathematician. What she uncovers sends shock waves through the corridors of power. The NSA is being held hostage--not by guns or bombs -- but by a code so complex that if released would cripple U.S. intelligence. Caught in an accelerating tempest of secrecy and lies, Fletcher battles to save the agency she believes in. Betrayed on all sides, she finds herself fighting not only for her country but for her life, and in the end, for the life of the man she loves.",
-    "price": 195,
-    "stock": 29,
-    "publishedDate": "2023",
-    "image": "http://books.google.com/books/content?id=e92DEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-  },
-  {
-    "id": "RqxC94F-_loC",
-    "title": "Dan Brown: The Unauthorized Biography",
-    "authors": [
-      {
-        "name": "Lisa Rogak"
-      }
-    ],
-    "publisher": "St. Martin's Griffin",
-    "gender": [
-      {
-        "name": "Biography"
-      },
-      {
-        "name": "Autobiography"
-      }
-    ],
-    "description": "The Revealing Story of Dan Brown, the Man Who Outsold the Bible The Da Vinci Code made Dan Brown one of the most popular authors in history. Yet he's also one of the most secretive, rarely granting interviews or making public appearances. In this illuminating biography, Lisa Rogak uncovers the life of the high school English teacher and singer/songwriter who became one of the world's bestselling writers. She recounts his bumpy road to publishing success and the legal battle that he fought and won. And she sheds light on the writing process--- and Brown's fascination with puzzles and codes--- that has brought us Digital Fortress, Deception Point, Angels & Demons, The Da Vinci Code, The Lost Symbol, and Inferno. For the first time in paperback, this revised-and-updated biography offers fans a chance to learn more about the author whose novels have captivated millions of readers.",
-    "price": 111,
-    "stock": 40,
-    "publishedDate": "2013",
-    "image": "http://books.google.com/books/content?id=RqxC94F-_loC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-  },
-  {
-    "id": "FdZWAAAAQBAJ",
-    "title": "Inferno Revealed",
-    "authors": [
-      {
-        "name": "Deborah Parker"
-      },
-      {
-        "name": "Mark Parker"
-      }
-    ],
-    "publisher": "St. Martin's Press",
-    "gender": [
-      {
-        "name": "Literary Criticism"
-      }
-    ],
-    "description": "Using Dan Brown's book as a jumping off point, Inferno Revealed will provide readers of Brown's Inferno with an engaging introduction to Dante and his world. Much like the books on Leonardo that followed the release of the Da Vinci Code, this book will provide readers with more information about the ever-intriguing Dante. Specifically, Inferno Revealed explores how Dante made himself the protagonist of The Divine Comedy, something no other epic poet has done, a move for which the ramifications have not yet been fully explored. The mysteries and puzzles that arise from Dante's choice to personalize the epic, along with his affinity for his local surroundings and how that affects his depiction of the places, Church, and politics in the poem are considered--along with what this reveals about Brown's own usage of the work. The authors will focus on and analyze how Dan Brown has repurposed Inferno in his newest book--noting what he gets right and what errors are made when he does not. Of course, Dan Brown is not the first author to base his work on Dante. The Comedy has elicited many adaptations from major canonical writers such as Milton and Keats to popular adaptations like David Fincher's Se7en and Tim Burton's Beetlejuice-- all of which will be discussed in detail within Inferno Revealed.",
-    "price": 241,
-    "stock": 30,
-    "publishedDate": "2013",
-    "image": "http://books.google.com/books/content?id=FdZWAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-  },
-  {
-    "id": "3rKPEAAAQBAJ",
-    "title": "The Da Vinci Code (The Young Adult Adaptation)",
-    "authors": [
-      {
-        "name": "Dan Brown"
-      }
+      "Jorge Luis Borges"
     ],
     "publisher": "National Geographic Books",
     "gender": [
-      {
-        "name": "Young Adult Fiction"
-      }
+      "Poetry"
     ],
-    "description": "Dan Brown’s mega-bestseller is now available for a new generation of readers. This young adult adaptation is the perfect way to get ready for Origin, the latest novel featuring the character Robert Langdon. It will remind fans everywhere why the New York Times calls The Da Vinci Code “blockbuster perfection.” Includes over twenty color photos showing important locations, landmarks, and artwork, taking readers from Paris to London and beyond! The greatest conspiracy of the past two thousand years is about to unravel. Robert Langdon, professor of religious symbology at Harvard, is in Paris to give a lecture. At the reception that follows, he is scheduled to meet with a revered curator from the world-famous Louvre museum. But the curator never shows up, and later that night Langdon is awakened by authorities and told that the curator has been found dead. He is then taken to the Louvre—the scene of the crime—where he finds out that baffling clues have been left behind. Thus begins a race against time, as Robert Langdon becomes a suspect and, with the help of French cryptologist Sophie Neveu, must decipher a mystifying trail of clues that the two come to realize have been left specifically for them. If Robert and Sophie cannot solve the puzzle in time, an ancient truth could be lost forever—and they themselves might end up as collateral damage. Praise for the adult edition of The Da Vinci Code “WOW . . . Blockbuster perfection. An exhilaratingly brainy thriller. Not since the advent of Harry Potter has an author so flagrantly delighted in leading readers on a breathless chase and coaxing them through hoops.”—The New York Times “A new master of smart thrills. A pulse-quickening, brain-teasing adventure.”—People",
-    "price": 399,
-    "stock": 47,
-    "publishedDate": "2016",
-    "image": "http://books.google.com/books/content?id=3rKPEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "description": "La obra poética completa del maestro argentino en un solo volumen Además de extraordinario narrador y ensayista, Jorge Luis Borges fue un excelente poeta. De hecho, puede decirse que la poesía es el alma de su obra. Indisociable de sus cuentos y ensayos, estos poemas son parte indispensable del universo borgiano y constituyen una indagación paralela a los asuntos que siempre le apasionaron: los libros, la memoria, los laberintos, los espejos, el amor o la eternidad. De los poemas que integran esta fantástica colección cabe destacar “El mar”, “Arte poética”, “El laberinto”, “Límites” y su primer libro de poesía Fervor de Buenos Aires, entre otros muchos. Dueño de un fino oído y una impresionante capacidad para crear imágenes memorables, Borges revive en sus grandes poemas la intensidad que recorre la gran tradición occidental desde Homero hasta Eliot. En palabras del propio Borges: “Ajedrez misterioso la poesía, cuyo tablero y cuyas piezas cambian como en un sueño y sobre el cual me inclinaré después de haber muerto”. “La deuda que tenemos contraída con él quienes escribimos en español es enorme”. —Mario Vargas Llosa ENGLISH DESCRIPTION The complete poetic work of the Argentine master gathered in one single volume. Besides being an extraordinary storyteller and essayist, Jorge Luis Borges was an excellent poet. In fact, it can be said that poetry is the soul of his work. Together with his stories and essays, these poems are an crucial part of the Borgesian universe and make up a parallel inquiry to the issues that always fascinated him: books, memory, labyrinths, mirrors, love, or eternity. Among the poems that make up this fantastic collection include “The Sea”, “The Art of Poetry”, “The Labyrinth”, “Limits” and his first book of poetry Fervor of Buenos Aires, among many others. Having had a fine ear and an impressive capacity to create memorable images, Borges relives in his great poems the intensity that runs through the great Western traditions, from Homer to Eliot. In Borges’ own words: \"Poetry is a mysterious chess game, whose board and whose pieces change as if in a dream and on which I will lean after I die.\"",
+    "price": 38,
+    "stock": 25,
+    "publishedDate": "2012-09-04",
+    "image": "http://books.google.com/books/content?id=5PuMEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
   },
-  
-  
   {
-    "id": "IqPW7mqq6GIC",
-    "title": "Robert Langdon Omnibus",
+    "id": "noq5DwAAQBAJ",
+    "title": "Borges profesor",
     "authors": [
-      {
-        "name": "Dan Brown"
-      }
+      "Jorge Luis Borges"
     ],
-    "publisher": "Random House",
+    "publisher": "LUMEN",
     "gender": [
-      {
-        "name": "Anti-Catholicism"
-      }
+      "Literary Criticism"
     ],
-    "description": "Thriller. Two books in one.",
-    "price": 461,
-    "stock": 31,
+    "description": "El libro que revela a Borges en su faceta docente, imprescindible para los amantes de su obra y de la literatura. «No lo cite: léalo. [...] Urge no ya leerlo o releerlo, sino, como sugería Bolaño, \"releerlo otra vez\".» Gonzalo Núñez, La Razón En 1966, Borges dictó un curso de literatura inglesa en la Universidad de Buenos Aires. Las clases fueron grabadas por algunos alumnos, que luego las transcribieron para que otros pudieran escucharlas. Las cintas originales se han perdido, pero los textos se han conservado hasta hoy. Tras un intenso trabajo de análisis e investigación de las fuentes, Martín Arias y Martín Hadis lograron compilar las transcripciones, sin modificar el lenguaje oral de Borges, que nos ha llegado intacto. La pasión de Borges, conjugada con su memoria casi infalible, hace de este libro una obra esencial para los admiradores del gran escritor argentino y los amantes de la literatura. Reseñas: «Borges es el escritor en español más importante desde Cervantes. [...] Uno de los artistas contemporáneos más memorables. [...] La deuda que tenemos contraída con él quienes escribimos en español es enorme.» Mario Vargas Llosa «Uno de los escritores más extraordinarios del siglo xx.» The New York Times «Es un lugar común llamar maestro a un gran escritor. Pero algunos lo fueron realmente. Si ya se saben de memoria to- dos sus cuentos, Borges profesor recoge las clases de literatura inglesa que dio en la Universidad de Buenos Aires, a partir de las transcripciones de alumnos.» Xavi Ayén, La Vanguardia «Reflexiones cautivadoras, llenas calor y compromiso, con el fin de comunicar amor por sus obras y así arrastrar a sus alumnos a la lectura. [...] Un profesor ejemplar que recuerda muchísimo al soberano poeta y escritor que fue.» Ángel Rupérez,Babelia (\"De cómo enseñar a amar la literatura\") «A los dieciocho años descubrí a Borges. Leía, pero erráticamente. No sólo su literatura me deslumbró sino que lo que pasa con Borges es que él es toda la literatura, no solamente la europea sino la universal. Fui leyendo a todos los autores que indicaba. Me ha formado mi gusto literario.» Jacobo Siruela, El Mundo «La naturaleza informal de esos registros aporta un punto de vista distinto, pero no por ello menos luminoso: ese Borges de modesta pedantería, que habla como escribe y mantiene la pulcritud de su discurso.» Karina Sainz Borgo, Vozpópuli «Junto con un pequeño séquito de colegas y profetas (se me ocurren Kafka y Joyce), Borges es más que un cuentista sorprendente y un brillante estilista: es un espejo que refl eja el espíritu de su tiempo.» Chicago Tribune «Gracias a la minuciosa reconstrucción filológica de Arias y Hadis tenemos la ocasión de asistir a las clases de Borges: [...] los admiradores del escritor estamos de enhorabuena.» José Luis García Martín, El Comercio - Cultura «Borges, visionario escéptico, nos fascina. [...] Cumple con nuestro anhelo esencial en cuanto a las razones por que leemos.» Harold Bloom, Cómo leer a Jorge Luis Borges",
+    "price": 226,
+    "stock": 39,
+    "publishedDate": "2019-11-01",
+    "image": "http://books.google.com/books/content?id=noq5DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": "FwaLE_sONaQC",
+    "title": "Borges ante el espejo",
+    "authors": [
+      "Justo R. Molachino",
+      "Jorge Mejía Prieto"
+    ],
+    "publisher": "LD Books",
+    "gender": [
+      "Biography ",
+      " Autobiography"
+    ],
+    "description": "This collection of writings of Jorge Luis Borges and others provides a glimpse into Borges's life.",
+    "price": 364,
+    "stock": 27,
     "publishedDate": "2005",
-    "image": "http://books.google.com/books/content?id=IqPW7mqq6GIC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "image": "http://books.google.com/books/content?id=FwaLE_sONaQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
   },
   {
-    "id": "F8CXH1J8bggC",
-    "title": "The Da Vinci Code",
+    "id": "HjozDQAAQBAJ",
+    "title": "Homenaje a Borges",
     "authors": [
-      {
-        "name": "Dan Brown"
-      }
+      "María Kodama"
     ],
-    "publisher": "Random House Large Print Publishing",
+    "publisher": "SUDAMERICANA",
     "gender": [
-      {
-        "name": "Art museum curators"
-      }
+      "Biography ",
+      " Autobiography"
     ],
-    "description": "Perfect for history buffs, conspiracy nuts puzzle lovers or anyone who appreciates a riveting story.",
-    "price": 440,
-    "stock": 38,
-    "publishedDate": "2003",
-    "image": "http://books.google.com/books/content?id=F8CXH1J8bggC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "description": "A treinta años de la muerte de Borges, su viuda, María Kodama, presenta al gran público, por primera vez y a manera de homenaje, una selección de las cientos de conferencias que ha dado sobre él y su obra en todo el mundo. Kodama recorre tópicos indispensables de la obra borgeana y aspectos poco conocidos de la intimidad de Borges y de la relación que la unió a él desde sus dieciséis años.",
+    "price": 65,
+    "stock": 43,
+    "publishedDate": "2016-08-01",
+    "image": "http://books.google.com/books/content?id=HjozDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
   },
   {
-    "id": "4BmNEAAAQBAJ",
-    "title": "Inferno (Spanish Edition)",
+    "id": "0NcCEAAAQBAJ",
+    "title": "Borges",
     "authors": [
-      {
-        "name": "Dan Brown"
-      }
+      "Enrique Gallud Jardiel"
+    ],
+    "publisher": "Editorial Verbum",
+    "gender": [
+      "Biography ",
+      " Autobiography"
+    ],
+    "description": "Jorge Luis Borges (1899-1986) es, sin duda alguna, uno de los más grandes genios que ha dado la literatura. Este poeta y narrador argentino, de extraordinaria cultura literaria y excepcionales dotes creadoras, se inició en el ultraísmo para derivó hacia un estilo propio, original e inigualable. En sus temas, locales o universales, se encuentran las más bellas metáforas y los más intrincados símbolos. Su vida transcurrió entre libros, que eran su pasión, pues fue bibliotecario durante muchos años. Se mostraba más orgulloso de los libros que había leído que de los que había escrito. Por una de esas terribles ironías del destino, esta persona, nacida para leer, perdió la vista por una enfermedad. Los avatares de su vida se cuentan en esta biografía, bellamente ilustrada, que nos acercará a uno de los hombres que más han amado la cultura y el saber.",
+    "price": 113,
+    "stock": 42,
+    "publishedDate": "2020-10-14",
+    "image": "http://books.google.com/books/content?id=0NcCEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": "oahdAAAAMAAJ",
+    "title": "Expliquémonos a Borges como poeta",
+    "authors": [
+      "Angel Flores"
+    ],
+    "publisher": "Siglo XXI",
+    "gender": [
+      "Juvenile Nonfiction"
+    ],
+    "description": "En la lírica de Jorge Luis Borges, lector infatigable de diversas literaturas, convergen influencias tan dispares como los poetas metafísicos del siglo XVII inglés (John Donne, en especial), los expresionistas alemanes de fines del siglo XIX y los ultraístas españoles del XX. No obstante, el famoso autor argentino pronto quedó libre de estas influencias logrando crear una lírica que capta conmovedoramente ya sea su sentimiento trágico de la vida o las voces de los arrabales bonaerenses.",
+    "price": 61,
+    "stock": 32,
+    "publishedDate": "1984",
+    "image": "http://books.google.com/books/content?id=oahdAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "TxMuDAAAQBAJ",
+    "title": "El tango",
+    "authors": [
+      "Jorge Luis Borges"
+    ],
+    "publisher": "SUDAMERICANA",
+    "gender": [
+      "Music"
+    ],
+    "description": "Cincuenta años después de pronunciadas, cuatro conferencias inéditas de Borges sobre el tango que abordan, a puro ingenio, desde sus orígenes en los arrabales de la Buenos Aires de antaño, sus raíces en la milonga y sus personajes (compadritos, \"niños bien\", mujeres de mala vida), hasta la figura de Carlos Gardel, el espíritu del \"tango llorón\", y el lugar del gaucho y las \"casas malas\" en su lírica.",
+    "price": 319,
+    "stock": 18,
+    "publishedDate": "2016-06-01",
+    "image": "http://books.google.com/books/content?id=TxMuDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": "iGaREAAAQBAJ",
+    "title": "Borges esencial. Edición Conmemorativa / Essential Borges: Commemorative Edition",
+    "authors": [
+      "Jorge Luis Borges"
     ],
     "publisher": "National Geographic Books",
     "gender": [
-      {
-        "name": "Fiction"
-      }
+      "Fiction"
     ],
-    "description": "El profesor de simbología en Harvard Robert Langdon despierta en un hospital a media noche. Desorientado y con una herida en la cabeza, no recuerda nada de las últimas treinta y seis horas, incluyendo como llegó allí o el origen de ese macabro objeto que los médicos han descubierto entre sus pertenencias. Con una incansable asesina persiguiéndoles por Florencia, Langdon y la ingeniosa doctora Sienna Brooks se ven obligados a huir. Embarcados en un aterrador viaje, deberán desentramar una serie de códigos desarrollados por un brillante científico cuya obsesión con el fin del mundo sólo se compara con su pasión por una de las obras más influyentes jamás escritas: El infierno, el oscuro poema épico de Dante. Dan Brown ha vuelto a superarse, combinando el arte clásico de Italia, su literatura y su historia con la ciencia más avanzada en este entretenidísimo thriller. ENGLISH DESCRIPTION #1 WORLDWIDE BESTSELLER Harvard professor of symbology Robert Langdon awakens in an Italian hospital, disoriented and with no recollection of the past thirty-six hours, including the origin of the macabre object hidden in his belongings. With a relentless female assassin trailing them through Florence, he and his resourceful doctor, Sienna Brooks, are forced to flee. Embarking on a harrowing journey, they must unravel a series of codes, which are the work of a brilliant scientist whose obsession with the end of the world is matched only by his passion for one of the most influential masterpieces ever written, Dante Alighieri's The Inferno. Dan Brown has raised the bar yet again, combining classical Italian art, history, and literature with cutting-edge science in this captivating thriller.",
-    "price": 410,
-    "stock": 10,
-    "publishedDate": "2014",
-    "image": "http://books.google.com/books/content?id=4BmNEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "description": "Una nueva edición conmemorativa de la RAE y la ASALE que incluye lo mejor de la obra de Jorge Luis Borges. La obra fundamental del maestro de la ficción contemporánea. El presente volumen incluye los textos íntegros de Ficciones y El Aleph, dos de sus obras narrativas más representativas, así como una selección de sus poemas y textos ensayísticos. Una obra bella, pura y original escrita con un lenguaje aparentemente desnudo pero dotado de la precisión de un bisturí, y de un gran poder evocador y carga simbólica. Jorge Luis Borges nació el 24 de agosto de 1899 en Buenos Aires. Su obra ha sido traducida a más de veinticinco idiomas, y actualmente Jorge Luis Borges es considerado uno de los más importantes autores en lengua hispana de todos los tiempos. Murió en Ginebra el 14 de junio de 1986. ENGLISH DESCRIPTION A new, commemorative edition by the Real Academia Española and the ASALE that includes the best of Jorge Luis Borges’s work. The fundamental works of the master of contemporary fiction. This volume includes the unabridged texts of Ficciones and El Aleph, two of his most representative narrative works, as well as a selection of his poems and essays. A beautiful, pure, and original work, written in a bare style but with the precision of a scalpel, and with great evocative power and symbolic weight. Jorge Luis Borges was born on August 24, 1899, in Buenos Aires. His works have been translated into more than 25 languages, and Borges is currently considered one of the most important Spanish-language authors of all time. He died in Geneva in 1986.",
+    "price": 221,
+    "stock": 41,
+    "publishedDate": "2017-08-29",
+    "image": "http://books.google.com/books/content?id=iGaREAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
   },
-  
-  {
-    "id": "_7m0uQAACAAJ",
-    "title": "The Da Vinci Code",
+   {
+    "id": "6IBlAAAAMAAJ",
+    "title": "Borges crítico",
     "authors": [
-      {
-        "name": "Dan Brown"
-      }
+      "Sergio Pastormerlo"
     ],
-    "publisher": "Turtleback Books",
+    "publisher": "Fondo de Cultura Economica USA",
     "gender": [
-      {
-        "name": "Art museum curators"
-      }
+      "Literature"
     ],
-    "description": "For use in schools and libraries only. With The Da Vinci Code, Dan Brown masterfully concocts an intelligent and lucid thriller that marries the gusto of an international murder mystery with a collection of fascinating esoteria culled from 2,000 years of Western history.",
-    "price": 153,
-    "stock": 46,
+    "description": "La obra de Jorge Luis Borges siempre ha suscitado profundos debates y reflexiones desde distintas perspectivas del mbito intelectual. Si bien es ampliamente reconocido por sus relatos y poemas, Borges, como lector apasionado, escribi constantemente sobre autores y libros desde una visi n que por su misma singularidad no dej de provocar controversias en la escena literaria. el autor propone un recorte particular: el del Borges cr tico, el lugar de la cr tica en su obra y las repercusiones de sus textos cr pticos en el marco de la literatura argentina.",
+    "price": 221,
+    "stock": 6,
+    "publishedDate": "2007",
+    "image": "http://books.google.com/books/content?id=6IBlAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "cj5wEAAAQBAJ",
+    "title": "Reflejos de la memoria. Homenaje a Jorge Luis Borges",
+    "authors": [
+      "Varios Autores"
+    ],
+    "publisher": "Universidad de las Américas Ecuador",
+    "gender": [
+      "Fiction"
+    ],
+    "description": "\"Las revelaciones/destellos que el lector encontrará en este espejo son los recuerdos de un selecto grupo de jóvenes estudiantes rebeldes quienes, allá por el 78, un 29 de noviembre, organizaron en la Pontificia Universidad Católica del Ecuador un coloquio que les marcaría de por vida, hasta el punto de cambiar su visión de la existencia y autodefinirse como «borgeanos». Sus nombres resaltan en el horizonte intelectual y profesional del Ecuador, y hoy se juntan para dar identidad a esta compilación de testimonios sobre uno de los acontecimientos culturales más importantes que tuvo el país en la segunda mitad del siglo XX, el I Encuentro Iberoamericano de Escritores. A este conjunto de anécdotas se añade material invaluable: varios extractos inéditos del diálogo entre el escritor argentino y su auditorio, transcritos del único audio grabado aquel día. A los cuarenta y un años de la presencia de Jorge Luis Borges en Quito —que como exlibirs, se conserva perenne, fresca e intacta—, la Universidad de Las Américas se enorgullece en homenajear a quien, a todas luces, es la figura latinoamericana más relevante de la Literatura Universal.\"",
+    "price": 447,
+    "stock": 19,
+    "publishedDate": "2022-05-17",
+    "image": "http://books.google.com/books/content?id=cj5wEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": "VfZPAQAAIAAJ",
+    "title": "Borges",
+    "authors": [
+      "Emir Rodríguez Monegal"
+    ],
+    "publisher": "Fondo de Cultura Economica USA",
+    "gender": [
+      "Authors, Argentine"
+    ],
+    "description": "La vida de Jorge Luis Borges transcurrio, con excepcion de los dos viajes de juventud, apacible en Buenos Aires. No hay en esa vida mas que minimas anecdotas que dan cuenta de un hombre dedicado al culto de los libros en la extraordinaria biblioteca paterna y en la Biblioteca Nacional. Esas historias de la memoria personal que transcurrieron en aquellos espacios privilegiados, permiten reconocer los intimos lazos que anudan la obra y la vida de uno de los mayores escritores de nuestra lengua.",
+    "price": 6,
+    "stock": 49,
+    "publishedDate": "1987",
+    "image": "http://books.google.com/books/content?id=VfZPAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "fJ1BM2gJEcgC",
+    "title": "Pablo Neruda para niños",
+    "authors": [
+      "Pablo Neruda"
+    ],
+    "publisher": "Ediciones de la Torre",
+    "gender": [
+      "Comics ",
+      " Graphic Novels"
+    ],
+    "description": "Enamorado de la vida y de las causas de los oprimidos, Neruda, poeta del amor y la libertad (premio Nobel de Literatura 1971), representa y sintetiza todo el vigor y contradicciones de un mundo a la vez muy reciente y antiguo: América del Sur.",
+    "price": 470,
+    "stock": 13,
+    "publishedDate": "1996",
+    "image": "http://books.google.com/books/content?id=fJ1BM2gJEcgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+ 
+  {
+    "id": "vGqREAAAQBAJ",
+    "title": "Neruda. Poesía de amor. De tus caderas a tus pies quiero hacer un largo viaje / Love Poetry",
+    "authors": [
+      "Pablo Neruda",
+      "Mar Guixe"
+    ],
+    "publisher": "National Geographic Books",
+    "gender": [
+      "Poetry"
+    ],
+    "description": "El volumen Poesía de amor. De tus caderas a tus pies quiero hacer un largo viaje de la colección «Poesía portátil» reúne los mejores poemas de amor de Pablo Neruda. El Premio Nobel de Literatura Pablo Neruda es uno de los poetas en lengua española más leídos por todos los públicos, un autor que consiguió grabar en la memoria de jóvenes y adultos unos versos que se transmiten de generación a generación. Reunimos en este título algunos de los poemas de amor más emblemáticos de Neruda, desde sus primeros textos en Crepusculario o Veinte poemas de amor y una canción desesperada a sus Cien sonetos de amor. «Desnuda eres tan simple como una de tus manos, lisa, terrestre, mínima, redonda, transparente.» ENGLISH DESCRIPTION The volume Love Poetry: From Your Hips to your Feet, I Want to Make a Long Journey, from the collection \"Portable Poetry,\" gathers Pablo Neruda’s best love poems. Nobel Prize winner Pablo Neruda is one of the most read Spanish-language poets in all crowds; an author who has managed to engrave verses in the minds of young and old alike, which are passed down from generation to generation. In this book, we have collected some of Neruda’s most emblematic love poems, from his first texts in Crepusculario and Twenty Love Poems and a Song of Despair to his One Hundred Love Sonnets.",
+    "price": 320,
+    "stock": 23,
+    "publishedDate": "2017-10-31",
+    "image": "http://books.google.com/books/content?id=vGqREAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "Erg1DwAAQBAJ",
+    "title": "El cartero de Neruda",
+    "authors": [
+      "Antonio Skarmeta"
+    ],
+    "publisher": "DEBOLS!LLO",
+    "gender": [
+      "Fiction"
+    ],
+    "description": "«Un canto emocionante a la poesía y al amor en sus más contundentes y jocundas expresiones de vitalidad». Miguel García-Posada, Babelia. Mario Jiménez, un joven pescador, decide abandonar su oficio para convertirse en cartero de Isla Negra, donde la única persona que recibe y envía correspondencia es el poeta Pablo Neruda. Jiménez admira a Neruda y espera pacientemente que algún día el poeta le dedique un libro, o que se produzca algo más que un brevísimo cruce de palabras y el pago de la propina. Su anhelo se verá finalmente recompensado y entre ambos se entablará una relación muy peculiar. Sin embargo, la enrarecida atmósfera que se vive en el Chile de aquellos años precipitará un dramático descenlace.",
+    "price": 238,
+    "stock": 7,
+    "publishedDate": "2017-09-01",
+    "image": "http://books.google.com/books/content?id=Erg1DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": "pqtz6V9g21wC",
+    "title": "Neruda y su tiempo: 1904-1949",
+    "authors": [
+      "David Schidlowsky"
+    ],
+    "publisher": "RIL Editores",
+    "gender": [
+      "Electronic books"
+    ],
+    "description": "Este libro es parte de la colección e-Libro en BiblioBoard.",
+    "price": 390,
+    "stock": 20,
+    "publishedDate": "2008",
+    "image": "http://books.google.com/books/content?id=pqtz6V9g21wC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": "TPZ7DwAAQBAJ",
+    "title": "Antología general (Edición conmemorativa de la RAE y la ASALE)",
+    "authors": [
+      "Pablo Neruda"
+    ],
+    "publisher": "LENGUA VIVA",
+    "gender": [
+      "Poetry"
+    ],
+    "description": "Lo mejor de la obra de Pablo Neruda en una antología preparada y avalada por la Real Academia Española y la Asociación de Academias de la Lengua Española. Un original itinerario cronológico por los escritos de Neruda, que entrelaza la prosa con la poesía, las cartas con los artículos periodísticos, y estos con las crónicas de viajes, hasta conformar una biografía vital y literaria del poeta a través de su obra. La compilación de la obra de Neruda ha estado a cargo del académico chileno Hernán Loyola, uno de los estudiosos del poeta más importantes, quien ha logrado perfilar una excelente guía para poder seguir, en doce capítulos, la aventura creadora del gran poeta. Los textos de Neruda vienen acompañados, además del de Loyola, de una serie de estudios de académicos de diversos países y de especialistas en la obra del poeta: Jorge Edwards, Alain Sicard, Selena Millares, Marco Martos Carrera, José Luis Vega, Pere Gimferrer, Andrés Gallardo, Francisco Brines y Eduardo Lizalde. La obra incluye un curioso texto inédito del poeta, la «Crónica de San Pancho», con el que el poeta quiso agradecer la protección que en 1948 le brindó una familia cuando era perseguido por sus ideas políticas. La crítica ha dicho sobre la colección de ediciones conmemorativas: «Un club [la colección de ediciones conmemorativas] que ya cuenta con invitados más que ilustres.» El País «Sean bienvenidas, por muchos motivos, estas ediciones conmemorativas auspiciadas por instituciones académicas del mayor rango. Unas ediciones que, por sus precios populares, y ahora que los buenos libros han pasado a ser un objeto de lujo, facilitan al gran público el acceso a unos autores que, paradójicamente, no por ser -clásicos- de la literatura en lengua castellana (antiguos o modernos) dejan de ser para algunos, aún hoy, unos grandes desconocidos.» El Imparcial",
+    "price": 148,
+    "stock": 23,
+    "publishedDate": "2018-12-03",
+    "image": "http://books.google.com/books/content?id=TPZ7DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": "BhQN9QPFZ0kC",
+    "title": "Neruda y los escritores de la Edad de Oro",
+    "authors": [
+      "María Isabel López Martínez"
+    ],
+    "publisher": "Editorial CSIC - CSIC Press",
+    "gender": [
+      "Comics ",
+      " Graphic Novels"
+    ],
+    "description": "Se hace un estudio de la estancia de Neruda en España (desde 1934 hasta la Guerra civil) y las relaciones con Lorca, Alberti, Miguel Hernández..., poetas que fomentan su gusto por los escritores de los Siglos de Oro. Durante el resto de su vida evocó este período, que le hizo valorar el mejor legado: la lengua. La segunda parte de la monografía se centra en los “Cien sonetos de amor”, un libro compuesto en la madurez, cuando se enamora de Matilde Urrutia. Escribe sonetos con huellas de los clásicos, pero con tersura contemporánea.",
+    "price": 262,
+    "stock": 30,
     "publishedDate": "2009",
-    "image": "http://books.google.com/books/content?id=_7m0uQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "image": "http://books.google.com/books/content?id=BhQN9QPFZ0kC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
   },
-  
   {
-    "id": "PCVtrV8aIRYC",
-    "title": "Secrets of the Widow's Son",
+    "id": "HAZ6tAEACAAJ",
+    "title": "Neruda: el llamado del poeta",
     "authors": [
-      {
-        "name": "Dan Burstein"
-      },
-      {
-        "name": "David A Shugarts"
-      }
+      "Mark Eisner"
     ],
-    "publisher": "Hachette UK",
+    "publisher": "HarperCollins Espanol",
     "gender": [
-      {
-        "name": "Social Science"
-      }
+      "Biography ",
+      " Autobiography"
     ],
-    "description": "A dazzling speculative inquiry into the mysteries surrounding the sequel to THE DA VINCI CODE SECRETS OF THE WIDOW'S SON is itself an unprecedented book concept. Relying on extensive investigative reporting and intellectual sleuthing, it is an explorer's field guide to understanding the main themes, ideas, symbols and historical issues which author Dan Brown will most likely utilise in THE SOLOMON KEY - months before this much-awaited sequel to THE DA VINCI CODE is even published. SECRETS OF THE CODE told the story of how the riddle embedded in The Da Vinci Code's dust-cover pointed to Dan Brown's next book: selected letters appearing on the book jacket's flaps, slightly bolder than others, spelled out the mystically alluring question, 'Is There No Help for the Widow's Son?' Research led David Shugarts and his team to understand the role of the 'Widow's Son' in the history of Freemasonry, biblical apocrypha, Mormonism, and various secret societies and occult belief systems. Dan Brown has since confirmed that his next book is indeed about the Masons, and that protagonist Robert Langdon, of DA VINCI CODE and ANGELS AND DEMONS fame, would be back to lead us on a symbolic treasure hunt through the art, architecture and secret codes of the American capital, Washington DC. This book is not a plot spoiler for THE SOLOMON KEY. It is not trying to guess who will be murdered, or which fictional mysteries, cover-ups, and conspiracies will be invented to drive the plot of this story. SECRETS OF THE WIDOW'S SON is about the ideas and issues that will form the background and context for THE SOLOMON KEY.",
-    "price": 321,
-    "stock": 35,
-    "publishedDate": "2011",
-    "image": "http://books.google.com/books/content?id=PCVtrV8aIRYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "description": "Un convincente retrato biográfico de una de las figuras más fascinantes e influyentes en la historia de América Latina, Pablo Neruda. Pocos poetas han capturado la imaginación mundial como Pablo Neruda. En su país natal, Chile, como en toda América Latina y en muchas otras partes del mundo, su nombre y su legado se han convertido casi en un sinónimo de movimientos de liberación, y con el lenguaje del amor erótico. Este libro es el producto de quience años de investigación por Mark Eisner, escritor, traductor y director de documentales. El libro describe vívidamente su vida, prosa intensa y creencias fervientes en la «obligación del poeta» de usar la poesía para el bien social. Combina tres ámbitos principales de la vida de Neruda: su poesía aclamada mundialmente; su participación política; y su tumultuosa e incluso controversial vida personal; formando una narrativa coherente de intimidad y amplitud. Los acontecimientos fascinantes de la vida de Neruda se intercalan el análisis profundo de Eisner acerca de los poemas, tanto como obras de arte y como reflejo de la vida y época de Neruda. El resultado es un libro que trae a la luz la fascinante historia de la vida de Neruda de una manera nueva, que ofrece una atractiva versión narrativa de la vida y las obras de Neruda, apoyada en una investigación exhaustiva, pero diseñado para presentar esta colosal figura literaria a un público más amplio.",
+    "price": 292,
+    "stock": 5,
+    "publishedDate": "2018-05-01",
+    "image": "http://books.google.com/books/content?id=HAZ6tAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
   },
+ 
+ 
   {
-    "id": "tO9eO29sOJQC",
-    "title": "The Lost Symbol Illustrated edition",
+    "id": "bOxcEAAAQBAJ",
+    "title": "Pablo Neruda: Poet of the People (Bilingual Edition)",
     "authors": [
-      {
-        "name": "Dan Brown"
-      }
+      "Monica Brown"
     ],
-    "publisher": "Random House",
+    "publisher": "Henry Holt and Company (BYR)",
     "gender": [
-      {
-        "name": "Fiction"
-      }
+      "Juvenile Nonfiction"
     ],
-    "description": "WHAT WAS LOST WILL BE FOUND... Harvard professor Robert Langdon is summoned to deliver an evening lecture in the Capitol Building, Washington DC. But within minutes of his arrival, a gruesome and disturbing discovery is made at the epicentre of the Rotunda. Langdon recognizes it as an ancient invitation, beckoning its recipient towards a long-lost world of hidden wisdom. And when Langdon's revered mentor is brutally kidnapped, he realizes his only chance to save his old friend is to accept this sinister summons... All that was familiar is transformed into a shadowy, clandestine world in which Masonic secrets and never-before-seen revelations seem to be leading him to a single impossible and inconceivable truth. As Langdon will discover, there is nothing more extraordinary or shocking than the secret which hides in plain sight... A brilliantly composed tapestry of veiled histories, arcane icons and enigmatic codes, The Lost Symbol is an intelligent, lightning-paced thriller that offers surprises at every turn. This exclusive edition features over 250 photographs and illustrations, allowing the reader to explore the rich historical research from which Dan Brown drew his inspiration, and uniquely complementing the reading experience.",
-    "price": 78,
-    "stock": 3,
-    "publishedDate": "2010",
-    "image": "http://books.google.com/books/content?id=tO9eO29sOJQC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "description": "A new Spanish and English bilingual edition of the stunning picture book biography of Pablo Neruda, one of the world's most enduring and popular poets, from the acclaimed Monica Brown. Había una vez un niño llamado Neftalí, quien amaba las cosas salvajes locamente y las cosas tranquilas serenamente. Desde el momento en que aprendió a hablar, se rodeó de palabras. Neftalí descubrió la magia oculta entre las páginas de los libros. Cuando tenía dieciséis años, comenzó a publicar sus poemas bajo el nombre Pablo Neruda. Pablo escribió poemas sobre las cosas que amaba: obras creadas por sus amigos artistas, objetos hallados en los mercados y elementos de la naturaleza. Escribió sobre la gente de Chile y su lucha por salir adelante. Porque sobre todas las cosas y sobre todas las palabras, Pablo Neruda amaba a la gente. Once there was a little boy named Neftalí who loved wild things wildly and quiet things quietly. From the moment he could talk, he surrounded himself with words, seeking comfort and inspiration from the magic he discovered between the pages of books. When he was sixteen, he began publishing his writing as Pablo Neruda. Pablo wrote poems about the things he loved—things made by his friends in the café, things found at the marketplace, and things he saw in nature. He wrote about the people of Chile and their stories of struggle. Because above all things and above all words, Pablo Neruda loved people. With a new translation of Monica Brown's lyrical text and Julia Paschkis' gorgeous art, which celebrates multiple languages, this new edition will introduce the youngest of readers—of English, Spanish, and both—to the legacy of one of history's most iconic talents.",
+    "price": 171,
+    "stock": 5,
+    "publishedDate": "2022-04-05",
+    "image": "http://books.google.com/books/content?id=bOxcEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+ 
+  {
+    "id": "MJPGDwAAQBAJ",
+    "title": "Neruda. Naturaleza, historia y poética",
+    "authors": [
+      "Eduardo Camacho Guizado"
+    ],
+    "publisher": "Universidad de los Andes",
+    "gender": [
+      "Literary Criticism"
+    ],
+    "description": "Este libro ofrece una visión global de la obra poética de Neruda, y a la vez encauzada hacia el tratamiento que en ella se da a la naturaleza, la historia y la reflexión poética, a través de los diferentes períodos de la vida literaria del chileno. El estudio de Camacho cuenta con un importante aparato de citas, tanto de poemas de Neruda, como de sus grandes críticos, lo que no sólo abre nuevos caminos hacia la poesía de Pablo Neruda, sino que orienta en la consulta de la vastísima bibliografía que hay al respecto. La exposición de Camacho es directa y clara, sujeta a un plan riguroso que podemos seguir desde la introducción. Son pocos los estudios que logran una visión tan completa y, sin embargo, tan centrada y rigurosa en el seguimiento de unos temas, tratándose de una producción lírica tan amplia y variada como la de Neruda. Este texto es un ejemplo excelente de cómo tratar con obras literarias monumentales y la de Neruda lo es en las que, si no se eligen vías de acceso claras y precisas y se las sigue con rigor, el estudio se dispersa en afirmaciones generales.",
+    "price": 319,
+    "stock": 47,
+    "publishedDate": "2010-01-01",
+    "image": "http://books.google.com/books/content?id=MJPGDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
   },
   {
-      "id": "fJ1BM2gJEcgC",
-      "title": "Pablo Neruda para niños",
-      "authors": [
-        {
-          "name": "Pablo Neruda"
-        }
-      ],
-      "publisher": "Ediciones de la Torre",
-      "gender": [
-        {
-          "name": "Comics"
-        },
-        {
-          "name": "Graphic Novels"
-        }
-      ],
-      "description": "Enamorado de la vida y de las causas de los oprimidos, Neruda, poeta del amor y la libertad (premio Nobel de Literatura 1971), representa y sintetiza todo el vigor y contradicciones de un mundo a la vez muy reciente y antiguo: América del Sur.",
-      "price": 251,
-      "stock": 23,
-      "publishedDate": "1996",
-      "image": "http://books.google.com/books/content?id=fJ1BM2gJEcgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-    },
-    
-    {
-      "id": "vGqREAAAQBAJ",
-      "title": "Neruda. Poesía de amor. De tus caderas a tus pies quiero hacer un largo viaje / Love Poetry",
-      "authors": [
-        {
-          "name": "Pablo Neruda"
-        },
-        {
-          "name": "Mar Guixe"
-        }
-      ],
-      "publisher": "National Geographic Books",
-      "gender": [
-        {
-          "name": "Poetry"
-        }
-      ],
-      "description": "El volumen Poesía de amor. De tus caderas a tus pies quiero hacer un largo viaje de la colección «Poesía portátil» reúne los mejores poemas de amor de Pablo Neruda. El Premio Nobel de Literatura Pablo Neruda es uno de los poetas en lengua española más leídos por todos los públicos, un autor que consiguió grabar en la memoria de jóvenes y adultos unos versos que se transmiten de generación a generación. Reunimos en este título algunos de los poemas de amor más emblemáticos de Neruda, desde sus primeros textos en Crepusculario o Veinte poemas de amor y una canción desesperada a sus Cien sonetos de amor. «Desnuda eres tan simple como una de tus manos, lisa, terrestre, mínima, redonda, transparente.» ENGLISH DESCRIPTION The volume Love Poetry: From Your Hips to your Feet, I Want to Make a Long Journey, from the collection \"Portable Poetry,\" gathers Pablo Neruda’s best love poems. Nobel Prize winner Pablo Neruda is one of the most read Spanish-language poets in all crowds; an author who has managed to engrave verses in the minds of young and old alike, which are passed down from generation to generation. In this book, we have collected some of Neruda’s most emblematic love poems, from his first texts in Crepusculario and Twenty Love Poems and a Song of Despair to his One Hundred Love Sonnets.",
-      "price": 404,
-      "stock": 8,
-      "publishedDate": "2017",
-      "image": "http://books.google.com/books/content?id=vGqREAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-    },
-    {
-      "id": "Erg1DwAAQBAJ",
-      "title": "El cartero de Neruda",
-      "authors": [
-        {
-          "name": "Antonio Skarmeta"
-        }
-      ],
-      "publisher": "DEBOLS!LLO",
-      "gender": [
-        {
-          "name": "Fiction"
-        }
-      ],
-      "description": "«Un canto emocionante a la poesía y al amor en sus más contundentes y jocundas expresiones de vitalidad». Miguel García-Posada, Babelia. Mario Jiménez, un joven pescador, decide abandonar su oficio para convertirse en cartero de Isla Negra, donde la única persona que recibe y envía correspondencia es el poeta Pablo Neruda. Jiménez admira a Neruda y espera pacientemente que algún día el poeta le dedique un libro, o que se produzca algo más que un brevísimo cruce de palabras y el pago de la propina. Su anhelo se verá finalmente recompensado y entre ambos se entablará una relación muy peculiar. Sin embargo, la enrarecida atmósfera que se vive en el Chile de aquellos años precipitará un dramático descenlace.",
-      "price": 17,
-      "stock": 30,
-      "publishedDate": "2017",
-      "image": "http://books.google.com/books/content?id=Erg1DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-    },
-    {
-      "id": "pqtz6V9g21wC",
-      "title": "Neruda y su tiempo: 1904-1949",
-      "authors": [
-        {
-          "name": "David Schidlowsky"
-        }
-      ],
-      "publisher": "RIL Editores",
-      "gender": [
-        {
-          "name": "Electronic books"
-        }
-      ],
-      "description": "Este libro es parte de la colección e-Libro en BiblioBoard.",
-      "price": 280,
-      "stock": 29,
-      "publishedDate": "2008",
-      "image": "http://books.google.com/books/content?id=pqtz6V9g21wC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-    },
-    {
-      "id": "TPZ7DwAAQBAJ",
-      "title": "Antología general (Edición conmemorativa de la RAE y la ASALE)",
-      "authors": [
-        {
-          "name": "Pablo Neruda"
-        }
-      ],
-      "publisher": "LENGUA VIVA",
-      "gender": [
-        {
-          "name": "Poetry"
-        }
-      ],
-      "description": "Lo mejor de la obra de Pablo Neruda en una antología preparada y avalada por la Real Academia Española y la Asociación de Academias de la Lengua Española. Un original itinerario cronológico por los escritos de Neruda, que entrelaza la prosa con la poesía, las cartas con los artículos periodísticos, y estos con las crónicas de viajes, hasta conformar una biografía vital y literaria del poeta a través de su obra. La compilación de la obra de Neruda ha estado a cargo del académico chileno Hernán Loyola, uno de los estudiosos del poeta más importantes, quien ha logrado perfilar una excelente guía para poder seguir, en doce capítulos, la aventura creadora del gran poeta. Los textos de Neruda vienen acompañados, además del de Loyola, de una serie de estudios de académicos de diversos países y de especialistas en la obra del poeta: Jorge Edwards, Alain Sicard, Selena Millares, Marco Martos Carrera, José Luis Vega, Pere Gimferrer, Andrés Gallardo, Francisco Brines y Eduardo Lizalde. La obra incluye un curioso texto inédito del poeta, la «Crónica de San Pancho», con el que el poeta quiso agradecer la protección que en 1948 le brindó una familia cuando era perseguido por sus ideas políticas. La crítica ha dicho sobre la colección de ediciones conmemorativas: «Un club [la colección de ediciones conmemorativas] que ya cuenta con invitados más que ilustres.» El País «Sean bienvenidas, por muchos motivos, estas ediciones conmemorativas auspiciadas por instituciones académicas del mayor rango. Unas ediciones que, por sus precios populares, y ahora que los buenos libros han pasado a ser un objeto de lujo, facilitan al gran público el acceso a unos autores que, paradójicamente, no por ser -clásicos- de la literatura en lengua castellana (antiguos o modernos) dejan de ser para algunos, aún hoy, unos grandes desconocidos.» El Imparcial",
-      "price": 256,
-      "stock": 1,
-      "publishedDate": "2018",
-      "image": "http://books.google.com/books/content?id=TPZ7DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-    },
-    {
-      "id": "BhQN9QPFZ0kC",
-      "title": "Neruda y los escritores de la Edad de Oro",
-      "authors": [
-        {
-          "name": "María Isabel López Martínez"
-        }
-      ],
-      "publisher": "Editorial CSIC - CSIC Press",
-      "gender": [
-        {
-          "name": "Comics"
-        },
-        {
-          "name": "Graphic Novels"
-        }
-      ],
-      "description": "Se hace un estudio de la estancia de Neruda en España (desde 1934 hasta la Guerra civil) y las relaciones con Lorca, Alberti, Miguel Hernández..., poetas que fomentan su gusto por los escritores de los Siglos de Oro. Durante el resto de su vida evocó este período, que le hizo valorar el mejor legado: la lengua. La segunda parte de la monografía se centra en los “Cien sonetos de amor”, un libro compuesto en la madurez, cuando se enamora de Matilde Urrutia. Escribe sonetos con huellas de los clásicos, pero con tersura contemporánea.",
-      "price": 221,
-      "stock": 26,
-      "publishedDate": "2009",
-      "image": "http://books.google.com/books/content?id=BhQN9QPFZ0kC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-    },
-    {
-      "id": "HAZ6tAEACAAJ",
-      "title": "Neruda: el llamado del poeta",
-      "authors": [
-        {
-          "name": "Mark Eisner"
-        }
-      ],
-      "publisher": "HarperCollins Espanol",
-      "gender": [
-        {
-          "name": "Biography"
-        },
-        {
-          "name": "Autobiography"
-        }
-      ],
-      "description": "Un convincente retrato biográfico de una de las figuras más fascinantes e influyentes en la historia de América Latina, Pablo Neruda. Pocos poetas han capturado la imaginación mundial como Pablo Neruda. En su país natal, Chile, como en toda América Latina y en muchas otras partes del mundo, su nombre y su legado se han convertido casi en un sinónimo de movimientos de liberación, y con el lenguaje del amor erótico. Este libro es el producto de quience años de investigación por Mark Eisner, escritor, traductor y director de documentales. El libro describe vívidamente su vida, prosa intensa y creencias fervientes en la «obligación del poeta» de usar la poesía para el bien social. Combina tres ámbitos principales de la vida de Neruda: su poesía aclamada mundialmente; su participación política; y su tumultuosa e incluso controversial vida personal; formando una narrativa coherente de intimidad y amplitud. Los acontecimientos fascinantes de la vida de Neruda se intercalan el análisis profundo de Eisner acerca de los poemas, tanto como obras de arte y como reflejo de la vida y época de Neruda. El resultado es un libro que trae a la luz la fascinante historia de la vida de Neruda de una manera nueva, que ofrece una atractiva versión narrativa de la vida y las obras de Neruda, apoyada en una investigación exhaustiva, pero diseñado para presentar esta colosal figura literaria a un público más amplio.",
-      "price": 260,
-      "stock": 33,
-      "publishedDate": "2018",
-      "image": "http://books.google.com/books/content?id=HAZ6tAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-    },
-    
-    
-    {
-      "id": "bOxcEAAAQBAJ",
-      "title": "Pablo Neruda: Poet of the People (Bilingual Edition)",
-      "authors": [
-        {
-          "name": "Monica Brown"
-        }
-      ],
-      "publisher": "Henry Holt and Company (BYR)",
-      "gender": [
-        {
-          "name": "Juvenile Nonfiction"
-        }
-      ],
-      "description": "A new Spanish and English bilingual edition of the stunning picture book biography of Pablo Neruda, one of the world's most enduring and popular poets, from the acclaimed Monica Brown. Había una vez un niño llamado Neftalí, quien amaba las cosas salvajes locamente y las cosas tranquilas serenamente. Desde el momento en que aprendió a hablar, se rodeó de palabras. Neftalí descubrió la magia oculta entre las páginas de los libros. Cuando tenía dieciséis años, comenzó a publicar sus poemas bajo el nombre Pablo Neruda. Pablo escribió poemas sobre las cosas que amaba: obras creadas por sus amigos artistas, objetos hallados en los mercados y elementos de la naturaleza. Escribió sobre la gente de Chile y su lucha por salir adelante. Porque sobre todas las cosas y sobre todas las palabras, Pablo Neruda amaba a la gente. Once there was a little boy named Neftalí who loved wild things wildly and quiet things quietly. From the moment he could talk, he surrounded himself with words, seeking comfort and inspiration from the magic he discovered between the pages of books. When he was sixteen, he began publishing his writing as Pablo Neruda. Pablo wrote poems about the things he loved—things made by his friends in the café, things found at the marketplace, and things he saw in nature. He wrote about the people of Chile and their stories of struggle. Because above all things and above all words, Pablo Neruda loved people. With a new translation of Monica Brown's lyrical text and Julia Paschkis' gorgeous art, which celebrates multiple languages, this new edition will introduce the youngest of readers—of English, Spanish, and both—to the legacy of one of history's most iconic talents.",
-      "price": 443,
-      "stock": 25,
-      "publishedDate": "2022",
-      "image": "http://books.google.com/books/content?id=bOxcEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-    },
-    
-    {
-      "id": "MJPGDwAAQBAJ",
-      "title": "Neruda. Naturaleza, historia y poética",
-      "authors": [
-        {
-          "name": "Eduardo Camacho Guizado"
-        }
-      ],
-      "publisher": "Universidad de los Andes",
-      "gender": [
-        {
-          "name": "Literary Criticism"
-        }
-      ],
-      "description": "Este libro ofrece una visión global de la obra poética de Neruda, y a la vez encauzada hacia el tratamiento que en ella se da a la naturaleza, la historia y la reflexión poética, a través de los diferentes períodos de la vida literaria del chileno. El estudio de Camacho cuenta con un importante aparato de citas, tanto de poemas de Neruda, como de sus grandes críticos, lo que no sólo abre nuevos caminos hacia la poesía de Pablo Neruda, sino que orienta en la consulta de la vastísima bibliografía que hay al respecto. La exposición de Camacho es directa y clara, sujeta a un plan riguroso que podemos seguir desde la introducción. Son pocos los estudios que logran una visión tan completa y, sin embargo, tan centrada y rigurosa en el seguimiento de unos temas, tratándose de una producción lírica tan amplia y variada como la de Neruda. Este texto es un ejemplo excelente de cómo tratar con obras literarias monumentales y la de Neruda lo es en las que, si no se eligen vías de acceso claras y precisas y se las sigue con rigor, el estudio se dispersa en afirmaciones generales.",
-      "price": 318,
-      "stock": 45,
-      "publishedDate": "2010",
-      "image": "http://books.google.com/books/content?id=MJPGDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-    },
-    {
-      "id": "fDu-DwAAQBAJ",
-      "title": "Los pecados de Neruda",
-      "authors": [
-        {
-          "name": "HERNAN LOYOLA"
-        }
-      ],
-      "publisher": "LUMEN",
-      "gender": [
-        {
-          "name": "Biography"
-        },
-        {
-          "name": "Autobiography"
-        }
-      ],
-      "description": "El libro que se hace cargo de los pecados bajo los que se han visto envueltas en los últimos años la figura y la obra de Pablo Neruda. Breve y consistente ensayo biográfico de la pluma del gran nerudiano Hernán Loyola, en donde aborda las polémicas póstumas en que se han visto envueltas la obra y figura de Neruda. En ocho capítulos, ocho pecados, Loyola aborda, enfrenta y encara cada una de estas polémicas: el poeta inútil, el poeta machista, el poeta fabulador, el poeta violador, el poeta mal marido, el poeta mal padre, el poeta plagiario, el poeta insolente y el poeta abandonador.",
-      "price": 393,
-      "stock": 1,
-      "publishedDate": "2019",
-      "image": "http://books.google.com/books/content?id=fDu-DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-    },
-    {
-      "id": "v9rRCgAAQBAJ",
-      "title": "Neruda. El príncipe de los poetas. La biografía",
-      "authors": [
-        {
-          "name": "MARIO AMOROS"
-        }
-      ],
-      "publisher": "B DE BOOKS",
-      "gender": [
-        {
-          "name": "Biography"
-        },
-        {
-          "name": "Autobiography"
-        }
-      ],
-      "description": "La primera biografía histórica y literaria de Pablo Neruda que se publica en España. Pablo Neruda es el gran poeta del siglo XX. Como Pablo Picasso, Albert Einstein o Charles Chaplin, tuvo una capacidad creativa y una genialidad indiscutibles, y nos legó una obra reconocida y admirada universalmente. El historiador y periodista Mario Amorós ha investigado durante años en archivos de Chile, España, Rusia y otros países a fin de arrojar nueva luz sobre la vida del autor de Canto general. Su azarosa y apasionante existencia se relata en estas páginas a través de documentos inéditos, cartas, artículos, discursos, entrevistas y testimonios de amigos... y enemigos. También de las mujeres que lo amaron. Cuando se cumplen cien años de sus primeros versos, Amorós reconstruye la infancia de Pablo Neruda en Temuco, entre los bosques y la lluvia del sur del mundo; el periodo como cónsul en varias ciudades asiáticas y Buenos Aires; la llegada a España en 1934 y la relación fraternal con Federico García Lorca, Rafael Alberti o Miguel Hernández; el impacto que produjo en él la Guerra Civil y la epopeya del Winnipeg; así como los años en México, la adscripción al movimiento comunista y la obtención del Premio Nobel en 1971. Con documentos y testimonios inéditos hasta ahora, Amorós describe, en los últimos capítulos, el terrible sufrimiento de Neruda tras el golpe de Estado militar, relato que adquiere un valor singular por apoyarse en la investigación judicial abierta en Chile tras la denuncia de que fue asesinado por la dictadura del general Pinochet, el 23 de septiembre de 1973.",
-      "price": 399,
-      "stock": 22,
-      "publishedDate": "2015",
-      "image": "http://books.google.com/books/content?id=v9rRCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-    },
-    {
-      "id": "0jKc9UsVV1AC",
-      "title": "Libro de Las Preguntas",
-      "authors": [
-        {
-          "name": "Pablo Neruda"
-        }
-      ],
-      "publisher": "Copper Canyon Press",
-      "gender": [
-        {
-          "name": "Poetry"
-        }
-      ],
-      "description": "Pablo Neruda is one of the world's most popular poets, and The Book of Questions is Copper Canyon's all-time best-seller. This updated bilingual edition is entirely re-designed and features a new cover, new interior, and an introduction by translator. In The Book of Questions, Neruda refuses to be corralled by the rational mind. Composed of 316 unanswerable questions, these poems integrate the wonder of a child with the experiences of an adult. By turns Orphic, comic, surreal, and poignant, Neruda's questions lead the reader beyond reason into realms of intuition and pure imagination. Tell me, is the rose naked or is that her only dress? Why do trees conceal the splendor of their roots? Is there anything in the world sadder than a train standing in the rain? When Neruda died in 1973, The Book of Questions was one of eight unpublished poetry manuscripts that lay on his desk. In it, Neruda achieves a deeper vulnerability and vision than in his earlier work-and this unique book is a testament to everything that made Neruda an artist. \"Neruda's questions evoke pictures that make sense on a visual level before the reader can grasp them on a literal one. The effect is mildly dazzling [and] O'Daly's translations achieve a tone that is both meditative and spontaneous.\" -Publishers Weekly Pablo Neruda, born in southern Chile, led a life charged with poetic and political activity. He was the recipient of the Nobel Prize in Literature, the International Peace Prize, and served as Chile's ambassador to several countries, including Burma, France, and Argentina. He died in 1973. II. Tell me, is the rose naked or is that her only dress? Why do trees conceal the splendor of their roots? Who hears the regrets of the thieving automobile? Is there anything in the world sadder than a train standing in the rain? XIV. And what did the rubies say standing before the juice of pomegranates? Why doesn't Thursday talk itself into coming after Friday? Who shouted with glee when the color blue was born? Why doe",
-      "price": 118,
-      "stock": 28,
-      "publishedDate": "2001",
-      "image": "http://books.google.com/books/content?id=0jKc9UsVV1AC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-    },
-
-    {
-      "id": "dqUjtAEACAAJ",
-      "title": "Veinte poemas de amor y una canción desesperada",
-      "authors": [
-        {
-          "name": "Pablo Neruda"
-        }
-      ],
-      "publisher": "De Borsillo",
-      "gender": [
-        {
-          "name": "Literary Collections"
-        }
-      ],
-      "description": "Una de las obras más célebres del poeta Pablo Neruda. « Me gusta cuando callas porque estás como ausente. Distante y dolorosa como si hubieras muerto. Una palabra entonces, una sonrisa bastan. Y estoy alegre, alegre de que no sea cierto .» Reseña: «Neruda significa un hombre nuevo en la América, una sensibilidad con la cual abre todo capítulo emocional americano. Su alta categoría arranca de su rotunda diferenciación.» Gabriela Mistral",
-      "price": 291,
-      "stock": 26,
-      "publishedDate": "2004",
-      "image": "http://books.google.com/books/content?id=dqUjtAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-    },
-    {
-      "id": "-z5lAAAAMAAJ",
-      "title": "Neruda por Skármeta",
-      "authors": [
-        {
-          "name": "Antonio Skármeta"
-        }
-      ],
-      "publisher": "Planeta",
-      "gender": [
-        {
-          "name": "Chilean fiction"
-        }
-      ],
-      "description": "Esta obra nos lleva por la vida de uno de los más grandes poetas de todos los tiempos: Pablo Neruda. El autor hace esta investigación como homenaje a este hombre que vivió su vida entre pasiones, amores y paisajes que lo llevaban a inspirarse para escribir sus hermosos poemas. Para acercarnos mejor a esta figura se nos relatan entretenidas anécdotas que vivió Neruda, que no están alejadas del sentido del humor tan particular que tenía el poeta. Su obra se muestra aquí como una respuesta de sus vivencias, del entorno que le tocó vivir, de la realidad política de su tiempo, de su compromiso con la gente, de los amores que tuvo, de las casas que habitó, de los lugares donde vivió, todo ello fue lo que lo motivó a escribir versos que han maravillado a cientos de personas en el mundo entero. El libro se convierte así en un reconocimiento personal a la figura de Neruda.",
-      "price": 498,
-      "stock": 4,
-      "publishedDate": "2004",
-      "image": "http://books.google.com/books/content?id=-z5lAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-    },
-    {
-      "id": "sey-DwAAQBAJ",
-      "title": "Una vacante imprevista",
-      "authors": [
-        {
-          "name": "J.K. Rowling"
-        }
-      ],
-      "publisher": "SALAMANDRA",
-      "gender": [
-        {
-          "name": "Fiction"
-        }
-      ],
-      "description": "La primera novela para adultos de J.K. Rowling. Una gran obra de una narradora extraordinaria. Con su plaza adoquinada y su antiquísima abadía, Pagford parece un típico pueblecito inglés, un lugar idílico en el que la vida transcurre con plácida tranquilidad. Sin embargo, sus habitantes están inmersos en una realidad muy diferente. Tras la conmoción causada por la súbita muerte de Barry Fairbrother, se desencadena una auténtica batalla en sordina por ocupar la vacante dejada por Barry en el concejo parroquial, donde se dirime el destino de una urbanización de dudosa legalidad. Y cuando la tensión hace aflorar una serie de conflictos latentes que involucran a todo el pueblo -hijos contra padres, pobres contra ricos, mujeres contra maridos, alumnos contra maestros-, la pasión, la hipocresía y, especialmente, los secretos que suelen anidar en una comunidad pequeña desempeñarán un papel decisivo en el futuro de Pagford. Reseñas: «Una novela maravillosa. J.K. Rowling se sitúa a la altura de Stevenson, Conan Doyle y P.D. James. Sus dotes narrativas se combinan con su habilidad para crear personajes memorables y conmovedores, y el resultado es una novela muy representativa de Inglaterra, rebosante de rabia y ternura.» Melvyn Bragg, The Observer «Una comedia negra exquisita y en ocasiones enternecedora [...]. La prueba de fuego: creo que tendría éxito incluso si su autora no se llamara J. K. Rowling.» David Robinson, The Scotsman «Una gran novela, ambiciosa, genial, irreverente, divertida, profundamente turbadora y magníficamente elocuente sobre la Inglaterra contemporánea [...]. Este es un libro conmovedor escrito por alguien que entiende muy bien a los seres humanos y que sabe mucho de novela.» Lev Grossman, Time Magazine",
-      "price": 13,
-      "stock": 41,
-      "publishedDate": "2012",
-      "image": "http://books.google.com/books/content?id=sey-DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-    },
-    {
-      "id": "zTFCDwAAQBAJ",
-      "title": "Harry Potter y la piedra filosofal de J. K. Rowling (Guía de lectura)",
-      "authors": [
-        {
-          "name": "ResumenExpress,"
-        }
-      ],
-      "publisher": "ResumenExpress.com",
-      "gender": [
-        {
-          "name": "Education"
-        }
-      ],
-      "description": "ResumenExpress.com presenta y analiza en esta guía de lectura Harry Potter y la piedra filosofal, el primer tomo de una saga de siete volúmenes que escribe J. K. Rowling. Este éxito mundial narra la historia de Harry Potter, un chico que descubre el mundo de los magos y, junto a sus amigos, tendrá que resolver el misterio de la piedra filosofal y derrotar al malvado Voldemort, que parece aterrar a todo el mundo... ¡Ya no tienes que leer y resumir todo el libro, nosotros lo hemos hecho por ti! Esta guía incluye: • Un resumen completo del libro • Un estudio de los personajes • Las claves de lectura • Pistas para la reflexión ¿Por qué elegir ResumenExpress.com? Para aprender de forma rápida. Porque nuestras publicaciones están escritas con un estilo claro y conciso que te ayudará a ganar tiempo y a entender las obras sin esfuerzo. Disponibles en formato impreso y digital, te acompañarán en tu aventura literaria. Toma una dosis de literatura acelerada con ResumenExpress.com",
-      "price": 367,
-      "stock": 7,
-      "publishedDate": "2017",
-      "image": "http://books.google.com/books/content?id=zTFCDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-    },
-    {
-      "id": "HFeREAAAQBAJ",
-      "title": "El Ickabog / The Ickabog",
-      "authors": [
-        {
-          "name": "J.K. Rowling"
-        }
-      ],
-      "publisher": "National Geographic Books",
-      "gender": [
-        {
-          "name": "Juvenile Fiction"
-        }
-      ],
-      "description": "Se acerca el ickabog... un monstruo legendario que amenaza un reino y que pondrá a prueba la valentía de dos niños. Descubre una aventura sumamente original sobre el poder de la esperanza y la amistad y su triunfo contra todo pronóstico, obra de una de las mejores narradoras del mundo. El reino de Cornucopia era el más feliz del mundo. Tenía oro en abundancia, un rey con unos bigotes magníficos y un montón de carniceros, reposteros y queseros cuyos exquisitos productos hacían que la gente bailara de júbilo cuando los comía. Todo era perfecto, excepto Los Pantanos, la región del norte donde, según la leyenda, vivía el terrorífico ickabog. Sobre ese monstruo, cualquiera con un poco de cabeza sabía que no era más que una fábula que los padres utilizaban para que los niños se portaran bien. Aunque lo extraño de las fábulas es que a veces cobran vida propia... Pero ¿puede una leyenda derrocar a un rey amado por su pueblo y destruir un reino feliz? ¿Puede embarcar a dos chicos valientes en una aventura que no han buscado y ni siquiera imaginado? Si crees que tienes suficiente valor, adéntrate en las páginas de este libro para averiguarlo... Una preciosa edición a todo color ilustrada por niños y niñas, perfecta para compartir y regalar. ENGLISH DESCRIPTION From J.K. Rowling, a warm, fast-paced, funny fairy tale of a fearsome monster, thrilling adventure, and hope against all odds. Once upon a time there was a tiny kingdom called Cornucopia, as rich in happiness as it was in gold, and famous for its food. From the delicate cream cheeses of Kurdsburg to the Hopes-of-Heaven pastries of Chouxville, each was so delicious that people wept with joy as they ate them. But even in this happy kingdom, a monster lurks. Legend tells of a fearsome creature living far to the north in the Marshlands... the Ickabog. Some say it breathes fire, spits poison, and roars through the mist as it carries off wayward sheep and children alike. Some say it's just a myth... And when that myth takes on a life of its own, casting a shadow over the kingdom, two children - best friends Bert and Daisy - embark on a great adventure to untangle the truth and find out where the real monster lies, bringing hope and happiness to Cornucopia once more. Featuring full color illustrations by children from across the United States and Canada, this original fairy tale from one of the world's most celebrated storytellers will captivate readers of all ages.",
-      "price": 137,
-      "stock": 35,
-      "publishedDate": "2021",
-      "image": "http://books.google.com/books/content?id=HFeREAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-    }
+    "id": "fDu-DwAAQBAJ",
+    "title": "Los pecados de Neruda",
+    "authors": [
+      "HERNAN LOYOLA"
+    ],
+    "publisher": "LUMEN",
+    "gender": [
+      "Biography ",
+      " Autobiography"
+    ],
+    "description": "El libro que se hace cargo de los pecados bajo los que se han visto envueltas en los últimos años la figura y la obra de Pablo Neruda. Breve y consistente ensayo biográfico de la pluma del gran nerudiano Hernán Loyola, en donde aborda las polémicas póstumas en que se han visto envueltas la obra y figura de Neruda. En ocho capítulos, ocho pecados, Loyola aborda, enfrenta y encara cada una de estas polémicas: el poeta inútil, el poeta machista, el poeta fabulador, el poeta violador, el poeta mal marido, el poeta mal padre, el poeta plagiario, el poeta insolente y el poeta abandonador.",
+    "price": 106,
+    "stock": 40,
+    "publishedDate": "2019-11-13",
+    "image": "http://books.google.com/books/content?id=fDu-DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": "v9rRCgAAQBAJ",
+    "title": "Neruda. El príncipe de los poetas. La biografía",
+    "authors": [
+      "MARIO AMOROS"
+    ],
+    "publisher": "B DE BOOKS",
+    "gender": [
+      "Biography ",
+      " Autobiography"
+    ],
+    "description": "La primera biografía histórica y literaria de Pablo Neruda que se publica en España. Pablo Neruda es el gran poeta del siglo XX. Como Pablo Picasso, Albert Einstein o Charles Chaplin, tuvo una capacidad creativa y una genialidad indiscutibles, y nos legó una obra reconocida y admirada universalmente. El historiador y periodista Mario Amorós ha investigado durante años en archivos de Chile, España, Rusia y otros países a fin de arrojar nueva luz sobre la vida del autor de Canto general. Su azarosa y apasionante existencia se relata en estas páginas a través de documentos inéditos, cartas, artículos, discursos, entrevistas y testimonios de amigos... y enemigos. También de las mujeres que lo amaron. Cuando se cumplen cien años de sus primeros versos, Amorós reconstruye la infancia de Pablo Neruda en Temuco, entre los bosques y la lluvia del sur del mundo; el periodo como cónsul en varias ciudades asiáticas y Buenos Aires; la llegada a España en 1934 y la relación fraternal con Federico García Lorca, Rafael Alberti o Miguel Hernández; el impacto que produjo en él la Guerra Civil y la epopeya del Winnipeg; así como los años en México, la adscripción al movimiento comunista y la obtención del Premio Nobel en 1971. Con documentos y testimonios inéditos hasta ahora, Amorós describe, en los últimos capítulos, el terrible sufrimiento de Neruda tras el golpe de Estado militar, relato que adquiere un valor singular por apoyarse en la investigación judicial abierta en Chile tras la denuncia de que fue asesinado por la dictadura del general Pinochet, el 23 de septiembre de 1973.",
+    "price": 264,
+    "stock": 38,
+    "publishedDate": "2015-11-11",
+    "image": "http://books.google.com/books/content?id=v9rRCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": "0jKc9UsVV1AC",
+    "title": "Libro de Las Preguntas",
+    "authors": [
+      "Pablo Neruda"
+    ],
+    "publisher": "Copper Canyon Press",
+    "gender": [
+      "Poetry"
+    ],
+    "description": "Pablo Neruda is one of the world's most popular poets, and The Book of Questions is Copper Canyon's all-time best-seller. This updated bilingual edition is entirely re-designed and features a new cover, new interior, and an introduction by translator. In The Book of Questions, Neruda refuses to be corralled by the rational mind. Composed of 316 unanswerable questions, these poems integrate the wonder of a child with the experiences of an adult. By turns Orphic, comic, surreal, and poignant, Neruda's questions lead the reader beyond reason into realms of intuition and pure imagination. Tell me, is the rose naked or is that her only dress? Why do trees conceal the splendor of their roots? Is there anything in the world sadder than a train standing in the rain? When Neruda died in 1973, The Book of Questions was one of eight unpublished poetry manuscripts that lay on his desk. In it, Neruda achieves a deeper vulnerability and vision than in his earlier work-and this unique book is a testament to everything that made Neruda an artist. \"Neruda's questions evoke pictures that make sense on a visual level before the reader can grasp them on a literal one. The effect is mildly dazzling [and] O'Daly's translations achieve a tone that is both meditative and spontaneous.\" -Publishers Weekly Pablo Neruda, born in southern Chile, led a life charged with poetic and political activity. He was the recipient of the Nobel Prize in Literature, the International Peace Prize, and served as Chile's ambassador to several countries, including Burma, France, and Argentina. He died in 1973. II. Tell me, is the rose naked or is that her only dress? Why do trees conceal the splendor of their roots? Who hears the regrets of the thieving automobile? Is there anything in the world sadder than a train standing in the rain? XIV. And what did the rubies say standing before the juice of pomegranates? Why doesn't Thursday talk itself into coming after Friday? Who shouted with glee when the color blue was born? Why doe",
+    "price": 316,
+    "stock": 19,
+    "publishedDate": "2001",
+    "image": "http://books.google.com/books/content?id=0jKc9UsVV1AC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": "dqUjtAEACAAJ",
+    "title": "Veinte poemas de amor y una canción desesperada",
+    "authors": [
+      "Pablo Neruda"
+    ],
+    "publisher": "De Borsillo",
+    "gender": [
+      "Literary Collections"
+    ],
+    "description": "Una de las obras más célebres del poeta Pablo Neruda. « Me gusta cuando callas porque estás como ausente. Distante y dolorosa como si hubieras muerto. Una palabra entonces, una sonrisa bastan. Y estoy alegre, alegre de que no sea cierto .» Reseña: «Neruda significa un hombre nuevo en la América, una sensibilidad con la cual abre todo capítulo emocional americano. Su alta categoría arranca de su rotunda diferenciación.» Gabriela Mistral",
+    "price": 130,
+    "stock": 12,
+    "publishedDate": "2004",
+    "image": "http://books.google.com/books/content?id=dqUjtAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+ {
+    "id": "-z5lAAAAMAAJ",
+    "title": "Neruda por Skármeta",
+    "authors": [
+      "Antonio Skármeta"
+    ],
+    "publisher": "Planeta",
+    "gender": [
+      "Chilean fiction"
+    ],
+    "description": "Esta obra nos lleva por la vida de uno de los más grandes poetas de todos los tiempos: Pablo Neruda. El autor hace esta investigación como homenaje a este hombre que vivió su vida entre pasiones, amores y paisajes que lo llevaban a inspirarse para escribir sus hermosos poemas. Para acercarnos mejor a esta figura se nos relatan entretenidas anécdotas que vivió Neruda, que no están alejadas del sentido del humor tan particular que tenía el poeta. Su obra se muestra aquí como una respuesta de sus vivencias, del entorno que le tocó vivir, de la realidad política de su tiempo, de su compromiso con la gente, de los amores que tuvo, de las casas que habitó, de los lugares donde vivió, todo ello fue lo que lo motivó a escribir versos que han maravillado a cientos de personas en el mundo entero. El libro se convierte así en un reconocimiento personal a la figura de Neruda.",
+    "price": 278,
+    "stock": 22,
+    "publishedDate": "2004",
+    "image": "http://books.google.com/books/content?id=-z5lAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  }
 
 ]
+
