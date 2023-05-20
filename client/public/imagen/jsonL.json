@@ -132,22 +132,6 @@
     "image": "http://books.google.com/books/content?id=y0kftAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
   },
   {
-    "id": "Qu7wDwAAQBAJ",
-    "title": "Coraline",
-    "authors": [
-      "Neil Gaiman"
-    ],
-    "publisher": "SALAMANDRA INFANTIL Y JUVENIL",
-    "gender": [
-      "Cuentos"
-    ],
-    "description": "Acompaña a Coraline y déjate transportar al mundo de fantasía y terror creado por el premiado autor Neil Gaiman. «Damas y caballeros, niñas y niños, pónganse en pie y aplaudan: Coraline es una obra maestra.» Philip Pullman, The Guardian Al día siguiente de mudarse de casa, Coraline explora las catorce puertas de su nuevo hogar. Trece se pueden abrir con normalidad, pero la decimocuarta está cerrada y tapiada. Cuando por fin consigue abrirla, Coraline se encuentra con un pasadizo secreto que la conduce a otra casa tan parecida a la suya que resulta escalofriante. Sin embargo, hay ciertas diferencias que llaman su atención: la comida es más rica, los juguetes son tan desconocidos como maravillosos y, sobre todo, hay otra madre y otro padre que quieren que Coraline se quede con ellos, se convierta en su hija y no se marche nunca. Pronto Coraline se da cuenta de que, tras los espejos, hay otros niños que han caído en la trampa. Son como almas perdidas, y ahora ella es su única esperanza de salvación. Pero para rescatarlos tendrá también que recuperar a sus verdaderos padres, y cumplir así el desafío que le permitirá volver a su vida anterior. Reseñas: «Este libro te producirá escalofríos y el miedo se te colará por los zapatos. Posee el delicado toque de terror de los mejores cuentos de hadas y es una obra maestra. Después de leerlo, no volverás a mirar un botón como antes.» Terry Pratchett «Delicado y extraordinario, se lee como un cruce de Alicia en el país de las maravillas y Stephen King.» Independent on Sunday «Una fantasía magnífica y siniestra; Gaiman muestra un gran conocimiento de los temores de los niños y de su capacidad para superarlos.» Kirkus Reviews «Un libro maravillosamente extraño y espeluznante [...]. Neil Gaiman es demasiado sutil para aludir a lo sobrenatural, es mucho más misterioso. Los peligros son reales y parte de la riqueza de esta historia se encuentra en el hecho de que ofrece muchos significados sin imponer ninguno [...].» Philip Pullman, The Guardian «Gaiman logra tejer una apasionante y adictiva narración, a caballo entre los mitos de los cuentos de hadas infantiles y el suspense propio de un filme de terror. [...] Tras su lectura no volveremos a mirar los botones de la misma manera y cada vez que tengamos que abrir una puerta nos lo pensaremos dos veces.» Sandra Pérez, ABC «Coraline es una digna heredera de las grandes heroínas de la literatura infantil, pero también lo es de las historias góticas de Poe, Lovecraft, etc. Gaiman sabe inventar ambientes y recrear la atmósfera necesaria para arañar e, incluso en ocasiones, hacer estremecerse al lector.» Pep Molist, Quadern, El País",
-    "price": 476,
-    "stock": 26,
-    "publishedDate": "2020-07-16",
-    "image": "http://books.google.com/books/content?id=Qu7wDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-  },
-  {
     "id": "yVBFEAAAQBAJ",
     "title": "Olla pirata",
     "authors": [
@@ -509,22 +493,6 @@
     "stock": 0,
     "publishedDate": "2021",
     "image": "http://books.google.com/books/content?id=tb8XEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-  },
-  {
-    "id": "AUdSAwAAQBAJ",
-    "title": "Lo mejor de Maitena",
-    "authors": [
-      "Maitena"
-    ],
-    "publisher": "SUDAMERICANA",
-    "gender": [
-      "Humor"
-    ],
-    "description": "La mejor selección del humor de Maitena.",
-    "price": 141,
-    "stock": 30,
-    "publishedDate": "2013",
-    "image": "http://books.google.com/books/content?id=AUdSAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
   },
   {
     "id": "GdvUAgAAQBAJ",
