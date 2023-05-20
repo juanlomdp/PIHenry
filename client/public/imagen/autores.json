@@ -1,99 +1,132 @@
 [
 {
   "id":1,
-  "name":"Dan Brown"
+  "name":"Joaquim Maria Machado de Assis"
 },
 {
    "id":2,
-  "name":"Nathalie Roland"
+  "name":"Machado de Assis"
 },
 {
   "id":3,
-  "name":"Editorial Planeta S.A.U."
+  "name":"Rom Harre"
 },
 {
   "id":4,
-   "name":"MARTIN LUNN"
+   "name":"José Miguel Sagüillo"
 },
 {
    "id":5,
-  "name":"Alex Carmine"
+  "name":"Torre, Alberto Clemente de la"
 },
 {
    "id":6,
-   "name":"Daniel Burstein"
+   "name":"Albert Arisó"
 },
 {
   "id":7,
-   "name":"Arne de Keijzer"
+   "name":"Lewis Carroll"
 },
 {
   "id":8,
-  "name":"Dan Burstein"
+  "name":"Edgar Allan Poe"
 },
 {
   "id":9,
-  "name":"Lisa Rogak"
+  "name":"José Alcántara Almánzar"
 },
 {
   "id":10,
-  "name":"Simon Cox"
+  "name":"Neil Gaiman"
 },
 {
   "id":11,
-  "name":"Deborah Parker"
+  "name":"Edmundo Valadés"
 },
 {
   "id":12,
-  "name":"David A Shugarts"
+  "name":"Gustavo Martín Garzo"
 },
 {
   "id":13,
-  "name":"Pablo Neruda"
+  "name":"Gabriel García Márquez"
 },
 {
   "id":14,
-  "name":"Antonio Skarmeta"
+  "name":"Magela Baudoin"
 },
 {
   "id":15,
-  "name":"David Schidlowsky"
+  "name":"Alberto Manguel"
 },
 {
   "id":16,
-  "name":"María Isabel López Martínez"
+  "name":"Antonio Aguilera C."
 },
 {
   "id":17,
-  "name":"Mark Eisner"
+  "name":"Ryan North"
 },
 {
   "id":18,
-  "name":"Monica Brown "
+  "name":"Matthew Bennardo"
 },
 {
   "id":19,
-  "name":"Eduardo Camacho Guizado"
+  "name":"David Malki"
 },
 {
   "id":20,
-  "name":"HERNAN LOYOLA"
+  "name":"Bernardo Ortín Pérez"
 },
 {
   "id":21,
-  "name":"MARIO AMOROS"
+  "name":"Trinidad Ballester"
 },
 {
   "id":22,
-  "name":"Antonio Skármeta"
+  "name":"Margaret Mahy"
 },
 {
   "id":23,
-  "name":"J.K. Rowling"
+  "name":"Ana Merino"
 },
 {
   "id":24,
-  "name":"ResumenExpress,"
+  "name":"Jorge Riechmann"
+},
+{
+  "id":24,
+  "name":"Adam Versenyi"
+},
+{
+  "id":24,
+  "name":"Michael Byram"
+},
+{
+  "id":24,
+  "name":"Michael Fleming"
+},
+{
+  "id":24,
+  "name":"Rosario Castellanos"
+},
+{
+  "id":24,
+  "name":"Héctor Fouce"
+},
+{
+  "id":24,
+  "name":"Merce Saumell"
+},
+{
+  "id":24,
+  "name":"Jan Peter Nauta"
+},
+{
+  "id":24,
+  "name":"Jean Duvignaud"
 }
+
 ]
 

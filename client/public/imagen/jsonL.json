@@ -131,129 +131,105 @@
     "publishedDate": "2017",
     "image": "http://books.google.com/books/content?id=y0kftAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
   },
-  
-  
   {
-    "id": "G7PsAAAAMAAJ",
-    "title": "La muerte tiene permiso",
+    "id": "Qu7wDwAAQBAJ",
+    "title": "Coraline",
     "authors": [
-      "Edmundo Valadés"
+      "Neil Gaiman"
     ],
-    "publisher": "Fondo de Cultura Economica USA",
+    "publisher": "SALAMANDRA INFANTIL Y JUVENIL",
     "gender": [
       "Cuentos"
     ],
-    "description": "Dieciocho cuentos excelentes de uno de los maestros del g nero en M xico. Su prosa, aligerada por la variedad de temas abordados, contiene un estilo conseguido a golpe de escritura cotidiana en el noble ejercicio period stico y literario que lo ha hecho uno de los grandes de la narrativa corta contempor nea.",
-    "price": 292,
-    "stock": 29,
-    "publishedDate": "1983",
-    "image": "http://books.google.com/books/content?id=G7PsAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "description": "Acompaña a Coraline y déjate transportar al mundo de fantasía y terror creado por el premiado autor Neil Gaiman. «Damas y caballeros, niñas y niños, pónganse en pie y aplaudan: Coraline es una obra maestra.» Philip Pullman, The Guardian Al día siguiente de mudarse de casa, Coraline explora las catorce puertas de su nuevo hogar. Trece se pueden abrir con normalidad, pero la decimocuarta está cerrada y tapiada. Cuando por fin consigue abrirla, Coraline se encuentra con un pasadizo secreto que la conduce a otra casa tan parecida a la suya que resulta escalofriante. Sin embargo, hay ciertas diferencias que llaman su atención: la comida es más rica, los juguetes son tan desconocidos como maravillosos y, sobre todo, hay otra madre y otro padre que quieren que Coraline se quede con ellos, se convierta en su hija y no se marche nunca. Pronto Coraline se da cuenta de que, tras los espejos, hay otros niños que han caído en la trampa. Son como almas perdidas, y ahora ella es su única esperanza de salvación. Pero para rescatarlos tendrá también que recuperar a sus verdaderos padres, y cumplir así el desafío que le permitirá volver a su vida anterior. Reseñas: «Este libro te producirá escalofríos y el miedo se te colará por los zapatos. Posee el delicado toque de terror de los mejores cuentos de hadas y es una obra maestra. Después de leerlo, no volverás a mirar un botón como antes.» Terry Pratchett «Delicado y extraordinario, se lee como un cruce de Alicia en el país de las maravillas y Stephen King.» Independent on Sunday «Una fantasía magnífica y siniestra; Gaiman muestra un gran conocimiento de los temores de los niños y de su capacidad para superarlos.» Kirkus Reviews «Un libro maravillosamente extraño y espeluznante [...]. Neil Gaiman es demasiado sutil para aludir a lo sobrenatural, es mucho más misterioso. Los peligros son reales y parte de la riqueza de esta historia se encuentra en el hecho de que ofrece muchos significados sin imponer ninguno [...].» Philip Pullman, The Guardian «Gaiman logra tejer una apasionante y adictiva narración, a caballo entre los mitos de los cuentos de hadas infantiles y el suspense propio de un filme de terror. [...] Tras su lectura no volveremos a mirar los botones de la misma manera y cada vez que tengamos que abrir una puerta nos lo pensaremos dos veces.» Sandra Pérez, ABC «Coraline es una digna heredera de las grandes heroínas de la literatura infantil, pero también lo es de las historias góticas de Poe, Lovecraft, etc. Gaiman sabe inventar ambientes y recrear la atmósfera necesaria para arañar e, incluso en ocasiones, hacer estremecerse al lector.» Pep Molist, Quadern, El País",
+    "price": 476,
+    "stock": 26,
+    "publishedDate": "2020-07-16",
+    "image": "http://books.google.com/books/content?id=Qu7wDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
   },
   {
-    "id": "s294mgEACAAJ",
-    "title": "Una casa de palabras",
+    "id": "yVBFEAAAQBAJ",
+    "title": "Olla pirata",
     "authors": [
-      "Gustavo Martín Garzo"
+      "Neil Gaiman"
     ],
-    "publisher": "Ágora",
+    "publisher": "MOLINO",
     "gender": [
       "Cuentos"
     ],
-    "description": "Los cuentos maravillosos provienen de la noche de los tiempos. Pasan de una generación a otra y se mantienen tan sugerentes y nuevos como en sus orígenes. Son casas de palabras, refugios frente a las angustias y el dolor. Crean un lugar para vivir, al tiempo que permiten habitar el mundo. Una casa de palabras es una intensa y singular meditación acerca de ellos. Una obra de feroz actualidad justamente por ir a contracorriente de la cultura prevaleciente en nuestro tiempo. Gustavo Martín Garzo nació en Valladolid en 1948, ciudad en la que reside actualmente. Es filósofo y psicólogo de formación, novelista, cuentista y ensayista. Storytelling has existed since the beginning of time. Stories are passed on from generation to generation, remaining as evocative and new as ever. They're sites of refuge in the face of anguish and pain. They create a place to live, like a house of words. This book is an intense and unique meditation on stories, running counter to the prevalent culture of our times.",
-    "price": 373,
-    "stock": 30,
-    "publishedDate": "2013",
-    "image": "http://books.google.com/books/content?id=s294mgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "description": "El nuevo álbum de Neil Gaiman y Chris Riddell nos introduce en una historia de piratas tan absurda como divertida. Maravillosamente absurda y tremendamente divertida, esta historia de piratas que hacen de cuidadores, barcos que vuelan, festines de dónuts a la luz de la luna y la legendaria olla pirata está contada con la intrépida e irresistible rima de Neil Gaiman con provisiones de deslumbrantes dibujos piratas de Chris Riddell.",
+    "price": 69,
+    "stock": 43,
+    "publishedDate": "2021-10-20",
+    "image": "http://books.google.com/books/content?id=yVBFEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
   },
   {
-    "id": "miYWwTFjGoEC",
-    "title": "Ojos de perro azul / Eyes of a Blue Dog",
+    "id": "X-6-DwAAQBAJ",
+    "title": "Humo y espejos",
     "authors": [
-      "Gabriel García Márquez"
+      "Neil Gaiman"
     ],
-    "publisher": "Vintage Espanol",
+    "publisher": "SALAMANDRA",
     "gender": [
       "Cuentos"
     ],
-    "description": "A collection of tales by the Nobel Prize-winning author features \"La tercera resignación,\" \"La otra costilla de la muerte,\" \"Eva está dentro de su gato,\" \"Amargura para tres sonámbulos,\" \"Ojos de perro azul,\" and others.",
-    "price": 303,
-    "stock": 17,
-    "publishedDate": "2010",
-    "image": "http://books.google.com/books/content?id=miYWwTFjGoEC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "description": "En las manos maestras de Neil Gaiman, la magia es mucho más que un mero juego de engaños... Una recopilación de treinta relatos, poemas narrativos y piezas breves componen esta maravillosa novela de fantasía e ilusiones. La destreza y el poder de invención de este gran fabulador transforman el entorno cotidiano en un mundo hechizado por sucesos sombríos y extraños, en el que una anciana puede comprar el Santo Grial en una tienda de segunda mano, unos asesinos se anuncian en los clasificados de un periódico bajo la rúbrica «CONTROL DE PLAGAS», o un muchacho asustado debe negociar con un trol malcarado y mezquino que vive bajo un puente ferroviario. Esta recopilación de treinta relatos, poemas narrativos y piezas breves e inclasificables ofrece múltiples y variadas posibilidades para que el lector explore una realidad transformada, astutamente velada por el humo y las sombras, a la vez que tangible y afilada. Todo parece posible en el universo de Gaiman, el gran maestro prestidigitador que despierta los sentidos, cautiva los sueños y mantiene en vilo nuestra mente. Reseñas: «Antiguas leyendas a las que ha dado un vuelco ingenioso se combinan con espeluznantes atisbos de lo imposible, para formar esta impresionante colección de relatos y poemas.» Publishers Weekly «Gaiman es una mina de historias. Debemos sentirnos afortunados, escriba en el género que escriba.» Stephen King «Soberbio, [...] evocador [...] y a menudo ingenioso y perversamente divertido. En el mundo de Gaiman, nuestros sueños más sencillos son, en realidad, nuestras elucubraciones más complejas.» Richmond Times-Dispatch «Gaiman es capaz de helarnos la sangre o hacer que soltemos una carcajada.» Minneapolis Star Tribune «Neil Gaiman escribe en tantos estilos y combinaciones de estilos quees difícil clasificar su obra con una sola palabra. Unos la consideran \"fantasy\", otros \"terror\", otros \"ciencia ficción\" o \"ficción especulativa\". Gaiman escribe igual de bien en cada uno de estos géneros. [...] Una cosa sí puede afirmarse sin lugar a dudas: en plena forma, Gaiman es magnífico.» Baltimore Sun «Gaiman es un contador de historias visionario [...] en muchos aspectos, un contador de historias de otra época, no sólo esa voz implacable que nos habla con un susurro sobre los horrores que hay más allá del círculo de luz de la hoguera. También es un escritor desesperadamente pasado de moda, capaz de crear narraciones breves trepidantes, cautivadoras, que logran satisfacer al lector, algo cada vez más raro fuera de la narrativa de género.» Toronto Star «Una caja de bombones para los amantes de la fantasía oscura.» Booklist",
+    "price": 124,
+    "stock": 46,
+    "publishedDate": "2017-06-22",
+    "image": "http://books.google.com/books/content?id=X-6-DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
   },
   {
-    "id": "iqKcswEACAAJ",
-    "title": "La composición de la sal",
+    "id": "He6-DwAAQBAJ",
+    "title": "Material sensible",
     "authors": [
-      "Magela Baudoin",
-      "Alberto Manguel"
+      "Neil Gaiman"
     ],
-    "publisher": "Almadia",
+    "publisher": "SALAMANDRA",
     "gender": [
       "Cuentos"
     ],
-    "description": "La mayoría de los cuentos resultan muy interesantes, ya que narran un episodio único de lo que se siente es una vida completa. A veces pareciera suceder que el cuento trata de tal o cual cosa, y al final te sorprende con un cambio en el enfoque o un final.",
-    "price": 133,
-    "stock": 4,
-    "publishedDate": "2016",
-    "image": "http://books.google.com/books/content?id=iqKcswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "description": "Una antología que concentra todo el potencial fantasioso y onírico de Gaiman: historias de terror y de fantasmas, ficción especulativa y cuentos de hadas, fábulas perversas y versos sorprendentes. Con una enorme legión de fieles lectores en todo el mundo, Neil Gaiman está considerado uno de los escritores de imaginación más fértil y perturbadora de la actualidad. Como es característico en él, el mundo sensible no es más que un mero velo o una ilusión tras la cual se despliega un sinfín de realidades paralelas y mundos alternativos, casi siempre amenazantes y ominosos. En la mente creativa de Gaiman, todo es posible: laberintos lunares, amigos imaginarios de carne y hueso, iglús fabricados con libros, piratas muy peculiares, caseras asesinas, objetos hechizados, tarjetas de felicitación que alteran el espacio-tiempo... Un muestrario de circunstancias singulares que confieren a los protagonistas un abanico de experiencias capaces de revelarles conocimiento de sí mismos y emociones que ni siquiera sospechaban poseer. Así pues, al lector le aguarda un viaje literario en el que frotarse los ojos y padecer escalofríos, maravillarse y quedar noqueado por el genio de un escritor sofisticado que nos embelesa con sus hechizos y nos traslada a lo más profundo de un país inexplorado donde lo fantástico se hace realidad y lo cotidiano es incandescente. Material sensible incluye un relato inédito de American Gods -«Black Dog»-, otro escrito para conmemorar el cincuenta aniversario de Doctor Who -«Las nada en punto»- y una ingeniosísima vuelta de tuerca al universo de Sherlock Holmes, «El caso de la muerte y la miel». Reseñas: «Material sensible sirve en bandeja a los fans de Gaiman todo aquello que adoran. Por sus páginas discurren todo tipo de brujas, monstruos y criaturas de la noche. Una colección de relatos que satisfará a sus fieles seguidores y que le granjeará nuevos acólitos, si es queda a quien por convencer.» Kirkus Reviews «Material sensible pone de manifiesto la amplitud y profundidad del talento de Gaiman, así como esa importante calidez que aporta al género fantástico. Jamás decepciona.» Financial Times «Cada uno de los relatos está narrado con la seguridad y la maestría de alguien capaz de contentar a quienes echan de menos la posibilidad de hallar un nuevo título de Ray Bradbury en las librerías.» Newsday «Gaiman se confirma como una de las voces más genuinas del universo fantástico actual.» Locus narrativa 6 «Su mente es un océano oscuro e insondable. Cada vez que me sumerjo en él, este mundo desaparece para ser reemplazado por otro mucho más terrible y bello en el que gustosamente me ahogaría.» New York Times Book Review",
+    "price": 28,
+    "stock": 27,
+    "publishedDate": "2016-07-14",
+    "image": "http://books.google.com/books/content?id=He6-DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
   },
-  
-  
   {
-    "id": "Ndo_ay7qFBEC",
-    "title": "Mal Despertar",
+    "id": "1UY8DwAAQBAJ",
+    "title": "La vista desde las últimas filas",
     "authors": [
-      "Antonio Aguilera C."
+      "Neil Gaiman"
     ],
-    "publisher": "Palibrio",
+    "publisher": "Malpaso Ediciones SL",
     "gender": [
       "Cuentos"
     ],
-    "description": "Antonio Aguilera C. nos ofrece, en su segunda novela publicada, una nueva muestra de narración trepidante con sucesivos episodios vibrantes. Drogas, diamantes, secuestros y la cárcel son elementos que van apareciendo, en el momento oportuno, a lo largo del relato y que sin duda ofrecen una lectura atractiva y llena de emoción.",
-    "price": 30,
-    "stock": 22,
-    "publishedDate": "2012",
-    "image": "http://books.google.com/books/content?id=Ndo_ay7qFBEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "description": "'La vista desde las últimas filas' es una recopilación de ensayos que nos permite echar un vistazo a la mente de uno de los autores más admirados y originales de nuestra época. Observador incansable de la realidad que le rodea y comentarista sagaz, Neil Gaiman es conocido por la aguda inteligencia y la desbordante imaginación que proyecta en sus obras de ficción. En esta ocasión nos sorprende con un volumen que comprende más de sesenta ensayos que de manera analítica pero divertida, erudita y accesible, nos hablan de una miríada de temas agrupados en diez capítulos, entre los que encontramos \"Algunas cosas en las que creo\" (las bibliotecas, la ficción y el ar te de contar mentiras, las librerías, la pornografía como género, la inteligencia artificial...), \"Algunas personas a las que he conocido\" (Dave McKean, Diana Wynne Jones, Stephen King...), \"Introducciones y reflexiones: ciencia ficción\" (Ray Bradbury, los Premios Nébula, Fritz Leiber...), \"El cine y yo\" ('La novia de Frankenstein', el diario del Festival de Cine de Sundance, 'Doctor Who'...), \"Sobre los cómics y algunas de las personas que los crearon\" (Batman, Astro City, Will Eisner...) y un largo etcétera de las reflexiones más dispares que componen uno de los universos internos más complejos, divertidos y sorprendentes al que los lectores tenemos acceso. \"Si este libro llegara a tus manos una noche de desesperación, su lectura conseguiría que al día siguiente volvieras a creer en ti y a tener fe en la humanidad. Una obra extraordinaria.\" Caitlin Moran, periodista y autora de 'Cómo ser mujer' \"Repleto de entusiasmo y erudición, este libro es una carta de amor a la lectura, a la escritura, a los sueños y a un género literario en toda su extensión.\" Junot Díaz, ganador del Premio Pulitzer y autor de 'La maravillosa vida breve de Óscar Wao'",
+    "price": 31,
+    "stock": 1,
+    "publishedDate": "2017-11-20",
+    "image": "http://books.google.com/books/content?id=1UY8DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
   },
   
-  
   {
-    "id": "w3CcpwAACAAJ",
-    "title": "La Maquina de la Muerte",
+    "id": "nfI5Vu91tZkC",
+    "title": "Objetos frágiles",
     "authors": [
-      "Ryan North",
-      "Matthew Bennardo",
-      "David Malki"
+      "Neil Gaiman"
     ],
-    "publisher": "B BRUGUERA (SELLO)",
+    "publisher": "Roca editorial",
     "gender": [
       "Cuentos"
     ],
-    "description": "La máquina fue inventada hace unos años: una máquina que te revela, a partir de una simple muestra de sangre, de qué morirás. No te da una fecha o los detalles. Tan sólo te escupe un papel donde hay escrito las palabras CANCER, VEJEZ, hasta las situacione",
-    "price": 225,
-    "stock": 22,
-    "publishedDate": "2012",
-    "image": "http://books.google.com/books/content?id=w3CcpwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+    "description": "Neil Gaiman nos transporta a su universo a ratos terrorífico, a ratos tremendamente bello, y nos regala un nuevo punto de vista sobre el mundo, uno que sólo puede salir de la pluma de un creador único y original como él.",
+    "price": 431,
+    "stock": 0,
+    "publishedDate": "2012-11-05",
+    "image": "http://books.google.com/books/content?id=nfI5Vu91tZkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
   },
-  {
-    "id": "ainAPAAACAAJ",
-    "title": "Cuentos que curan",
-    "authors": [
-      "Bernardo Ortín Pérez",
-      "Bernardo Ortín",
-      "Trinidad Ballester"
-    ],
-    "publisher": "Oceano Ambar",
-    "gender": [
-      "Cuentos"
-    ],
-    "description": "Los cuentos nos conectan con nuestros deseos más profundos, ya que nos permiten imaginar el mejor de los mundos y viajar a nuestro propio centro. Este libro nos enseña cómo los relatos son una vía privilegiada para conocernos mejor, crecer y disfrutar de la vida. Cuentos que curan es un libro excelente para los amantes de los relatos que quieren profundizar en su estructura y significado, y también para quienes deseen iniciarse en la escritura creativa y el arte de los cuentos en general, tanto en solitario como para trabajar en pareja o en grupo.",
-    "price": 313,
-    "stock": 33,
-    "publishedDate": "2005",
-    "image": "http://books.google.com/books/content?id=ainAPAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-  },
+
+ 
   {
     "id": "uy_W2BxlWbMC",
     "title": "Debajo del sillón",
@@ -289,27 +265,75 @@
     "image": "http://books.google.com/books/content?id=Px7XSAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
   },
   {
-    "id": "A833BPr1hkkC",
-    "title": "Con los ojos abiertos",
+    "id": "PPb5-gWwmcMC",
+    "title": "Resistencia de materiales",
     "authors": [
       "Jorge Riechmann"
     ],
-    "publisher": "Ediciones BAILE DEL SOL",
+    "publisher": "Editorial Montesinos",
     "gender": [
       "Poesía"
     ],
-    "description": "Wallace Stevens, hacia 1950, consideraba que los grandes poemas del cielo y del infierno ya se habían escrito, mientras que el de la Tierra permanecía inédito. Quizá nuestra aparente incapacidad para morar sobre este planeta sin dañarlo irreversiblemente tenga algo que ver con esta situación —en principio tan paradójica— en el ámbito de la poesía. Vivir en esta tierra/ Tierra, sin trascendencias falsas –ni escapatoria al cosmos, ni adoración de ídolos--, es un proyecto que comparten el ecologismo y la poesía moderna. La insistencia en el darnos límites y en la aceptación de los límites naturales puede verse, desde otro ángulo, como una determinación de luchar contra la falsa trascendencia. Con palabras inolvidables lo expresó el poeta René Char: “Nos cerca una intolerancia demente. Su caballo de Troya es la palabra felicidad; esto me parece mortal. Estoy hablando, hombre sin pecado original sobre una tierra presente. No tengo mil años ante mí. No me expreso para los hombres del lejano futuro que serán —¿cómo dudarlo?— tan desdichados como nosotros. Se acostumbra a extender, a guisa de tentación, la clara sombra de un gran ideal delante de lo que llamamos -por comodidad- nuestro camino. ¡Pero ese trazo sinuoso ni siquiera puede elegir entre la inundación, los hierbajos y el fuego! La prometida edad de oro no merecería tal nombre sino en el presente. La perspectiva de un risueño paraíso destruye al ser humano. La totalidad de la aventura humana desmiente el paraíso, pero estimulándonos y no quebrantándonos.” Frente a la teología del mercado y la libido de los grandes almacenes, la fundación de una civilización alternativa.",
-    "price": 178,
-    "stock": 47,
-    "publishedDate": "2007",
-    "image": "http://books.google.com/books/content?id=A833BPr1hkkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "description": "CONTENIDO: Lumbre libertad (para Juan Gelman) - Tres vacaciones (para honrar a José Ángel Valente) - El soplo mágico y ajeno (en homenaje a José Hierro) - Poesía y acción (con Eduardo Milán) - Una gota de ámbar perpendicular al mundo (cerca de José Viñals) - Sobre la tarea del escritor y la degradación de la democracia - Sobre la amabilidad y la desesperanza: autointerrogatorio - ¿De qué habla la poesía? - Las tenazas de la enunciación (sobre poesía clara y poesía oscura - En el revés del mundo crece el cosmos - Contra la ley de los grandes números - La política de las luciérnagas (amparado por Pier Paolo Pasolini).",
+    "price": 226,
+    "stock": 1,
+    "publishedDate": "2006",
+    "image": "http://books.google.com/books/content?id=PPb5-gWwmcMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+
+  {
+    "id": "AIovDgAAQBAJ",
+    "title": "Futuralgia (Poesía 1979-2000)",
+    "authors": [
+      "Jorge Riechmann"
+    ],
+    "publisher": "Calambur",
+    "gender": [
+      "Poesía"
+    ],
+    "description": "Jorge Riechmann (Madrid, 1962) es poeta, traductor literario, ensayista y profesor universitario de filosofía moral. Además de los poemarios agrupados —por vez primera— en Futuralgia, ha publicado Muro con inscripciones (2000), Desandar lo andado (2001), Poema de uno que pasa (2002), Un zumbido cercano (2003), Ahí te quiero ver (2005), Poesía desabrigada (2006), Conversaciones entre alquimistas (2007) y Rengo Wrongo (2008) y Pablo Neruda y una familia de lobos (2010).",
+    "price": 69,
+    "stock": 46,
+    "publishedDate": "2011-01-01",
+    "image": "http://books.google.com/books/content?id=AIovDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": "Ahr0DwAAQBAJ",
+    "title": "Mudanza del isonauta",
+    "authors": [
+      "Jorge Riechmann"
+    ],
+    "publisher": "Tusquets Editores S.A.",
+    "gender": [
+      "Poesía"
+    ],
+    "description": "A modo de libro manifiesto, de collage de verdades como puños y de aforismos tan brillantes como desoladores, este nuevo libro de Jorge Riechmann es un verdadero mazazo a nuestra conciencia. Como se dice en algunos de los preámbulos, si nos tomáramos el asunto del cambio climático con la debida seriedad no podríamos pensar ya en otra cosa porque \"todo lo demás resultaba irrelevante\". Y la magia verbal que remueve conciencias, y mete el escalpelo \"entre los pliegues de la fe en el dinero, la guerra y la técnica\", por tal vez el poeta comprometido más brillante de la poesía contemporánea.",
+    "price": 43,
+    "stock": 24,
+    "publishedDate": "2020-10-06",
+    "image": "http://books.google.com/books/content?id=Ahr0DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": "A890EAAAQBAJ",
+    "title": "El socialismo puede llegar sólo en bicicleta",
+    "authors": [
+      "Jorge Riechmann"
+    ],
+    "publisher": "LOS LIBROS DE LA CATARATA",
+    "gender": [
+      "Poesía"
+    ],
+    "description": "Entre 1950 y 1990 (aproximadamente), el capitalismo quiso hacer ver que era compatible con la democracia. Entre 1990 y 2005 (aproximadamente), el capitalismo quiso hacer ver que era compatible con la sustentabilidad. Pero, a la hora de la verdad, ninguna de esas dos compatibilidades existe. Y desde la “salida” de la crisis económica que comenzó en 2008 han caído todas las máscaras... Por eso, se diría que la cuestión del ecosocialismo vuelve a estar hoy sobre la mesa de debate, y con más urgencia que nunca. Esta corriente de pensamiento y praxis habla de democratizar, desmercantilizar, regular el metabolismo entre sociedad y naturaleza, orientar la política hacia el bien común y los bienes comunes. Para salir con bien de este “Siglo de la Gran Prueba” que estamos atravesando, necesitamos un marxismo sin productivismo, y un ecologismo sin ilusiones acerca de supuestos “capitalismos verdes”. Jorge Riechmann, ya implicado en la traducción del Manifiesto ecosocialista, plasma en este volumen (que ahora se presenta en una tercera edición revisada y ampliada) su reflexión sobre ecosocialismo.",
+    "price": 442,
+    "stock": 39,
+    "publishedDate": "2022-06-13",
+    "image": "http://books.google.com/books/content?id=A890EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
   },
   {
     "id": "Dh1_S5GxRhIC",
     "title": "El teatro en América Latina",
     "authors": [
-      "Adam Versenyi",
-      "Adam Versényi"
+      "Adam Versenyi"
     ],
     "publisher": "Ediciones AKAL",
     "gender": [
@@ -321,78 +345,21 @@
     "publishedDate": "1996",
     "image": "http://books.google.com/books/content?id=Dh1_S5GxRhIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
   },
-
   {
-    "id": "pZ-KP8uGK00C",
-    "title": "Perspectivas interculturales en el aprendizaje de idiomas",
+    "id": "fPjLOwAACAAJ",
+    "title": "El juego del juego",
     "authors": [
-      "Michael Byram",
-      "Michael Fleming"
+      "Jean Duvignaud"
     ],
-    "publisher": "Cambridge University Press",
+    "publisher": "Fondo de Cultura Economica USA",
     "gender": [
       "Teatro"
     ],
-    "description": "This book discusses the importance of sensitivity to cultural differences for language learners.",
-    "price": 252,
-    "stock": 10,
-    "publishedDate": "2001",
-    "image": "http://books.google.com/books/content?id=pZ-KP8uGK00C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-  },
-  
-  
-  
-  
-  
-  {
-    "id": "ZG8HAQAAIAAJ",
-    "title": "El eterno femenino",
-    "authors": [
-      "Rosario Castellanos"
-    ],
-    "publisher": "Fondo de Cultura Economica",
-    "gender": [
-      "Teatro"
-    ],
-    "description": "\"A Rosario Castellanos Ie intereso siempre el teatro como medio de expresion, como manera de lIegar a un publico mas amplio y diverso y de poder comunicarse con el. Sin embargo, no se dedico al genero hasta muy tarde y nunca lIego a publicar esta obra que termino de escribir pocos meses antes de su muerte. EI tema de la mujer, de su situacion en el mundo, fue una de sus preocupaciones constantes. Asi, no es de extranar que El eterno femenino tenga un caracter abiertamente feminista, sin perder por eso la ternura y el buen humor que caracterizan toda la produccion que nos ha dejado Rosario Castellanos en la Iirica y en la prosa.\"--Back cover.",
-    "price": 414,
-    "stock": 32,
-    "publishedDate": "1975",
-    "image": "http://books.google.com/books/content?id=ZG8HAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-  },
-  
-  {
-    "id": "D8iNxZluEHsC",
-    "title": "La música poprock y El teatro contemporáneo",
-    "authors": [
-      "Héctor Fouce",
-      "Merce Saumell"
-    ],
-    "publisher": "Editorial UOC",
-    "gender": [
-      "Teatro"
-    ],
-    "description": "El teatro vivió su renovación a partir de 1960. Tal como ya había pasado con las artes plásticas, la escena rompió con el realismo y las representaciones tradicionales. Aquí empieza el teatro contemporáneo. Sin la música pop y rock, la segunda mitad del siglo XX habría sido probablemente diferente. Este libro traza la evolución de esta música popular y analiza la gran influencia que ha tenido.",
-    "price": 5,
-    "stock": 33,
-    "publishedDate": "2008",
-    "image": "http://books.google.com/books/content?id=D8iNxZluEHsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-  },
-  {
-    "id": "N8yTBQAAQBAJ",
-    "title": "Tablas",
-    "authors": [
-      "Jan Peter Nauta"
-    ],
-    "publisher": "Cambridge University Press",
-    "gender": [
-      "Teatro"
-    ],
-    "description": "Tablas offers advanced students the opportunity to improve their Spanish communication while planning and staging a theatrical production. Scripts and detailed suggestions for staging allow students to improve written comprehension while working with engaging and practical material.",
-    "price": 480,
-    "stock": 36,
-    "publishedDate": "2014",
-    "image": "http://books.google.com/books/content?id=N8yTBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "description": "El autor aborda el hasta hace poco estudiado tema del juego y sus significados dentro de la potencialidad creadora del hombre. Bajo esa perspectiva analiza h bitos, formas, territorios, estilos, usos y manifestaciones acerca de c mo se delimitan los espacios l dicos que devienen en una existencia fruct fera",
+    "price": 94,
+    "stock": 30,
+    "publishedDate": "1982-01-01",
+    "image": "http://books.google.com/books/content?id=fPjLOwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
   },
   {
     "id": "vpS_AAAACAAJ",
@@ -411,100 +378,121 @@
     "image": "http://books.google.com/books/content?id=vpS_AAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
   },
   {
-    "id": "IYeJEAAAQBAJ",
-    "title": "La venganza de los bibliotecarios",
+    "id": "gGWvEAAAQBAJ",
+    "title": "Quino inédito",
     "authors": [
-      "Tom Gauld"
+      "Quino"
     ],
-    "publisher": "SALAMANDRA GRAPHIC",
+    "publisher": "LUMEN",
     "gender": [
       "Humor"
     ],
-    "description": "Nuevas tiras cómicas del dibujante que ama los libros, que regresa con su punzante humor con La venganza de los bibliotecarios. Con su estilo más que reconocible, a Tom Gauld no hay objetivo que se le resista: es capaz de abordar cualquier temática con su mirada irónica y certera. En esta ocasión, regresa al mundo literario para poner el foco en el templo de los libros y sus guardianes: bibliotecas y bibliotecarios. Con la inteligencia sin pretensiones a la que nos tiene acostumbrados, dando rienda suelta a su amplio conocimiento acerca de las triquiñuelas del sector y sirviéndose de su habilidad para las analogías científicas y su reconocido gusto por la ciencia ficción, Gauld regresa con una colección de viñetas imperdible, que reúne lo mejor de sus publicaciones semanales de The Guardian. La venganza de los bibliotecarios viene a confirmar que su ingenio es inagotable. La crítica ha dicho: «Tom Gauld es siempre divertido, pero lo es de una forma que te hace sentir inteligente.» Neil Gaiman «Las caricaturas esquemáticas [de Tom Gauld] añaden capas de significado incluso a las historietas de una sola viñeta e inyectan a lo ordinario un poco de lo fantástico. Encantador y sin pretensiones, todo lector puede admirar algo en la obra de Gauld.» The Comics Journal «El trabajo de Gauld me atrae más como amante de los libros: de cada una de las piezas surgen bromas que conectan con las comunidades de la ciencia ficción o la literatura, y denuncian por igual el esnobismo literario y a los fanáticos pedantes.» The Verge «Un libro imprescindible para todo bibliófilo por poco sentido del humor que tenga. [...] Muy recomendable.» The Austin Chronicle",
-    "price": 68,
-    "stock": 33,
-    "publishedDate": "2022",
-    "image": "http://books.google.com/books/content?id=IYeJEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "description": "Las tiras inéditas del creador de Mafalda, maestro indiscutible del humor y premio Príncipe de Asturias «Cada libro de Quino es lo que más se parece a la felicidad: la quinoterapia». Gabriel García Márquez Oficinistas que se dirigen diariamente a la jaula de sus trabajos, bañistas que pierden toda su confianza al quedarse desnudos, hombres que se lamentan por la miseria de los demás pero no hacen nada por cambiar las cosas, exrevolucionarios entregados a la llamada del dinero... Cada viñeta de Quino es una flecha de dos puntas. Una da de lleno en la diana del humor y nos arranca una sonrisa, la segunda señala insistentemente los temas más candentes de nuestra sociedad en crisis: el fanatismo religioso, la desigualdad social, la corrupción, el militarismo, el desgaste del amor, e incluso su propia obra. Este libro recopila el valioso material inédito de este autor universal, testigo excepcional de su tiempo, que se posicionó con firmeza a favor de los derechos humanos y de la libertad e hizo de su dibujo un vehículo de pensamiento y protesta, pero sobre todo de humor. Críticas: «Los lúcidos mensajes de Quino siguen vigentes por haber combinado con sabiduría la simplicidad en el trazo del dibujo con la profundidad de su pensamiento. La obra de Quino conlleva un enorme valor educativo y ha sido traducida a numerosos idiomas, lo que revela su dimensión universal. Sus personajes trascienden cualquier geografía, edad y condición social». Acta del jurado del Premio Príncipe de Asturias «Seguro que le debo mucho a Quino como humorista gráfico, pero más le debo como persona». Liniers «Mirá que cambiaste el mundo con tus dibujitos, ¡eh! Lo mejoraste bastante. No, no alcanzó. Nunca alcanza. No hay témpera blanca que lo corrija. [...] ¡Y tus páginas! Filosofía y poesía. Crítica feroz y ternura. Un pibe de ocho años y un viejo sabio en los mismos zapatos». Tute «Lo intuíamos. El verdadero Principito era Quino». Miguel Rep «Un excepcional testigo de medio siglo de historia, un testigo irónico y lúcido, aunque no se nos proponga en ningún momento como imparcial, porque el autor ha tomado, en su vida y en su obra, abiertamente partido». Esther Tusquets «Quino resumió las ganas de reír y de estamparse contra la pared». Karina Sainz Borgo, Vozpópuli «Uno de los espíritus más lúcidos, insobornables y creativos de ese género menospreciado que cambia constantemente de nombre: tebeo, cómic, historieta». Rafael Narbona, El Cultural",
+    "price": 12,
+    "stock": 39,
+    "publishedDate": "2023-03-09",
+    "image": "http://books.google.com/books/content?id=gGWvEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
   },
   {
-    "id": "QHsrAwAAQBAJ",
-    "title": "Los cansados",
+    "id": "YAx0EAAAQBAJ",
+    "title": "La biblioteca de Quino",
     "authors": [
-      "Michele Serra"
+      "Martín Isidro Vázquez León"
     ],
-    "publisher": "ALFAGUARA",
+    "publisher": "Punto Rojo Libros",
     "gender": [
       "Humor"
     ],
-    "description": "¿Cuándo se ha visto un mundo en el que los viejos trabajan y los jóvenes duermen? La historia de un padre y su hijo adolescente que está conmoviendo a toda Italia. A lo mejor están en la habitación de al lado, o tal vez en otro lugar. En general duermen cuando los demás están despiertos, y velan cuando el resto del mundo duerme. Son los cansados: los hijos adolescentes. Michele Serra tiene una mirada implacable hacia los hijos y hacia los padres, y narra los conflictos, las ocasiones perdidas, el sentimiento de culpa. ¿Cuándo ha pasado? ¿Cómo ha pasado? ¿Dónde nos hemos perdido? ¿Bastará, para el reencuentro, la desesperada y patética invitación a dar juntos un paseo por la montaña? Entre tormentas afectivas y sátira social, Los cansados penetra en el mundo desconocido de los hijos y en el no menos desconocido de los «postpadres». Un viaje hacia una generación que se ha extendido horizontalmente por el mundo y quizás desde esa postura pueda ver cosas que los «erectos» todavía no ven o ya no quieren ver. La crítica ha dicho... «Un libro muy tierno, donde la ironía y la fuerza satírica alternan con momentos conmovedores, con una nostalgia lírica de rara intensidad y una escritura de gran pureza y belleza.» Massimo Recalcati, La Repubblica «Diálogo sin interlocutor, diario familiar, carta abierta, sátira social y hasta novela fantasticoapocalíptica. Los cansados es una larga reflexión entretejida de ironía, sentimientos de culpa, amor y asombro acerca del arduo oficio de la paternidad.» Paolo Di Stefano, Corriere della Sera «Con la leve seriedad que caracteriza su escritura, Serra analiza la distancia que lo separa de su hijo. En 150 páginas cargadas de cariño, dudas, ternura e ironía, describe las sensaciones de un padre hacia su hijo de diecinueve años.» Antonella Sbriccoli, Panorama «Los cansados hace reír y hace sufrir porque revela nuestros sentimientos más profundos: por un lado, el sufrimiento por estar perdidos, casi derrotados, delante de esa montaña altísima, pero tumbada en el sofá, que es esta juventud que no tiene ni siquierala necesitad de rebelarse; y por el otro, la comicidad que se halla en las cosas propias de la adolescencia.» Annalena Benini,Il Foglio «Autocrítica, reflexiva y llena de humor y sátira sobre padres e hijos, Los cansados retrata a la primera generación real del mundo dual, analógico y digital.» El País «Breve e intenso, ha situado un espejo descarnado delante de miles de padres que ven cómo su hijo se les escapa.» La Vanguardia «Un ensayo revelador sobre las nuevas generaciones de jóvenes enganchados al móvil.» Los semáforos, La Vanguardia «Escrito con una ironía que no esconde la amargura, este libro se está convirtiendo en viral.» Tiempo «Los cansados sirve a los jóvenes como manual para enfrentar a sus padres y a los mayores cómo curso acelerado para entender a sus hijos.» Glamour «Los cansados ha de ser leído con la atención que demanda un asunto que nos compete y cuyas certezas son algo más que meras anécdotas de convivencia. El humor, aunque indispensable, si se trata de padres e hijos, no alivia gravedad de las emociones.» Revista Leer «Supongo que muchos padres españoles se reirán con el libro de Michele Serra.» Luis García Montero «Una mirada implacable hacia los hijos y hacia los padres. [...] Momentos hilarantes se alternan con reflexiones tiernas y profundas sobre el oficio de ser padres y el perpetuo conflicto generacional implícito en la relación padre-hijos.» Diario de Ávila",
-    "price": 222,
+    "description": "Este volumen contiene la totalidad de los cuentos y narraciones breves escritas por el autor. Destacan por su variedad de temas, su realismo y su lenguaje sencillo que hace que se lean con facilidad.",
+    "price": 111,
+    "stock": 30,
+    "publishedDate": "2022-06-07",
+    "image": "http://books.google.com/books/content?id=YAx0EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": "jxlNEAAAQBAJ",
+    "title": "Simplemente Quino",
+    "authors": [
+      "Quino"
+    ],
+    "publisher": "Panarea Digital",
+    "gender": [
+      "Humor"
+    ],
+    "description": "Este libro reúne lo mejor del humor de Quino, el padre de Mafalda, y su enfoque único sobre los temas que siempre le interesaron para hacer humor: la humanidad, la justicia, el poder, la religión, el paso del tiempo y la tecnología, que hará reflexionar y también reír a quienes lo lean.",
+    "price": 447,
     "stock": 8,
-    "publishedDate": "2014",
-    "image": "http://books.google.com/books/content?id=QHsrAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "publishedDate": "2021-11-09",
+    "image": "http://books.google.com/books/content?id=jxlNEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
   },
+  
+  
+  
   {
-    "id": "ISxzZ57V9cQC",
-    "title": "La sanguijuela de mi niña",
+    "id": "3G7wBgAAQBAJ",
+    "title": "¡Así va el mundo! (La pequeña filosofía de Mafalda)",
     "authors": [
-      "Christopher Moore"
+      "Quino"
     ],
-    "publisher": "La Factoría de Ideas",
+    "publisher": "LUMEN",
     "gender": [
       "Humor"
     ],
-    "description": "La vida de los vampiros es todo romanticismo y poesía... ¿o no? Cuando la joven Jody se despierta una mañana con parte del cuerpo quemado y una sed de sangre terrible, tiene que enfrentarse a todos los aspectos prácticos de su nueva condición: dónde dormir, cómo conseguir sangre fresca, cómo mantener el tipo ante su madre... No parece una empresa fácil para una chica que no ha visto una película de vampiros en su vida. Cuando Thomas, un escritor frustrado y dependiente a tiempo parcial, se cruza en su vida, Jody coge la oportunidad por el cuello... literalmente.",
-    "price": 460,
-    "stock": 45,
-    "publishedDate": "2012",
-    "image": "http://books.google.com/books/content?id=ISxzZ57V9cQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "description": "La pequeña indignada más famosa del mundo reflexiona sobre los grandes temas de la vida. Mafalda se hace muchas preguntas, demasiadas preguntas que a menudo irritan y superan a los que la rodean. Nuestra pequeña indignada se cuestiona los temas universales y comparte sus reflexiones sobre el mundo. Mafalda se siente responsable del futuro de la humanidad, mientras que los adultos que la rodean solo se preocupan por cosas banales. ¿Qué hacer cuando las cosas van mal? «¿Y no será que en este mundo hay cada vez más gente y menos personas?» La crítica ha dicho... «Quino, el grande Quino, seguirá vivo en su Mafalda, que nos enseñó que, como siempre, lo urgente no deja tiempo para lo importante.» Héctor Abad Faciolince «Nunca he amado a una mujer que no haya amado previamente a Mafalda.» Manuel Jabois «Qué importante has sido en nuestras vidas. [...] Siempre estaban tus viñetas dando sentido a los detalles absurdos de la vida y la sociedad. Cada lección era un guiño de risa silenciosa que se volvía carcajada y suspiro, filosofía pura, crítica social, lenguaje de gestos expresivos y pequeños detalles, el humor más refinado concentrado en los dibujos. Qué gran compañero has sido.» Ana Merino «Las nuevas generaciones siguen leyendo a Mafalda con regocijo. No es un simple vestigio del pasado o un recuerdo nostálgico, sino un personaje muy vivo que sigue incendiando conciencias y promoviendo el inconformismo.» Rafael Narbona, El Cultural «Como Charlie Brown o Nancy, Mafalda es un instrumento para proyectar, a través de la infancia, las miserias de los adultos y las contradicciones de este valle de lágrimas. ¡Aleluya!» Vicent Sanchis, Catorze «Con ustedes, la filósofa con lacito con la que han crecido varias generaciones, [...] la Greta Thunberg de la historieta. [...] Por su espíritu contestatario, humor cuchillero y costumbrismo con guiños progres, Mafalda jamás pasará de moda. [...] Quino se ganó la inmortalidad y los amantes de las viñetas una heroína para todos los públicos. Una que, a la que te descuidas, te suelta en plan filósofa: \"¿Qué te gustaría ser si vivieras?\"» El Mundo «Mafalda, esa niña que, a estas alturas, ya debería ser Patrimonio de la Humanidad. Básica para la vuelta a la rutina.» El País «No tiene importancia lo que yo pienso sobre Mafalda. Lo importante es lo que Mafalda piensa de mí.» Julio Cortázar «Mafalda es una heroína de nuestro tiempo.» Umberto Eco «Creo que, junto con El Eternauta, Mafalda es la historieta más influyente. Es un icono argentino como el alfajor, Fangio, Gardel o el Obelisco. Mafalda está en el subconsciente argentino.» Liniers «Afortunadamente, no me puedo imaginar a Mafalda sino como la graciosa niña que fue, es y será siempre. Los personajes de historieta tienen ese privilegio (enarbolado por Peter Pan) de no envejecer.» Roberto Fontanarrosa «Mafalda es, digámoslo de una vez, más humana que muchos seres humanos.» Román Gubern",
+    "price": 271,
+    "stock": 15,
+    "publishedDate": "2015-03-26",
+    "image": "http://books.google.com/books/content?id=3G7wBgAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
   },
   {
-    "id": "HBCtEAAAQBAJ",
-    "title": "Dominga habla sola",
+    "id": "uxlNEAAAQBAJ",
+    "title": "Quién anda ahi",
     "authors": [
-      "Elisabeth Justicia"
+      "Quino"
     ],
-    "publisher": "AGUILAR",
+    "publisher": "Panarea Digital",
     "gender": [
       "Humor"
     ],
-    "description": "El primer libro ilustrado con viñetas y textos de @dominga_habla_sola, la cuenta más tierna, gamberra y viral de Instagram que ya ha conquistado a cientos de miles de personas y está a punto de conquistar tu corazón. Dominga habla sola ¡y a veces hasta se da la razón! La anciana más tierna, gamberra y viral de las redes nos muestra su ingenio y su filosofía vital en este libro de viñetas y textos en el que recopila algunas de sus más conocidas escenas junto a otras muchas ilustraciones inéditas. En estas páginas Dominga reflexiona sobre la soledad (la elegida y la obligada), el miedo (como obstáculo y como reto) y el paso del tiempo (que a veces vuela y otras se hace eterno), y a través de ello nos habla de otras muchas cosas, como las emociones, el feminismo, la salud mental o el edadismo. Siempre a través de la ironía deslenguada y la sabiduría que solo alguien que ha vivido mucho puede permitirse. La ilustradora y diseñadora Elisabeth Justicia ha construido un personaje maravilloso, con alma propia, que da visibilidad a las personas mayores y sus problemáticas, que en el fondo no dejan de ser un reflejo de las de nuestra sociedad.",
-    "price": 248,
-    "stock": 11,
-    "publishedDate": "2023",
-    "image": "http://books.google.com/books/content?id=HBCtEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "description": "Una recopilación de las mejores viñetas de Quino, el creador de Mafalda, sobre los problemas que más han preocupado al ser humano a lo largo de las épocas, con humor que no pasa de moda. La política, el poder, la corrupción, los avances tecnológicos, las parejas y las familias en crisis, con una gran dosis de ironía, para reír y a la vez repensar el mundo en el que vivimos.",
+    "price": 111,
+    "stock": 42,
+    "publishedDate": "2021-11-09",
+    "image": "http://books.google.com/books/content?id=uxlNEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
   },
   {
-    "id": "mEhGDwAAQBAJ",
-    "title": "El fruto prohibido",
+    "id": "2M1AEAAAQBAJ",
+    "title": "Mundo Quino",
     "authors": [
-      "Liv Strömquist"
+      "Quino"
     ],
-    "publisher": "RESERVOIR BOOKS",
+    "publisher": "Panarea Digital",
     "gender": [
       "Humor"
     ],
-    "description": "Una novela gráfica que toda madre debería regalar a su hija, ¡y toda hija a su pareja! El cómic feminista sobre la historia cultural de la vulva (dejaos de vaginas) que está cambiando el mundo. #VivaLaVulva Cierta parte de la anatomía femenina ha suscitado a lo largo de la historia, y sigue suscitando, el interés digamos que «vivo» de ciertos representantes del género masculino. Pero... los más ilustres próceres no han dado pie con bola en milenios. El fruto prohibido es una historia cultural de la vulva, desde la Biblia hasta Freud y más allá, pasando por los más variopintos padres de la Iglesia, pedagogos, sexólogos e incluso por famosos anuncios de tampones que, tras siglos y siglos de represión sexual, han seguido llenando nuestras cabezas de concepciones falsas sobre los genitales femeninos. En siete capítulos, de manera desenfadada y lúcida, Liv Strömquist cuestiona la mirada del patriarcado al órgano sexual de las mujeres y denuncia los problemas que se siguen de ella. El fruto prohibido sorprende por la justicia y la claridad de su análisis, por el interesante manejo de conceptos políticos, científicos y sociológicos, por la gracia con la que confronta presente y pasado, por sus paralelismos sorprendentes y, sobre todo, por su humor omnipresente y vitriólico. Críticas: «Liv Strömquist es esa dibujante de las costumbres humanas que jamás irá con el freno de mano puesto. Con paso decidido y sin ningún tipo de dilación, es capaz de transformar teorías sociales avanzadas en viñetas diáfanas que además le dan a la indignación un contrapunto hilarante.» Aftonbladet «Un excelente cómic llegado de Suecia: feminista, cáustico, instructivo y terriblemente divertido.» Time Out Paris «Las partes íntimas de la mujer son un campo de batalla que ha sido explicado o bien en términos místicos o bien estigmatizándolo y reduciéndolo al tabú. Señoras y señores, Liv Strömquist ha llegado para cambiarlo.» tip Berlin «El cómic feminista que llama a la vulva por su nombre.» Verne (El País)",
-    "price": 249,
-    "stock": 25,
-    "publishedDate": "2018",
-    "image": "http://books.google.com/books/content?id=mEhGDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "description": "Los dibujos de Quino, previos a la aparición de Mafalda, están en este libro que recopila sus trabajos iniciales de humor gráfico, editados por primera vez en 1964. Humor que no pasa de moda con una línea simple y fresca y la mirada aguda e inteligente de este maestro del humor.",
+    "price": 354,
+    "stock": 20,
+    "publishedDate": "2021-09-03",
+    "image": "http://books.google.com/books/content?id=2M1AEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
   },
+  
+  
   {
-    "id": "9Wy4EAAAQBAJ",
-    "title": "Amor en arriendo",
+    "id": "NZGRAAAAIAAJ",
+    "title": "Toda Mafalda",
     "authors": [
-      "Tamara Kruger"
+      "Quino"
     ],
-    "publisher": "PLAZA & JANES",
+    "publisher": "De LA Flor S.R.L. Ediciones",
     "gender": [
       "Humor"
     ],
-    "description": "Una comedia romántica trepidante y en clave millenial. Emilia es una chica tímida y superada por su contexto: las deudas, la enfermedad de su madre, una relación estancada y los dolores de cabeza que le genera el centro comercial que administra, la tienen al borde del colapso. Todo cambiará con la llegada de Mateo, su amor platónico del colegio, quien asoma por el recinto buscando un local para abrir su clínica veterinaria. En medio de cafés veganos, tiendas de carcasas, farmacias y centros de estética, los protagonistas deberán enfrentar la verdad que los acecha y que no han querido aceptar: el amor que sintieron cuando eran apenas unos adolescentes, está más vivo que nunca. En su debut literario en Penguin Random House, Tamara Kruger presenta una comedia romántica desenfadada, que no tiene miedo a escarbar en las expectativas y frustraciones de aquella generación que egresó de la universidad llena de sueños y ahora intenta navegar con dificultad en el mundo real.",
-    "price": 289,
-    "stock": 27,
-    "publishedDate": "2023",
-    "image": "http://books.google.com/books/content?id=9Wy4EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "description": "El libro que los amantes, fans, y lectores agradecidos de Mafalda siempre desearon tener posee los siguientes contenidos: Prologo / Visitas Ilustradas Mafaldas (Casi) Privadas / Mafalda Tira a Tira / Mafalda Inedita / Mafalda Mucho mas Inedita / Los Personajes Como Solistas / Mafaldas Sueltas / Los Anos de Quino y Mafalda",
+    "price": 109,
+    "stock": 16,
+    "publishedDate": "1993",
+    "image": "http://books.google.com/books/content?id=NZGRAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
   },
   {
     "id": "tb8XEAAAQBAJ",
@@ -539,368 +527,213 @@
     "image": "http://books.google.com/books/content?id=AUdSAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
   },
   {
-    "id": "j2SmEAAAQBAJ",
-    "title": "111 cosas que podrías hacer en lugar de depilarte",
+    "id": "GdvUAgAAQBAJ",
+    "title": "Lo mejor de Maitena",
     "authors": [
-      "Alexis Ortiz"
+      "Maitena"
     ],
-    "publisher": "MOLINO",
+    "publisher": "SUDAMERICANA",
     "gender": [
       "Humor"
     ],
-    "description": "¿SABÍAS QUE DEDICAMOS UNA MEDIA DE 1.000 HORAS DE NUESTRA VIDA A DEPILARNOS? QUIZÁ HAYA LLEGADO EL MOMENTO DE HACER OTRAS COSAS CON NUESTRO TIEMPO. Un libro cargado de ideas para llenar tu vida de creatividad, diversión y buenos momentos. Nuestro tiempo es valiosísimo y quizá no haga falta invertir buena parte de él a quitarnos los pelos. En su lugar, nos podríamos dedicar a cosas mucho más interesantes como aprender a comunicarnos solo en memes, practicar la papiroflexia, usar la ouija para contactar con el espíritu de Marie Curie, batir un récord Guinness (el de más huevos rotos con la cabeza parece bastante accesible) o, no sé, incluso derribar el patriarcado. Porque no hay nada que una mujer con tiempo entre manos, y con (o sin) pelos en las piernas, no pueda hacer. Ilustrado por Rocío Vidal (@rainvart)",
-    "price": 77,
-    "stock": 49,
-    "publishedDate": "2023",
-    "image": "http://books.google.com/books/content?id=j2SmEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-  },
-  
-  {
-    "id": "sRqsEAAAQBAJ",
-    "title": "El amor según",
-    "authors": [
-      "Cristina Fuertes"
-    ],
-    "publisher": "RANDOM COMICS",
-    "gender": [
-      "Humor"
-    ],
-    "description": "El primer libro de Cris Fuertes, la ilustradora que ha revolucionado las redes sociales con su particular visión sobre el amor, siempre al ritmo de la mejor música. Cris Fuertes vive por y para la música, la literatura y el cine. El amor que siente por el arte le ha convertido en la artista que es hoy en día. El amor según es su primer libro, en el que ahondará en los acontecimientos más importantes de su vida: la muerte de su padre, las primeras relaciones, su trabajo, etc. A ratos a ritmo de los Beatles y de Julio Iglesias y a otros a ritmo de Leiva y Arctic Monkeys. A través de su estrechísima relación con la música -que está presente en todos y cada uno de los momentos reseñables de su vida- Cristina Fuertes construye este libro, que además cuenta con unas preciosísimas ilustraciones, muchas de ellas exclusivas. El amor según de Cristina Fuertes ofrece la oportunidad de que los lectores se metan de lleno en un diario privado; uno en el que la imagen ha sustituido la palabra porque esta ilustradora se expresa desde el dibujo con total sinceridad, sin esconder nada y sin dejar de retratarse en cada página. Con cientos de miles de seguidores en su cuenta de Instagram, (@cris.fuertes), donde no solo publica sus ilustraciones sino que habla de curiosidades del mundo de la música y de la literatura, la joven artista se ha convertido en una de las mejores evidencias del poder que la música tiene sobre las emociones, los sentimientos y los recuerdos. El resultado es un libro para disfrutar, en el que abrir cualquier página hará que el lector conecte directamente con algún momento de su pasado o su presente y que, a través de la vida de Cris Fuertes y de la música, pueda emocionarse, reflexionar, reír, llorar y, por qué no, volver a enamorarse.",
-    "price": 230,
-    "stock": 44,
-    "publishedDate": "2023",
-    "image": "http://books.google.com/books/content?id=sRqsEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-  },
-  {
-    "id": "JZZWEAAAQBAJ",
-    "title": "Hierba",
-    "authors": [
-      "Keum Suk Gendry-Kim"
-    ],
-    "publisher": "RESERVOIR BOOKS",
-    "gender": [
-      "Humor"
-    ],
-    "description": "Una aclamada novela gráfica de no ficción sobre las \"mujeres de consuelo\" asiáticas en la Segunda Guerra Mundial. Hierba es la historia real de una superviviente: Lee Ok-Sun, una joven coreana que durante la Guerra del Pacífico fue explotada como «mujer de consuelo», el eufemismo utilizado por el ejército imperial japonés para referirse a sus esclavas sexuales. A día de hoy, aquel sigue siendo uno de los capítulos más oscuros del siglo XX. Partiendo de las entrevistas que mantuvo con Lee Ok-Sun en una residencia de ancianos, la autora ha narrado el devenir de su infancia en un ambiente extremadamente humilde, vendida sucesivamente a varias familias adoptivas, hasta que llegó la ocupación japonesa y en 1942 fue trasladada a la fuerza a una base aérea en China. CÓMIC DEL AÑO para The New York Times, The Guardian, Los Angeles Times, Library Journal. GANADOR DE LOS PREMIOS: Harvey Award, Krause Essay Prize, Cartoonist Studio Prize, Big Other Book Award, YALSA Book Award, Prix Bulles d'Humanité. FINALISTA DE LOS PREMIOS: Eisner Award, Believer Book Award, LA Times Book Prize, Ringo Award. La crítica ha dicho: «Una obra maestra del cómic biográfico e histórico, de la misma magnitud que Maus, Persépolis o El arte de volar.» La Repubblica «Atractivo y devastador, te romperá el corazón silenciosamente. Con toda probabilidad, el cómic del año.» The Guardian «Un testimonio íntimo y sobrio sobre unos hechos abominables.» Libération «Su dibujo poderoso, de trazo salvaje y negros muy densos, logra meternos de lleno en un reino de pesadilla.» New York Times Book Review «Golpea donde tiene que golpear.» South China Morning Post «Está a la altura de los grandes cómics sobre la Historia con mayúscula.» Quill and Quire «Un libro inquebrantable.» The New York Times «Hay que tener un talento extraordinario para convertir esta historia trágica en una lectura tan fascinante.» Montreal Review of Books «Duro y conmovedor. Gendry-Kim nos cuenta la formidable historia de Lee Ok-Sun con gracia, sentido de la estética y humildad. Como testimonio, merece ser encumbrado.» Publishers Weekly «Un libro bello y poderoso que a su vez transmite mucha humanidad, la historia de una superviviente... Uno de esos libros fundamentales que simplemente no se pueden olvidar.» Planete BD",
-    "price": 255,
-    "stock": 23,
-    "publishedDate": "2022",
-    "image": "http://books.google.com/books/content?id=JZZWEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-  },
-  {
-    "id": "bpTGh8-KlOgC",
-    "title": "Españistán",
-    "authors": [
-      "Aleix Saló"
-    ],
-    "publisher": "DEBOLS!LLO",
-    "gender": [
-      "Humor"
-    ],
-    "description": "Una oportuna reflexión sobre la crisis española en clave de humor. Formato especial KF8 para tabletas Kindle. Esta es la historia de un cani (o un choni, o un poligonero, ya saben...) que, en su empeño por deshacerse de la hipoteca, deberá recorrer el Reino de Españistán para enfretarse con todos y cada uno de los malandrines, meapilas y soplagaitasque lo pueblan, dando lugar a un relato plagado de tópicos, tacos y faltas de ortografía, con bien de lobbies, parados, mileuristas, pensionistas, funcionarios, obispos, SGAE, telebasura, enchufes, sobornos y estilismos poligoneros.",
-    "price": 274,
-    "stock": 23,
-    "publishedDate": "2012",
-    "image": "http://books.google.com/books/content?id=bpTGh8-KlOgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-  },
-  {
-    "id": "DSGAvrYDMpwC",
-    "title": "Salome",
-    "authors": [
-      "Oscar Wilde"
-    ],
-    "publisher": "Courier Corporation",
-    "gender": [
-      "Humor"
-    ],
-    "description": "Wilde's notorious masterpiece enacts the biblical tale of a wanton woman's erotic dance and the martyrdom of John the Baptist. Complete English edition (1894) with illustrations by Aubrey Beardsley.",
-    "price": 123,
-    "stock": 49,
-    "publishedDate": "2002",
-    "image": "http://books.google.com/books/content?id=DSGAvrYDMpwC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-  },
-  {
-    "id": "kZuSEAAAQBAJ",
-    "title": "Nostalgia Milenial: Sobreviviré",
-    "authors": [
-      "Nostalgia milenial"
-    ],
-    "publisher": "RANDOM COMICS",
-    "gender": [
-      "Humor"
-    ],
-    "description": "Preparate para desbloquear tus recuerdos porque vuelve la cuenta más delirante y divertida de Instagram con un segundo libro: Nostalgia milenial. ¿JUGABAS A LOS TAZOS EN EL RECREO? ¿COMÍAS VIENDO LOS SIMPSON EN ANTENA 3? ¿TE APRENDISTE DE MEMORIA EL ANUNCIO DE «MIS PEINADOS PREFERIDOS»? ¿LO DISTE TODO BAILANDO «LA BOMBA» Y «LA MAYONESA»? ¿APUNTASTE CON UN PUNTERO LÁSER A LOS OJOS DE OTROS NIÑOS? Si lo hiciste todo, no hay duda, eres milenial. Y, si a ti también te engañaron con eso de que ser mayor molaba, este es tu libro. Con él podrás viajar a aquellos increíbles años y olvidarte unas horas de la vida adulta. Recordarás la vuelta al cole, los juegos en la calle, los coleccionables más míticos, los juguetes, los helados y cientos de cosas más. Como diría Casper: «¿Te quedas conmigo?».",
-    "price": 388,
-    "stock": 46,
-    "publishedDate": "2022",
-    "image": "http://books.google.com/books/content?id=kZuSEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-  },
-  {
-    "id": "5w9ACQAAQBAJ",
-    "title": "Mafalda 11",
-    "authors": [
-      "Quino"
-    ],
-    "publisher": "Panarea Digital",
-    "gender": [
-      "Humor"
-    ],
-    "description": "Mafalda, la niña de 6 años que ha enamorado millones de corazones en América Latina y el mundo, llega a Google Play con su gusto por los Beatles, los panqueques y la lectura, la tele (menos la series), correr al aire libre y jugar a los cowboys. Este personaje ha sido inspiración de muchos, otros tantos aprendieron a leer con ella. Mafalda es un símbolo de libertad y de los derechos del niño; ella odia la sopa y no soporta la injusticia, la guerra, la violencia y el racismo. Le gustaría trabajar en la ONU cuando sea grande para ayudar al mundo. Es contestataria e inocente a la vez, una combinación que seguro te atraerá. Las reflexiones que plantea y los valores que enseña, son buenas razones para leer sus tiras cómicas en familia. Descarga y comparte sus 11 libros, ahora disponibles para Google Play. Que la disfrutes.",
-    "price": 99,
-    "stock": 14,
-    "publishedDate": "2015",
-    "image": "http://books.google.com/books/content?id=5w9ACQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-  },
-  {
-    "id": "sTz2_fVECrQC",
-    "title": "Peter Capusotto fantástico",
-    "authors": [
-      "Diego Capusotto",
-      "Pedro Saborido"
-    ],
-    "publisher": "MONDADORI",
-    "gender": [
-      "Humor"
-    ],
-    "description": "Segundo volumen de las aventuras del antihéroe rockero, ahora en plan misterios inexplicables.",
-    "price": 220,
-    "stock": 46,
-    "publishedDate": "2013",
-    "image": "http://books.google.com/books/content?id=sTz2_fVECrQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-  },
-  {
-    "id": "4P01DwAAQBAJ",
-    "title": "Maestra de pueblo con L de novata",
-    "authors": [
-      "Maestra de pueblo",
-      "Cristina Picazo"
-    ],
-    "publisher": "GRIJALBO",
-    "gender": [
-      "Humor"
-    ],
-    "description": "Toda leyenda tiene un comienzo... Maestra de pueblo, la profe más popular de internet, nos cuenta sus inicios en esta divertidísima novela gráfica. «Doy clase, vigilo los recreos, corrijo cuadernos, me coordino, atiendo a las familias, programo en casa, me formo en mi tiempo libre pero... ¡tengo muchas vacaciones!» María apenas ha pisado el campo en su vida, pero cuando le ofrecen por primera vez trabajar en un colegio, no le importa que sea en un pueblecito perdido en medio de la sierra, y se lanza al ruedo sin pensarlo: ¡Por fin va a ser maestra! Pero no solo eso, también conocerá la realidad de las aulas y de los pueblos al mismo tiempo. Esta maestra con L de novata se verá obligada a sacar toda la artillería para sobrevivir durante un curso como tutora de una revoltosa clase de segundo. Lo que nadie le enseñó en la facultad es que, en su díaa día como maestra, también tendría que ser una excelente: juez, detective, enfermera, mecánica multitarea, diseñadora, banquera... y todo ello, sin perder la vocación de enseñar. Ahora, sentaos y abrid el libro por la primera página. Reseñas: «Obligatorio para los del gremio. Más real que la realidad. Enhorabuena, profe.» El Hematocrítico «De las filas de Twitter llega esta anónima profesora de infantil que comparte, en clave de humor, los absurdos, los imposibles y los momentos tiernos de su vida laboral.» Mujer Hoy",
-    "price": 320,
-    "stock": 25,
-    "publishedDate": "2017",
-    "image": "http://books.google.com/books/content?id=4P01DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-  },
-  {
-    "id": "mMbjDwAAQBAJ",
-    "title": "Cuando Colón llegó a Japón",
-    "authors": [
-      "Javier Traité"
-    ],
-    "publisher": "Principal de los Libros",
-    "gender": [
-      "Humor"
-    ],
-    "description": "Embárcate en esta desternillante crónica del descubrimiento de América. ¿Quién no conoce a Colón? El gran descubridor de América es un personaje popular en todo el mundo, pero ¿de verdad sabemos cómo era? ¿Nos hacemos realmente a la idea de lo loco que estaba? Esta es la historia torcida del mayor caso de chamba que han conocido los siglos: el de un hombre que convenció a una reina de que le diera tres barcos para ir a Japón y se salvó de palmarla en el mar por el simple hecho de que, si uno navega hacia el poniente desde España y se empecina en no dar media vuelta, que es lo que habríamos hecho todos, es prácticamente imposible NO descubrir América. Únete a Bartolomé y Giacomo Colón, Juan de la Cosa, Martín Alonso Pinzón, Luis de Torres y muchos otros marineros que acompañaron a Cristóbal Colón en su búsqueda de Japón y descubre que la Historia no es como te la han contado, sino mucho más torcida.",
-    "price": 38,
-    "stock": 43,
-    "publishedDate": "2020",
-    "image": "http://books.google.com/books/content?id=mMbjDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-  },
-  {
-    "id": "YDF3EAAAQBAJ",
-    "title": "CASI 5000 CHISTES PARA NO NIÑOS, NIÑOS, NIÑAS, NO NIÑAS, NIÑES, NO NIÑES Y TODO TIPO DE ADULTO Y NO ADULTO, ASÍ EN GENERAL",
-    "authors": [
-      "J.J. Bernier"
-    ],
-    "publisher": "Independent Published Spanish Bookz",
-    "gender": [
-      "Humor"
-    ],
-    "description": "CASI 5000 CHISTES PARA NO NIÑOS, NIÑOS, NIÑAS, NO NIÑAS, NIÑES, NO NIÑES Y TODO TIPO DE ADULTO Y NO ADULTO, ASÍ EN GENERAL \ufeffRedondeando al último dígito son casi 5000 chistes, si no te lo crees puedes contarlos uno a uno. Chistes de todo tipo, centrados en varias temáticas como animales (benditos bichitos, desde gatitos a perritos pasando por leoncitos), profesiones (sin ánimo de ofender a los doctores, que bastante tienen con el coronabicho), lugares (un saludo Lepe!) o por ejemplo cortos, ese tipo de chiste que cuando más malo más bueno....Si te gusta reírte, éste es tu libro, si no te gusta reírte....tomate la pastillita.De buen rollo, para todas las edades (aunque haya una sección de chistes relacionados con el sexo, pero aún en ellos la explicitad del sexo es como la de los ángeles) y sin ánimo de ofender a nadie, paz, amor y chistes! Porque lo principal es reírse de uno mismo y poner una sonrisa en la vida",
-    "price": 225,
-    "stock": 28,
-    "publishedDate": "2022",
-    "image": "http://books.google.com/books/content?id=YDF3EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-  },
-  {
-    "id": "tl8TZq_-6tkC",
-    "title": "El libro rojo de Mongolia",
-    "authors": [
-      "Mongolia"
-    ],
-    "publisher": "RESERVOIR BOOKS",
-    "gender": [
-      "Humor"
-    ],
-    "description": "¿Es un pájaro? ¿Es un avión? ¿Es Superman? No, es El Libro Rojo de Mongolia. Un volumen imprescindible, especialmente si no ha sabido responder a las tres preguntas anteriores. En El Libro Rojo de Mongolia encontrará multitud de temas tratados con el rigor histórico y científico que caracteriza a Mongolia. Conocimientos que le harán mejor persona -salvo que sea usted banquero- y le proporcionarán horas y horas de conversación para convertirse en ese invitado que anima cualquier fiesta de cumpleaños mejor que el payaso de los globos. Por fin sabrá por qué los trogloditas pintaban en las paredes, por qué los egipcios andaban tan raro o por qué a los franceses les sentó tan mal la toma de la Pastilla. Conozca gracias a nuestros test su grado de españolidad, si es hombre o mujer o si esa persona que comparte casa con usted es realmente su hijo y viceversa. Póngase al día sobre las religiones más populares, entérese de cuáles son las creencias más raras y hable el lenguaje de hoy gracias a nuestro diccionario. Hágase un favor: cambie su vida con Mongolia. Y no nos dé las gracias: lo hacemos encantados.",
-    "price": 255,
-    "stock": 17,
-    "publishedDate": "2013",
-    "image": "http://books.google.com/books/content?id=tl8TZq_-6tkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-  },
-  
-  {
-    "id": "NuX3DwAAQBAJ",
-    "title": "Chistes de Videojuegos, Historias, Memes & Más",
-    "authors": [
-      "Leet Emperor"
-    ],
-    "publisher": "Babelcube Inc.",
-    "gender": [
-      "Humor"
-    ],
-    "description": "Esta guía te ayudará a apender a contar chistes sobre videojuegos. Por eso, esta guía se enfoca en formas y métodos naturales para ofrecer los mejores resultados y sin efectos secundarios. Este libro te enseñará lo siguiente: - chistes de videojuegos - memes de videojuegos - contar buenos chistes Si quieres aprender a contar chistes sobre videojuegos, este libro es para ti.",
-    "price": 364,
-    "stock": 35,
-    "publishedDate": "2020",
-    "image": "http://books.google.com/books/content?id=NuX3DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-  },
-  {
-    "id": "CsiLDwAAQBAJ",
-    "title": "Las abuelas bien",
-    "authors": [
-      "Guadalupe Loaeza"
-    ],
-    "publisher": "Océano",
-    "gender": [
-      "Humor"
-    ],
-    "description": "Primero, como todas, fueron niñas. Luego siguieron llevando con orgullo el nombre, que ya las distinguía: niñas bien, niñas educadas, niñas de familia. Pronto vivieron los años con arrojo y con amor, y se volvieron niñas con familia. Y hoy... esas niñas son abuelas. En este libro de carácter nostálgico y muy íntimo, Guadalupe Loaeza nos comparte cartas, fotografías y anécdotas de su historia familiar para explorar el privilegio de ser nietos y abuelos. Un homenaje a varias generaciones que han hecho de este vínculo una de las mayores fuentes de afecto, aprendizaje y amor por la vida.",
-    "price": 133,
-    "stock": 17,
-    "publishedDate": "2018",
-    "image": "http://books.google.com/books/content?id=CsiLDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-  },
-  {
-    "id": "nGp_DQAAQBAJ",
-    "title": "Hermostra",
-    "authors": [
-      "Malena Pichot",
-      "Charo López"
-    ],
-    "publisher": "RESERVOIR BOOKS",
-    "gender": [
-      "Humor"
-    ],
-    "description": "Una guía sobre cómo ser bella aunque ello signifique perder la vida. Un catálogo de consejos extremos para llevar una vida de éxito en un mundo machista regido por la injusticia social.",
-    "price": 483,
-    "stock": 12,
-    "publishedDate": "2016",
-    "image": "http://books.google.com/books/content?id=nGp_DQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-  },
-  {
-    "id": "tM7DDwAAQBAJ",
-    "title": "Mafalda. Todas las tiras (edición limitada)",
-    "authors": [
-      "Quino"
-    ],
-    "publisher": "LUMEN",
-    "gender": [
-      "Humor"
-    ],
-    "description": "Las tiras de Mafalda en un solo volumen. «Mafalda es una heroína de nuestro tiempo.» Umberto Eco Polémica, concienciada y encantadora. Así es el personaje más entrañable del catálogo de Lumen. Ahora, por primera vez, presentamos en un solo volumen todas las tiras de la niña argentina más famosa de todos los tiempos. De la primera a la última tira, podrás disfrutar de Mafalda, sus amigos y su familia. La crítica ha dicho... «Quino, el grande Quino, seguirá vivo en su Mafalda, que nos enseñó que, como siempre, lo urgente no deja tiempo para lo importante.» Héctor Abad Faciolince «Nunca he amado a una mujer que no haya amado previamente a Mafalda.» Manuel Jabois «Qué importante has sido en nuestras vidas. [...] Siempre estaban tus viñetas dando sentido a los detalles absurdos de la vida y la sociedad. Cada lección era un guiño de risa silenciosa que se volvía carcajada y suspiro, filosofía pura, crítica social, lenguaje de gestos expresivos y pequeños detalles, el humor más refinado concentrado en los dibujos. Qué gran compañero has sido.» Ana Merino «Las nuevas generaciones siguen leyendo a Mafalda con regocijo. No es un simple vestigio del pasado o un recuerdo nostálgico, sino un personaje muy vivo que sigue incendiando conciencias y promoviendo el inconformismo.» Rafael Narbona, El Cultural «Como Charlie Brown o Nancy, Mafalda es un instrumento para proyectar, a través de la infancia, las miserias de los adultos y las contradicciones de este valle de lágrimas. ¡Aleluya!» Vicent Sanchis, Catorze «Con ustedes, la filósofa con lacito con la que han crecido varias generaciones, [...] la Greta Thunberg de la historieta. [...] Por su espíritu contestatario, humor cuchillero y costumbrismo con guiños progres, Mafalda jamás pasará de moda. [...] Quino seganó la inmortalidad y los amantes de las viñetas una heroína para todos los públicos. Una que, a la que te descuidas, te suelta en plan filósofa: \"¿Qué te gustaría ser si vivieras?\"» El Mundo «Mafalda, esa niña que, a estas alturas, ya debería ser Patrimonio de la Humanidad. Básica para la vuelta a la rutina.» El País «No tiene importancia lo que yo pienso sobre Mafalda. Lo importante es lo que Mafalda piensa de mí.» Julio Cortázar «Mafalda es una heroína de nuestro tiempo.» Umberto Eco «Creo que, junto con El Eternauta, Mafalda es la historieta más influyente. Es un icono argentino como el alfajor, Fangio, Gardel o el Obelisco. Mafalda está en el subconsciente argentino.» Liniers «Afortunadamente, no me puedo imaginar a Mafalda sino como la graciosa niña que fue, es y será siempre. Los personajes de historieta tienen ese privilegio (enarbolado por Peter Pan) de no envejecer.» Roberto Fontanarrosa «Mafalda es, digámoslo de una vez, más humana que muchos seres humanos.» Román Gubern",
-    "price": 275,
-    "stock": 8,
-    "publishedDate": "2020",
-    "image": "http://books.google.com/books/content?id=tM7DDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
-  },
-  {
-    "id": "Lq7LDQAAQBAJ",
-    "title": "Educating Mr. Macri",
-    "authors": [
-      "Alejandro Borensztein"
-    ],
-    "publisher": "Emecé Argentina",
-    "gender": [
-      "Humor"
-    ],
-    "description": "\"A mí me pasa lo mismo que a usted, querido lector. Por eso entiendo sus angustias mejor que nadie.\" Después de cinco libros publicados sobre las peripecias del gobierno kirchnerista, Alejandro Borensztein ha escrito el primero dedicado a las del gobierno macrista. Cuando todo hacía pensar que, tras un tenso año de elecciones, llegaría un tiempo de calma política, la Argentina volvió a mostrar que es una caja inagotable de sorpresas. De las estancias de Báez a los bolsos de López, pasando por la sangría de dirigentes kirchneristas, los tarifazos, las denuncias omnipresentes de Lilita Carrió, el desfile de Cristina por Comodoro Py, la visita de Barack Obama, las peregrinaciones al Vaticano y el inhallable \"segundo semestre\", 2016 fue un festival de escándalos de corrupción y sucesos políticos y económicos para el infarto. Alejandro Borensztein demuestra en estas páginas su maestría para retratar la realidad nacional con sagacidad, ironía y gracia incomparables. Educating Mr. Macri vuelve a confirmarlo como el mejor humorista político de la Argentina actual.",
-    "price": 38,
-    "stock": 43,
-    "publishedDate": "2017",
-    "image": "http://books.google.com/books/content?id=Lq7LDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-  },
-  
-  
-  {
-    "id": "jJwhEAAAQBAJ",
-    "title": "Cómo acabar sigilosamente con la humanidad",
-    "authors": [
-      "El Coronavirus de Twitter"
-    ],
-    "publisher": "Arpa",
-    "gender": [
-      "Humor"
-    ],
-    "description": "@CoronaVid19, el virus que ha contagiado Twitter de sátira y humor negro, revela el plan secreto de las pandemias más letales de la historia para acabar con la humanidad. ¿Cómo surgieron las pandemias que ha sufrido la humanidad? ¿Qué hizo la sociedad? ¿Y la ciencia? ¿Había negacionistas? ¿Qué errores se cometieron entonces? ¿Es la estupidez humana una pandemia? ¿A qué huelen las nubes? Hay tantas maneras de contarlo como formas de afrontar los problemas del día a día. Y si no que se lo pregunten a @CoronaVid19, el virus que ha sembrado el pánico —o más bien la risa— en las redes sociales. En este libro relata, sin espículas en la lengua y con una buena dosis de humor negro, cómo la ciencia y la humanidad han intentado terminar con algunas de las pandemias más letales del planeta: la gripe española, la malaria, el sarampión, la peste negra, el sida, el ébola, la viruela o, cómo no, el propio coronavirus. ¡Seguro que nunca te has parado a pensar su versión de la historia! \"Como creador de plagas debo decir que este libro ha colmado mis expectativas. @CoronaVid19 demuestra el porqué de su milagro viral en Twitter. Humor contagioso para aprenderlo todo de las pandemias\". Diostuitero \"Hay también un \"virus\" que se cura leyendo. Intentando aprender y con mucho sentido del humor. El autor de este libro lo ha conseguido y es muy recomendable seguirle. Ácido e incisivo. Se ha coronado. ¡Muerte a este rey de los nuevos virus!\". Jesús Cintora \"Volcanes, pandemias o lluvias torrenciales de monos venenosos. Si alguien sabe convertir eso en risas, estamos salvados. Solo el humor hace la vida soportable\". Luis Piedrahita \"Va a ser difícil vencer a un patógeno que escribe tan bien\". Pedro Vallín \"Es indiscutible que @CoronaVid19 es el fenómeno viral del siglo. Espero que por lo menos el murciélago estuviese rico\". Norcoreano",
-    "price": 36,
-    "stock": 6,
-    "publishedDate": "2021",
-    "image": "http://books.google.com/books/content?id=jJwhEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-  },
-  {
-    "id": "sFnpAwAAQBAJ",
-    "title": "El diablo se llama Trotsky",
-    "authors": [
-      "Rius"
-    ],
-    "publisher": "GRIJALBO",
-    "gender": [
-      "Humor"
-    ],
-    "description": "Creador de Los Agachados, Mis Supermachos y más de un centenar de libros publicados, Rius, el gran monero mexicano, ocupó un lugar clave en la historia de la cultura popular. Un libro de historia del siglo XX al estilo Rius. Lo único que los mexicanos sabemos sobre Trotsky es que era un comunista ruso, amigo de Diego y Frida, asesinado hace muchos años en su casa de Coyoacán. Para llenar nuestras lagunas de información sobre este importantísimo personaje, ligado a México en muchos sentidos, Rius decidió escribir este libro, anteponiéndole en el título el calificativo de \"diablo\", lo que implica que el personaje fue polémico. Tan fue así que Stalin, el dictador soviético, decidió desterrarlo, perseguirlo después y asesinarlo. Consiguió hacerlo en nuestro país. Rius nos cuenta la vida de Trotsky, al igual que su lucha política y militar al lado de Lenin, con quien planeó y ejecutó la Revolución rusa. También ahonda en su posición radical, cercana al anarquismo, y nos explica por qué se opuso a Stalin y cómo intentó combatir su dictadura, lo que le costó la vida.",
-    "price": 94,
-    "stock": 42,
-    "publishedDate": "2014",
-    "image": "http://books.google.com/books/content?id=sFnpAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
-  },
-  {
-    "id": "DNetudFh7VcC",
-    "title": "101 modos de olvidar a tu ex",
-    "authors": [
-      "Federica Bosco"
-    ],
-    "publisher": "Grupo Planeta Spain",
-    "gender": [
-      "Humor"
-    ],
-    "description": "Federica Bosco ha recopilado en este libro con gran humor sus experiencias amorosas, las de sus amigos y las de muchos de sus lectores, y las ha convertido en un manual para ti con 101 palabras mágicas que ayudarán a hacer frente a la ruptura. Prepárate para recibir sabios y divertidos consejos de otras personas que han pasado lo mismo que tú estás pasando, para recuperar la fuerza perdida y fabricar tu propio manual de «desintoxicación».",
-    "price": 269,
+    "description": "La mejor selección del humor de Maitena.",
+    "price": 143,
     "stock": 2,
-    "publishedDate": "2011",
-    "image": "http://books.google.com/books/content?id=DNetudFh7VcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "publishedDate": "2013-12-01",
+    "image": "http://books.google.com/books/content?id=GdvUAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
   },
-    {
-    "id": "1TQPEAAAQBAJ",
-    "title": "S.O.S. Mamis. El libro",
+  
+  {
+    "id": "lOdSAwAAQBAJ",
+    "title": "Maitena de coleccion 10",
     "authors": [
-      "Tamara Acosta",
-      "Loreto Aravena",
-      "Paz Bascuñán",
-      "Jenny Cavallo",
-      "Mane Swett",
-      "Antonia Boza"
+      "Maitena"
     ],
-    "publisher": "Zig-Zag",
+    "publisher": "SUDAMERICANA",
     "gender": [
       "Humor"
     ],
-    "description": "Cinco mujeres, cada una con una personalidad muy diferente, unidas en uno de sus roles más importantes en la vida: ser madres. Con humor, ironía y situaciones en donde más de una se podrá sentir representada, las mamis nos hablan de reuniones de apoderados, de bullying escolar, de tipos de educación, pero también de sexualidad, de infidelidad y, más que nada, de aquella sinceridad inocente pero punzante de los hijos. Las graciosas ilustraciones de Antonia Boza acompañan las páginas con picardía, humor y mucho talento. Una lectura sinpatiquísima que ninguna que sea madre se querrá perder, y totalmente recomendada para aquellas que estén considerando embarcarse en este camino.",
-    "price": 64,
-    "stock": 22,
-    "publishedDate": "2020",
-    "image": "http://books.google.com/books/content?id=1TQPEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "description": "Hijos, hijas, maridos, amantes, suegras, madres y otros personajes que hacen de la vida de las mujeres todo, menos un jardín de rosas son caracterizados por Maitena en todo su esplendor y, claro, toda su comicidad en este décimo volumen.",
+    "price": 242,
+    "stock": 45,
+    "publishedDate": "2013-11-01",
+    "image": "http://books.google.com/books/content?id=lOdSAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
   },
   {
-    "id": "OuYaDgAAQBAJ",
-    "title": "Adivinanzas",
+    "id": "YUJSAwAAQBAJ",
+    "title": "Maitena de coleccion 9",
     "authors": [
-      "Somos Mamás"
+      "Maitena"
     ],
-    "publisher": "Somos Mamás",
+    "publisher": "SUDAMERICANA",
     "gender": [
       "Humor"
     ],
-    "description": "Las mejores adivinanzas infantiles para jugar y divertirse. ¿Eres tan inteligente como crees? A los niños les encantan las adivinanzas porque son divertidas, los hacen pensar, pero sobre todo ¡sorprenderse! En este libro encontrarás una selección de adivinanzas muy divertida de objetos, animales, comidas, plantas, juegos, herramientas y muchas cosas más. La colección más completa de adivinanzas A los niños les encantan las adivinanzas porque son divertidas, los hacen pensar, pero sobre todo ¡sorprenderse!",
-    "price": 373,
-    "stock": 13,
-    "publishedDate": "2017",
-    "image": "http://books.google.com/books/content?id=OuYaDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "description": "La comunicación, los sentimientos, las separaciones y las relaciones de madres e hijas, esos detalles que colorean la vida de las mujeres son vistos desde la mirada incisiva de la despiadada pero siempre graciosa Maitena en este noveno volumen.",
+    "price": 89,
+    "stock": 33,
+    "publishedDate": "2013-11-01",
+    "image": "http://books.google.com/books/content?id=YUJSAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": "qEFSAwAAQBAJ",
+    "title": "Maitena de coleccion 5",
+    "authors": [
+      "Maitena"
+    ],
+    "publisher": "SUDAMERICANA",
+    "gender": [
+      "Humor"
+    ],
+    "description": "Amores no correspondidos, los estragos físicos del embarazo, el sufrimiento por verse bien y las pavadas que repite la gente como verdades irrefutables son algunas de los temas que abordan las historias de la sarcástica Maitena en este quinto volumen.",
+    "price": 280,
+    "stock": 26,
+    "publishedDate": "2013-11-01",
+    "image": "http://books.google.com/books/content?id=qEFSAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": "XrI3AgAAQBAJ",
+    "title": "Maitena de coleccion 11",
+    "authors": [
+      "Maitena"
+    ],
+    "publisher": "SUDAMERICANA",
+    "gender": [
+      "Humor"
+    ],
+    "description": "En este undécimo volumen, Maitena la emprende con las dudas que acosan a las mujeres, lo que estas quieren, los típicos tópicos con los que se desvalorizan, las clásicas cosas de una madre y ofrece hasta algunos cuestionarios para saber si conviene salir con un tipo, para averiguar qué clase de hijo se tiene y para ver si se es una bruja.",
+    "price": 337,
+    "stock": 34,
+    "publishedDate": "2013-11-01",
+    "image": "http://books.google.com/books/content?id=XrI3AgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": "0LM3AgAAQBAJ",
+    "title": "Maitena de coleccion 1",
+    "authors": [
+      "Maitena"
+    ],
+    "publisher": "SUDAMERICANA",
+    "gender": [
+      "Humor"
+    ],
+    "description": "Maitena nos regala una mirada desnuda de las alteraciones propias del sexo femenino, sus alteraciones físicas y otros derivados de la moda, la pareja como costumbre inalterable, la familia como una alteración constante y algunos otros motivos para alterarse un poco.",
+    "price": 342,
+    "stock": 11,
+    "publishedDate": "2014-05-01",
+    "image": "http://books.google.com/books/content?id=0LM3AgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": "PEJSAwAAQBAJ",
+    "title": "Maitena de coleccion 8",
+    "authors": [
+      "Maitena"
+    ],
+    "publisher": "SUDAMERICANA",
+    "gender": [
+      "Humor"
+    ],
+    "description": "En este octavo volumen, Maitena enfila sus armas hacia los absurdos de las relaciones de pareja, la mirada femenina sobre la hombría, la crianza del marido y el dilema del éxito profesional de las mujeres. Si las chicas no pueden ser felices, por lo menos que rían.",
+    "price": 66,
+    "stock": 46,
+    "publishedDate": "2013-11-01",
+    "image": "http://books.google.com/books/content?id=PEJSAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": "q7M3AgAAQBAJ",
+    "title": "Maitena de coleccion 6",
+    "authors": [
+      "Maitena"
+    ],
+    "publisher": "SUDAMERICANA",
+    "gender": [
+      "Humor"
+    ],
+    "description": "La vida de las mujeres no es perfecta, al contrario. Pero Maitena, con su fina ironía y crítica mordaz, muestra con las historias de este sexto volumen que en medio de la tortuosa relación con la madre, los mandatos de la moda, las relaciones de poder y las exigencias de ser bellas, la mujeres también pueden reír.",
+    "price": 101,
+    "stock": 12,
+    "publishedDate": "2013-11-01",
+    "image": "http://books.google.com/books/content?id=q7M3AgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": "lUdSAwAAQBAJ",
+    "title": "Maitena de coleccion 7",
+    "authors": [
+      "Maitena"
+    ],
+    "publisher": "SUDAMERICANA",
+    "gender": [
+      "Humor"
+    ],
+    "description": "La implacable vejez, los insolentes hijos adolescentes, el aburrimiento en pareja y la inteligencia de las mujeres que tanto perturba a los hombres son algunos de los temas que sirven de excusa a Maitena, en este séptimo volumen, para revisar con gran desparpajo la realidad femenina.",
+    "price": 310,
+    "stock": 37,
+    "publishedDate": "2013-11-01",
+    "image": "http://books.google.com/books/content?id=lUdSAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": "RUVSAwAAQBAJ",
+    "title": "Maitena de coleccion 4",
+    "authors": [
+      "Maitena"
+    ],
+    "publisher": "SUDAMERICANA",
+    "gender": [
+      "Humor"
+    ],
+    "description": "En este cuarto volumen Maitena ironiza sobre aquellas cosas que tienen las mujeres en común o no, como su amor/odio por las amigas, el envejecimiento, la crianza de los hijos y hasta la elongación peneana. Mientras más se disfruta de su obra, más ingeniosa resulta.",
+    "price": 56,
+    "stock": 33,
+    "publishedDate": "2013-11-01",
+    "image": "http://books.google.com/books/content?id=RUVSAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": "IEVSAwAAQBAJ",
+    "title": "Maitena de coleccion 3",
+    "authors": [
+      "Maitena"
+    ],
+    "publisher": "SUDAMERICANA",
+    "gender": [
+      "Humor"
+    ],
+    "description": "Cada historia de Maitena capta una porción distinta del complicado mundo femenino y las alteraciones que este produce en las no menos complicadas mujeres. Sus expectativas no cumplidas, lo que se dicen entre ellas y algunas verdades inútiles que no las hacen más felices forman parte de este tercer volumen.",
+    "price": 173,
+    "stock": 16,
+    "publishedDate": "2013-11-01",
+    "image": "http://books.google.com/books/content?id=IEVSAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": "Z4UnAgAAQBAJ",
+    "title": "Maitena de coleccion 2",
+    "authors": [
+      "Maitena"
+    ],
+    "publisher": "SUDAMERICANA",
+    "gender": [
+      "Humor"
+    ],
+    "description": "En este segundo volumen las alteraciones privadas, las interiores, las públicas, las domésticas y varias otras alteraciones que padecen las mujeres son examinadas por la filosa pluma de Maitena, quien, de paso, diseña un test para medir el nivel de alteración de las chicas.",
+    "price": 452,
+    "stock": 24,
+    "publishedDate": "2013-11-01",
+    "image": "http://books.google.com/books/content?id=Z4UnAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": "rkNSAwAAQBAJ",
+    "title": "Maitena de coleccion 12",
+    "authors": [
+      "Maitena"
+    ],
+    "publisher": "SUDAMERICANA",
+    "gender": [
+      "Humor"
+    ],
+    "description": "Las coincidencias peligrosas entre madre e hija, las madres imbancables, las chicas insufribles, las cosas que no se aprenden nunca, el abnegado amor de madre, una receta para vivir cien años y consejos para dejar de fumar son algunos de lo temas que la ingeniosa Maitena desmenuza en este duodécimo y último volumen.",
+    "price": 84,
+    "stock": 17,
+    "publishedDate": "2013-11-01",
+    "image": "http://books.google.com/books/content?id=rkNSAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
   },
   {
     "id": "xZjeAAAAQBAJ",
@@ -985,20 +818,38 @@
   },
 
   {
-    "id": "nOa7CwAAQBAJ",
-    "title": "Teoría de la Biografía",
+    "id": "Kx3nj8oujJAC",
+    "title": "Lo Que Vi / What I’ve Seen SPA",
     "authors": [
-      "María Teresa del Olmo Ibáñez"
+      "Jorge Ramos"
     ],
-    "publisher": "Dykinson",
+    "publisher": "Harper Collins",
     "gender": [
-      "Biografía"
+      "Biografía",
+      "AutoBiografía"
     ],
-    "description": "La Biografía es un género tradicionalmente de primer rango tanto desde el criterio de la Ciencia literaria como desde el criterio de la Educación y por supuesto del pensamiento humanístico en su sentido más característico, ya en sus primeras formaciones de la Antigüedad, especialmente Plutarco. Se trata de la representación del personaje real y los asuntos humanos. Todo ello, que en primer término se diría obvio, resulta finalmente muy problemático, pues ha conducido sin embargo a una situación poco menos que paradójica en el estado del conocimiento y de los estudios. Para empezar, no existe, o no ha existido hasta hoy en que la presente Teoría de la Biografía ha puesto remedio a una situación aún más incomprensible que lamentable, una verdadera monografía sobre el género capaz de dar cuenta del estado de la cuestión, del conjunto de problemas que se suscita y de la posible resolución de los mismos en el régimen constructivo del saber y la disciplina. Esta Teoría de la Biografía que presentamos es, pues, un libro importante por radicalmente necesario.",
-    "price": 70,
-    "stock": 36,
-    "publishedDate": "2015",
-    "image": "http://books.google.com/books/content?id=nOa7CwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    "description": "Este libro cuenta lo que el prestigioso periodista Jorge Ramos no ha podido decir por televisión. Como él mismo dice, muchas veces las cosas más interesantes al cubrir una noticia ocurren detrás de las cámaras y estos relatos de viajes son el mejor ejemplo. Como reportero conductor titular del Noticiero Univision y escritor de varios libros, Ramos ha recorrido el mundo en busca de la noticia y ha entrevistado a algunos de los personajes más poderosos del mundo. Todas esas vivencias están aquí. Además, esta versión actualizada del libro incluye sus experiencias, nunca antes contadas, en la guerra de Irak. Algunos relatos son sólo ojeadas, hasta pestañazos, de sus viajes. En otros, se adentra a lo más profundo y doloroso de un país. Todos están cargados de emoción y han marcado al periodista de una forma muy personal. Ver con los ojos bien abiertos y luego contar lo que viste, dice Ramos, es la función fundamental de un periodista. Solo ese ejercicio básico le permite después decir: “Yo lo vi, nadie me lo contó.”",
+    "price": 159,
+    "stock": 13,
+    "publishedDate": "2006",
+    "image": "http://books.google.com/books/content?id=Kx3nj8oujJAC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+  },
+  {
+    "id": "SjsYCwAAQBAJ",
+    "title": "Sin Miedo",
+    "authors": [
+      "Jorge Ramos"
+    ],
+    "publisher": "Penguin",
+    "gender": [
+      "Biografía",
+      "AutoBiografía"
+    ],
+    "description": "«La gente me pregunta si soy periodista o activista. La verdad es que soy simplemente un periodista que hace preguntas, pero uno que, en efecto, toma una postura». —Jorge Ramos Después de treinta fascinantes años de estar desenmascarando la verdad, Jorge Ramos, el periodista ganador de varios premios Emmy, habla por primera vez de las lecciones de vida que ha aprendido en su carrera. Son cautivadoras historias, muy personales y nunca antes compartidas. Ampliamente reconocido por su forma franca y sin limitaciones de entrevistar a líderes mundiales, titanes de los negocios, políticos de todo tipo y dictadores, Jorge descubre el denominador común que los une: todos son rebeldes. Los rebeldes son diferentes. En un determinado momento decidieron poner a prueba el estatus quo. Algunas veces ser rebelaron para logar un cambio de régimen, en otras para evitar abusos o discriminaciones, pero en casi todos los casos lograron corregir una injusticia. En Sin Miedo-Lecciones De Rebeldes, Ramos recupera sus principales entrevistas con rebeldes y poderosos como el presidente Barack Obama, los dos presidentes Bush, la ministra de la Corte Suprema de Justicia Sonia Sotomayor, Fidel Castro y Hugo Chávez, entre muchos otros. De manera honesta y a veces controversial, Jorge Ramos hace las preguntas que pocos se atreven. Al mismo tiempo, nos presenta una optimista visión de los Latinos, de la manera en que influirán en las próximas elecciones presidenciales y en el futuro de Estados Unidos.",
+    "price": 79,
+    "stock": 43,
+    "publishedDate": "2016",
+    "image": "http://books.google.com/books/content?id=SjsYCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
   },
   {
     "id": "gjvTCwAAQBAJ",

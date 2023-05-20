@@ -1,4 +1,383 @@
 [
-
-   
-  ]
+ 
+  {
+    "id": "PPb5-gWwmcMC",
+    "title": "Resistencia de materiales",
+    "authors": [
+      "Jorge Riechmann"
+    ],
+    "publisher": "Editorial Montesinos",
+    "gender": [
+      "Poesía"
+    ],
+    "description": "CONTENIDO: Lumbre libertad (para Juan Gelman) - Tres vacaciones (para honrar a José Ángel Valente) - El soplo mágico y ajeno (en homenaje a José Hierro) - Poesía y acción (con Eduardo Milán) - Una gota de ámbar perpendicular al mundo (cerca de José Viñals) - Sobre la tarea del escritor y la degradación de la democracia - Sobre la amabilidad y la desesperanza: autointerrogatorio - ¿De qué habla la poesía? - Las tenazas de la enunciación (sobre poesía clara y poesía oscura - En el revés del mundo crece el cosmos - Contra la ley de los grandes números - La política de las luciérnagas (amparado por Pier Paolo Pasolini).",
+    "price": 226,
+    "stock": 1,
+    "publishedDate": "2006",
+    "image": "http://books.google.com/books/content?id=PPb5-gWwmcMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  null,
+  {
+    "id": "AIovDgAAQBAJ",
+    "title": "Futuralgia (Poesía 1979-2000)",
+    "authors": [
+      "Jorge Riechmann"
+    ],
+    "publisher": "Calambur",
+    "gender": [
+      "Poetry"
+    ],
+    "description": "Jorge Riechmann (Madrid, 1962) es poeta, traductor literario, ensayista y profesor universitario de filosofía moral. Además de los poemarios agrupados —por vez primera— en Futuralgia, ha publicado Muro con inscripciones (2000), Desandar lo andado (2001), Poema de uno que pasa (2002), Un zumbido cercano (2003), Ahí te quiero ver (2005), Poesía desabrigada (2006), Conversaciones entre alquimistas (2007) y Rengo Wrongo (2008) y Pablo Neruda y una familia de lobos (2010).",
+    "price": 69,
+    "stock": 46,
+    "publishedDate": "2011-01-01",
+    "image": "http://books.google.com/books/content?id=AIovDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": "pJjGDwAAQBAJ",
+    "title": "Derechos ambientales en perspectiva de integralidad",
+    "authors": [
+      "Gregorio Mesa Cuadros"
+    ],
+    "publisher": "Universidad Nacional de Colombia",
+    "gender": [
+      "Law"
+    ],
+    "description": "Partiendo de una concepción integral de los derechos humanos, sustentada en su interdependencia, universalidad, globalidad y tratamiento igual, y con base en una perspectiva crítica, esta tesis da buenas razones y argumentos desde un nuevo ambientalismo popular, latinoamericano y alterglobalizador para fundamentar derechos ambientales y su concreción en el Estado ambiental de derecho, a nivel estatal y global, hacia la satisfacción de las necesidades humanas básicas de todas las personas. Los conceptos de huella y deuda ambiental, justicia ambiental, solidaridad y responsabilidad e imperativo ambiental, así como los de democracia y ciudadanía ambiental y cosmopolita, son, además, ideas básicas de límites a las acciones humanas de los poderes que, alrededor del globo, imponen y ejecutan prácticas culturales, sociales, económicas, políticas y ambientales, individuales y grupales, de apropiación, depredación, contaminación, exclusión, discriminación, marginación y empobrecimiento. Este debate se hace desde contextos socioculturales, políticos y ambientales concretos, y busca diferenciarse de las formas como el capital y el neoliberalismo intentan teñirse de verde, tratando de acomodarse a los nuevos tiempos en su idea de dar razones para la apropiación de aquello que todavía no entra en su ámbito propietarista, para continuar, con su espíritu de maximización de las ganancias, quitando valor a los bienes y poniéndoles otro valor, cuando no solamente un precio. La tesis se apoya en otras disciplinas y hace un ejercicio de inter y transdisciplinariedad, en el que además de los enfoques de la teoría crítica de los derechos humanos, la sociología del derecho y la filosofía del derecho, acoge otras disciplinas que la alimentan, como la ecología política, la economía ecológica, la filosofía política y la ética, y destaca además la paradoja entre unos derechos consagrados pero muy poco protegidos efectivamente.",
+    "price": 92,
+    "stock": 24,
+    "publishedDate": "2016-04-01",
+    "image": "http://books.google.com/books/content?id=pJjGDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": "Ahr0DwAAQBAJ",
+    "title": "Mudanza del isonauta",
+    "authors": [
+      "Jorge Riechmann"
+    ],
+    "publisher": "Tusquets Editores S.A.",
+    "gender": [
+      "Poetry"
+    ],
+    "description": "A modo de libro manifiesto, de collage de verdades como puños y de aforismos tan brillantes como desoladores, este nuevo libro de Jorge Riechmann es un verdadero mazazo a nuestra conciencia. Como se dice en algunos de los preámbulos, si nos tomáramos el asunto del cambio climático con la debida seriedad no podríamos pensar ya en otra cosa porque \"todo lo demás resultaba irrelevante\". Y la magia verbal que remueve conciencias, y mete el escalpelo \"entre los pliegues de la fe en el dinero, la guerra y la técnica\", por tal vez el poeta comprometido más brillante de la poesía contemporánea.",
+    "price": 43,
+    "stock": 24,
+    "publishedDate": "2020-10-06",
+    "image": "http://books.google.com/books/content?id=Ahr0DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  null,
+  {
+    "id": "SgfZDwAAQBAJ",
+    "title": "Ecopoéticas",
+    "authors": [
+      "Gala, Candelas"
+    ],
+    "publisher": "Ediciones Universidad de Salamanca",
+    "gender": [
+      "Poetry"
+    ],
+    "description": "«Ecopoéticas» se enfoca en la forma imaginativa y creativo simbólica que adopta el lenguaje para el tratamiento de temas ecológicos en los textos poéticos de ocho autores de la España actual. este acercamiento descarta una mera aproximación descriptiva a la tierra en favor de experimentarla para poder decirla en la «poiesis» o hacer poético. Frente a la tradición ilustrada en la línea baconiana y cartesiana donde la tierra siempre queda supeditada a la cultura y la imaginación a la razón, estos poetas comparten el objetivo de dar voz a la naturaleza, a la materia y a la fisicidad. sus obras hacen del espacio poemático un ámbito donde poder enlazarse con el entorno, pues entienden que el poema implica un “hacer” en el sentido de crear en el texto el hogar/oikos de la naturaleza.",
+    "price": 246,
+    "stock": 8,
+    "publishedDate": "2020-03-26",
+    "image": "http://books.google.com/books/content?id=SgfZDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  null,
+  {
+    "id": "24L4DwAAQBAJ",
+    "title": "Jaime Siles y Ángel Díaz",
+    "authors": [
+      "Ángel Díaz Arenas"
+    ],
+    "publisher": "Editorial Verbum",
+    "gender": [
+      "Literary Collections"
+    ],
+    "description": "En el Instituto Español de Cultura, en Viena, el sábado 2 de marzo de 1985, anota Ángel Diaz Arenas, con la precisión a que tiene acostumbrados a sus lectores, el momento en que conoció a Jaime Siles, los protagonistas de este libro. Desde entonces, 35 años en que el Elba no ha dejado de fluir bajo el Puente de Dresde, el autor ha explorado y ahondado en la labor creadora de Siles. Numerosos libros, numerosísimos ensayos, artículos y presentaciones avalan la certeza de sus valiosos juicios, y son testimonios de una inteligencia y empatía compartidas. Este libro se articula en una minuciosa –detallada, puntual, original y libérrima– exégesis de la obra poética de Siles, acompañada por la concomitante lectura de textos de dos poetas de muy diversos estilos y épocas, Hart Crane y Federico García Lorca, en un sorprendente desbordamiento interpretativo. Un libro, en fin, que se presenta como una herramienta de trabajo ilustrativa, metodológica, que abre nuevas perspectivas e incluso se interroga y pregunta al mismo Siles. Un texo donde el lector podrá sentirse a gusto, que sabrá apreciar y del cual obtener gozoso provecho.",
+    "price": 423,
+    "stock": 31,
+    "publishedDate": "2020-08-20",
+    "image": "http://books.google.com/books/content?id=24L4DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": "A890EAAAQBAJ",
+    "title": "El socialismo puede llegar sólo en bicicleta",
+    "authors": [
+      "Jorge Riechmann"
+    ],
+    "publisher": "LOS LIBROS DE LA CATARATA",
+    "gender": [
+      "Political Science"
+    ],
+    "description": "Entre 1950 y 1990 (aproximadamente), el capitalismo quiso hacer ver que era compatible con la democracia. Entre 1990 y 2005 (aproximadamente), el capitalismo quiso hacer ver que era compatible con la sustentabilidad. Pero, a la hora de la verdad, ninguna de esas dos compatibilidades existe. Y desde la “salida” de la crisis económica que comenzó en 2008 han caído todas las máscaras... Por eso, se diría que la cuestión del ecosocialismo vuelve a estar hoy sobre la mesa de debate, y con más urgencia que nunca. Esta corriente de pensamiento y praxis habla de democratizar, desmercantilizar, regular el metabolismo entre sociedad y naturaleza, orientar la política hacia el bien común y los bienes comunes. Para salir con bien de este “Siglo de la Gran Prueba” que estamos atravesando, necesitamos un marxismo sin productivismo, y un ecologismo sin ilusiones acerca de supuestos “capitalismos verdes”. Jorge Riechmann, ya implicado en la traducción del Manifiesto ecosocialista, plasma en este volumen (que ahora se presenta en una tercera edición revisada y ampliada) su reflexión sobre ecosocialismo.",
+    "price": 442,
+    "stock": 39,
+    "publishedDate": "2022-06-13",
+    "image": "http://books.google.com/books/content?id=A890EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  null,
+  null,
+  {
+    "id": "-znzDwAAQBAJ",
+    "title": "Visualizando el Cambio: Humanidades Ambientales / Envisioning Change: Environmental Humanities",
+    "authors": [
+      "Alejandro Rivero-Vadillo",
+      "Carmen Flys-Junquera"
+    ],
+    "publisher": "Vernon Press",
+    "gender": [
+      "Nature"
+    ],
+    "description": "The 21st century has been described by many environmental scholars as the one in which humanity will need to face its greatest challenge. The diverse ramifications of the climatic crisis are perhaps the most evident proof of this. This dual-lingual multiauthor volume reflects different perspectives of envisioning an eco-social change towards a more sustainable and just society. Musings on the philosophical implications of utopias, ecofeminism, biopolitics, and biomimicry come together with photography and participatory documentaries. \"Envisioning Change: Environmental Humanities\" opens with an essay from one of Spain’s foremost essayists on environmental philosophy, Jorge Riechmann. Literary analyses run from classic myths to oral traditions, including references to frequently neglected traditions such as Bhutan or Croatia, in addition to Spain and the United Kingdom. Rather than emulate theoretical and overarching studies, as several of the recent books on environmental humanities, this volume has many original features, including the abundant references to myths and chapters on eco-translation. This volume reflects a wide variety of approaches and particularly highlights the search of younger scholars for new approaches to envision a better world. It would hold appeal for scholars, researchers and teachers interested in the environmental humanities from either a philosophical, literary or artistic perspective. Moreover, environmentalists, activists, artists, and local politicians may also be interested in how the humanities can contribute to the wider environmental cause. El siglo XXI ha sido descrito por muchos académicos medioambientales como el siglo en el que la humanidad tendrá que enfrentarse a su mayor reto, y la prueba más evidente quizás sean las ramificaciones de la crisis climática. Esta colección bilingüe refleja perspectivas diferentes de visualizar un cambio eco-social hacia una sociedad más justa y sostenible. Reflexiones sobre las inferencias filosóficas de las utopías, el ecofeminismo, la biopolítica y la biomímesis se juntan con fotografía y documentales participativos. “Visualizando el cambio: Humanidades ambientales” comienza con un texto escrito por uno los ensayistas sobre filosofía ambiental más importantes de España, Jorge Reichmann. Los análisis literarios van desde mitos clásicos a tradiciones orales, incluyendo referencias a tradiciones frecuentemente olvidadas como las de Bután o Croacia. En lugar de imitar estudios teóricos y globales como han hecho libros recientes que versan sobre humanidades ambientales, esta colección tiene varias características originales, que comprenden abundantes referencias a mitos y capítulos sobre eco-traducción. Esta colección refleja una amplia variedad de enfoques; destaca la búsqueda de nuevas perspectivas para visualizar un mundo mejor por jóvenes académicos, y será de interés para académicos, investigadores y profesores interesados en las humanidades ambientales desde puntos de vista filosóficos, literarios o artísticos. Además, ecologistas, activistas, artistas y políticos locales pueden encontrar información sobre cómo las humanidades pueden contribuir a la causa medioambiental.",
+    "price": 160,
+    "stock": 18,
+    "publishedDate": "2020-10-06",
+    "image": "http://books.google.com/books/content?id=-znzDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": "uOZFDwAAQBAJ",
+    "title": "Sobre poesía posfranquista",
+    "authors": [
+      "Juan Miguel López Merino"
+    ],
+    "publisher": "Editorial Verbum",
+    "gender": [
+      "Poesía española"
+    ],
+    "description": "Un ensayo sobre el proceder de la historiografía poética española de los últimos años.",
+    "price": 51,
+    "stock": 26,
+    "publishedDate": "2008-01-01",
+    "image": "http://books.google.com/books/content?id=uOZFDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": "A833BPr1hkkC",
+    "title": "Con los ojos abiertos",
+    "authors": [
+      "Jorge Riechmann"
+    ],
+    "publisher": "Ediciones BAILE DEL SOL",
+    "gender": [
+      "Poetry"
+    ],
+    "description": "Wallace Stevens, hacia 1950, consideraba que los grandes poemas del cielo y del infierno ya se habían escrito, mientras que el de la Tierra permanecía inédito. Quizá nuestra aparente incapacidad para morar sobre este planeta sin dañarlo irreversiblemente tenga algo que ver con esta situación —en principio tan paradójica— en el ámbito de la poesía. Vivir en esta tierra/ Tierra, sin trascendencias falsas –ni escapatoria al cosmos, ni adoración de ídolos--, es un proyecto que comparten el ecologismo y la poesía moderna. La insistencia en el darnos límites y en la aceptación de los límites naturales puede verse, desde otro ángulo, como una determinación de luchar contra la falsa trascendencia. Con palabras inolvidables lo expresó el poeta René Char: “Nos cerca una intolerancia demente. Su caballo de Troya es la palabra felicidad; esto me parece mortal. Estoy hablando, hombre sin pecado original sobre una tierra presente. No tengo mil años ante mí. No me expreso para los hombres del lejano futuro que serán —¿cómo dudarlo?— tan desdichados como nosotros. Se acostumbra a extender, a guisa de tentación, la clara sombra de un gran ideal delante de lo que llamamos -por comodidad- nuestro camino. ¡Pero ese trazo sinuoso ni siquiera puede elegir entre la inundación, los hierbajos y el fuego! La prometida edad de oro no merecería tal nombre sino en el presente. La perspectiva de un risueño paraíso destruye al ser humano. La totalidad de la aventura humana desmiente el paraíso, pero estimulándonos y no quebrantándonos.” Frente a la teología del mercado y la libido de los grandes almacenes, la fundación de una civilización alternativa.",
+    "price": 484,
+    "stock": 23,
+    "publishedDate": "2007",
+    "image": "http://books.google.com/books/content?id=A833BPr1hkkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": "TJpaDwAAQBAJ",
+    "title": "LAS VIRTUDES DE LO AUSENTE: FELICIDAD EN LA POESÍA ESPAÑOLA CONTEMPORÁNEA",
+    "authors": [
+      "SIMÓN PARTAL Alejandro                                  "
+    ],
+    "publisher": "Editorial UNED",
+    "gender": [
+      "Literary Criticism"
+    ],
+    "description": "A pesar del famoso ruego adorniano de que los hombres orienten su pensamiento y su acción de modo que Auschwitz no se repita, lo cierto es que el hombre ha continuado con la devastación como si nada hubiese ocurrido, mientras que Dios ha ido sumiéndose en una crisis contemporánea, siendo cuestionado su perfil oficial desde las distintas expresiones artísticas y desde todas las angustias de lo finito. La fe es un esfuerzo, como lo es aceptar nuestras contradicciones o limitaciones, y como lo es la esperanza, que es el tiempo lento, el tiempo humano que nuestra sociedad de la superabundancia nos niega, negándonos así la gracia de todo lo cercano. Este breve estudio pretende subrayar ese diálogo entre una serie de poetas destacados y el más allá, como una especie de antología poética del bien, de lo noble y lo sagrado. El fin último de este libro no es la felicidad, ni la fe, ni Dios, ni tampoco la poesía. Es el amor. Solo nos interesa el amor porque ahí estará todo eso y algo más que siempre se nos escapa y a lo que el amor pone forma, tregua o nombre. Vivir es amar lo que se vive, que casi siempre está ausente.",
+    "price": 467,
+    "stock": 22,
+    "publishedDate": "2018-05-14",
+    "image": "http://books.google.com/books/content?id=TJpaDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": "zS-FrGA8zegC",
+    "title": "Cuestiones de poética en la actual poesía en castellano",
+    "authors": [
+      "Miguel Casado"
+    ],
+    "publisher": "Iberoamericana Editorial",
+    "gender": [
+      "Comics ",
+      " Graphic Novels"
+    ],
+    "description": "Nota previa -- Sentido y significado : Algo tiene que decir, sin duda / Esperanza López Parada -- Lo transitorio, lo fugitivo, lo permanente / Antonio Marí -- Tomar partido por las cosas / Miguel Casado -- El ritmo en el verso libre / Pedro Provencio -- Ensayo sobre la desaparición : símbolo y experiencia en Antonio Gamoneda / José Manuel Cuesta Abad -- Para llegar a Rodolfo Hinostroza / William Rowe -- Inscripción poética del cuerpo / Amelia Gamoneda Lanza -- Hacia una poética del espacio : espacios poéticos en Tinta preta, de Eloísa Otero / Gonzalo Abril -- La forma esquiva : poesía e indefinición estética en las artes actuales / Nora Catelli.",
+    "price": 381,
+    "stock": 32,
+    "publishedDate": "2009",
+    "image": "http://books.google.com/books/content?id=zS-FrGA8zegC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  null,
+  {
+    "id": "euWZDwAAQBAJ",
+    "title": "Escritos revolucionarios",
+    "authors": [
+      "Ernesto Che Guevara"
+    ],
+    "publisher": "LOS LIBROS DE LA CATARATA",
+    "gender": [
+      "Literary Collections"
+    ],
+    "description": "Este volumen es una antología mínima del Guevara esencial. Ha sido pensado para aquellas personas, sobre todo jóvenes, que conocen la leyenda del guerrillero, pero no su obra escrita. Probablemente no ha habido en el siglo XX un pensamiento tan radicalmente igualitario, libertario, antiburocrático y antijerárquico. Pero Guevara no fue un pensador ni un político al uso. Fue siempre un hombre de acción y un aventurero romántico. Por eso leer a Guevara solo puede hacerse hoy de un modo: partiendo de sus actos e intercalando en estos su discurso teórico. De ahí que esta antología siga un hilo cronológico y privilegie tres aspectos relevantes de su obra: el humanismo socialista, la crítica de las alienaciones y el internacionalismo. La selección de Escritos revolucionarios se ha hecho a partir de la edición del mismo título cuidada por Roberto Fernández Retamar en 1967 y añadiendo algunos textos entonces desconocidos. Francisco Fernández Buey ha escrito la introducción",
+    "price": 68,
+    "stock": 28,
+    "publishedDate": "2019-05-23",
+    "image": "http://books.google.com/books/content?id=euWZDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": "u8ijAgAAQBAJ",
+    "title": "Antonio Gamoneda",
+    "authors": [
+      "Antonio Gamoneda",
+      "Ángel Luis Luján Atienza",
+      "Juan José Gómez Brihuega",
+      "Antonio Méndez Rubio",
+      "Juan José Lanz",
+      "Fernando R. de la Flor",
+      "Antonio Rey Hazas",
+      "Jesús Barrajón Muñoz",
+      "Eduardo Moga",
+      "Miguel Casado",
+      "Ricardo Virtanen",
+      "Julio César Galán",
+      "Manuela Ledesma",
+      "Martín Muelas Herraiz"
+    ],
+    "publisher": "Universidad de Castilla La Mancha",
+    "gender": [
+      "Poetry"
+    ],
+    "description": "Este nuevo conjunto de estudios publicado en la serie ôLeer y entender la poesíaö se centra en la figura y la obra de Antonio Gamoneda, nombre imprescindible de la literatura española contemporánea. Son el fruto de la participación en el Curso de Verano 2008 de la Universidad de Castilla-La Mancha de los principales especialistas en la obra de Antonio Gamoneda y en poesía española actual. Constitituyen una aportación bibliográfica de primer orden que abarca los aspectos principales de la poética y estilo del leonés y la imbricación de su discurso lírico en el contexto histórico de la poesía española actual, principalmente en la época de la transición, con la voz crítica de su libro Descripción de la mentira (1977), así como la influencia que el conjunto de su obra ha ejercido sobre las generaciones posteriores. Se incluyen también textos de Antonio Gamoneda, algunos de ellos inéditos, para ilustrar la coherencia y la vigencia de una poética siempre a contratiempo y por eso cada vez más de nuestros días.",
+    "price": 448,
+    "stock": 24,
+    "publishedDate": "2010-11-24",
+    "image": "http://books.google.com/books/content?id=u8ijAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": "gtRdEAAAQBAJ",
+    "title": "La cuarta revolución industrial desde una mirada ecosocial",
+    "authors": [
+      "Varios Autores"
+    ],
+    "publisher": "Editorial Clave Intelectual",
+    "gender": [
+      "Social Science"
+    ],
+    "description": "¿Cómo afectarán la robótica y las nuevas tecnologías a nuestro trabajo, a nuestras vidas? Una respuesta desde una mirada joven y ecológica Mires donde mires, hay alguien alabando o criticando el impacto que la interconexión tecnológica está teniendo en nuestras vidas. Pero no se trata de casos aislados o de adicción a las pantallas, sino de algo más grande. Sin que haya finalizado la Tercera Revolución Industrial, nos encontramos en un cambio de civilización que en 2016 fue bautizado por Klaus Schwab, presidente del Foro Económico Mundial, como La Cuarta Revolución Industrial . Como sus predecesoras, esta revolución industrial viene sin duda a alterar la escena económica. La industria, el trabajo, la agricultura, el clima, las mujeres, la naturaleza humana, la democracia, la Defensa,... se están viendo altamente afectadas por el uso de la tecnología. La incidencia de esta revolución dependerá de cómo se aborde. Los cambios introducidos por los progresos tecnológicos pueden ser de utilidad para toda la humanidad o servir sólo a los intereses de unos cuantos. Como cualquier otra realidad social, la respuesta a estas preguntas parte de una determinada manera de entender el mundo. Una mirada joven, ecosocial y de futuro Este libro da respuestas a estas preguntas, pretendiendo dar una suerte de relevo en el pensamiento ecologista en España. Seis mujeres y cinco hombres, jóvenes (menos de 35 años) y con una destacada preparación académica y profesional, abordan este tema con una mirada ecosocial, de progreso y de futuro. EcoPolítica ha sido la gran promotora de este libro, que ha contado con el patrocinio del eurodiputado Florent Marcellesi .",
+    "price": 2,
+    "stock": 35,
+    "publishedDate": "2018-05-23",
+    "image": "http://books.google.com/books/content?id=gtRdEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": "_IdvEAAAQBAJ",
+    "title": "Políticas poéticas",
+    "authors": [
+      "Araceli Iravedra"
+    ],
+    "publisher": "BOD GmbH DE",
+    "gender": [
+      "Literary Criticism"
+    ],
+    "description": "Canon y compromiso pudieran parecer dos categorías antitéticas, cuando menos a la luz de las premisas que sostienen el polémico concepto de canon divulgado por Harold Bloom. Este libro, en cambio, parte de la insoslayable imbricación de estética e ideología, o de la idea de la literatura como discurso ideológico, y pone en juego una noción de compromiso que conduce a superar las tradicionales dicotomías manejadas por el inconsciente artístico dominante, pureza/impureza, privado/público, intimidad/historia, y la querella resultante entre el canon poético y el compromiso. Desde tales presupuestos, se revisitan una serie de coyunturas decisivas de la historia poética española del siglo XX, del Modernismo a la poesía contemporánea, que nos invitan a historizar la lectura de los autores canónicos, a rescatar a otros de la sombra del canon y a debatir sobre algunas verdades críticas asentadas. Las sucesiones en la \"ética estética\" de Juan Ramón Jiménez, la dialéctica entre vanguardia, avanzada y revolución en el campo literario de la anteguerra, la configuración del yo histórico en la escritura autobiográfica de la Guerra Civil, las estrategias de autorrepresentación de los poetas sociales de posguerra, y los avatares del compromiso y de la formación del canon en la escena poética del posfranquismo son las cinco calas de esta revisión.",
+    "price": 221,
+    "stock": 14,
+    "publishedDate": "2022-05-12",
+    "image": "http://books.google.com/books/content?id=_IdvEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": "H_3FDwAAQBAJ",
+    "title": "Manual de Literatura española actual",
+    "authors": [
+      "Angel A. Prieto"
+    ],
+    "publisher": "CASTALIA",
+    "gender": [
+      "Literary Collections"
+    ],
+    "description": "Este manual pretende ordenar y evaluar sucintamente la poesía, la narrativa y el teatro españoles desde 1975 hasta los comienzos del siglo XXI. La experiencia muestra la dificultad de modificar el canon una vez fijado por la coyunda del azar, la propaganda, el éxito comercial y la reseña de urgencia: de ahí la importancia de contar con panoramas tempranos que definan, como éste hace, un estado de la cuestión basado en un análisis históricamente contextualizado de la producción artística del período, con cuantas cautelas exige la contemporaneidad de lo tratado. Sus autores han procurado un equilibrio, siempre precario, entre el orden taxonómico y la atención a la singularidad y a los rasgos excéntricos, armonizando el respeto a la complejidad de la materia, la escrupulosidad en la sistematización de los contenidos y la claridad expositiva.",
+    "price": 65,
+    "stock": 44,
+    "publishedDate": "2011-01-01",
+    "image": "http://books.google.com/books/content?id=H_3FDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": "q91fDwAAQBAJ",
+    "title": "Arte, naturaleza y política en la creación contemporánea",
+    "authors": [
+      "Daniel López del Rincón",
+      "Laia Manonelles Moner"
+    ],
+    "publisher": "Edicions Universitat Barcelona",
+    "gender": [
+      "Juvenile Nonfiction"
+    ],
+    "description": "Con el advenimiento del nuevo milenio, las históricas relaciones entre arte y naturaleza siguen más vivas que nunca. La noción de naturaleza se encuentra atravesada por múltiples vectores que llevan los límites de aquello que consideramos «natural» más allá de sus fronteras tradicionales. Y, por otro lado, la naturaleza se ha convertido en el ámbito de trabajo de muchas tendencias artísticas contemporáneas. De la mano de diez autores, esta publicación aborda las dimensiones simbólicas y políticas de las prácticas artísticas que parten de la naturaleza con la voluntad de transformar la realidad, y que tienen como objetivo potenciar un espacio de diálogo y generar un debate y un pensamiento crítico. Desde campos de investigación aparentemente distantes, cada capítulo ofrece un punto de vista diferente para repensar la relación entre arte, naturaleza y política.",
+    "price": 270,
+    "stock": 21,
+    "publishedDate": "2017-10-17",
+    "image": "http://books.google.com/books/content?id=q91fDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": "cmzW8Jd5-c4C",
+    "title": "Las voces del espejo",
+    "authors": [
+      "Belén Quintana Tello"
+    ],
+    "publisher": "Universidad de Zaragoza",
+    "gender": [
+      "Education"
+    ],
+    "description": "Las voces del espejo se adentra en la complejidad de relaciones entre las diferentes instancias poéticas que conforman la lírica de Luis Antonio de Villena. Múltiples voces se encuentran, se miran, escapan en el laberinto de una poesía que en la escritura indaga su origen, pero que encontrará su destino en la convicción de que nada humano le es ajeno.",
+    "price": 284,
+    "stock": 4,
+    "publishedDate": "2009",
+    "image": "http://books.google.com/books/content?id=cmzW8Jd5-c4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  null,
+  null,
+  {
+    "id": "fPMWs11QBZIC",
+    "title": "Alimentos globalizados",
+    "authors": [
+      "Xavier Montagut",
+      "Fabrizio Dogliotti"
+    ],
+    "publisher": "Icaria Editorial",
+    "gender": [
+      "Business ",
+      " Economics"
+    ],
+    "description": "Hoy, la defensa de los derechos y de la libertad de todos y de todas sigue ligada a la defensa de un territorio, en términos ecológicos, sociales y culturales. La producción de alimentos, base de la subsistencia humana, ya no está amenazada por ejércitos feudales sino por un modelo industrial arrasador y por un puñado de multinacionales. La tierra, el agua, las semillas, la biodiversidad, los recursos vitales de la naturaleza, se han transformado en mercancías sujetas a las rígidas leyes del mercado. Nuestra libertad y nuestros derechos, como ciudadanos y consumidores, están en entredicho desde hace tiempo. Y los agricultores de todo el mundo, los defensores de la tierra, están en la primera línea de una lucha de toda la población por defender la tierra, sus cosechas, el territorio, el derecho a la soberanía alimentaria. Este libro ha sido escrito para aquellos que hacen posible otro mundo necesario; se ha inspirado en la militancia de agricultores, ecologistas y consumidores críticos. Xavier Montagut Guix es economista especializado en comercio internacional, consumo responsable y comercio justo. Es presidente de la Xarxa de Consum Solidari. Fabrizio Dogliotti es historiador y colaborador en revistas de solidaridad. Desde hace años trabaja en ONG de cooperación internacional en el terreno de la sensibilización y la comunicación. Esta segunda edición incluye el artículo \"El estallido de la crisis alimentaria\".",
+    "price": 483,
+    "stock": 4,
+    "publishedDate": "2006-03",
+    "image": "http://books.google.com/books/content?id=fPMWs11QBZIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": "_JqrCAAzSbwC",
+    "title": "Leer y entender la poesía",
+    "authors": [
+      "Martín Muelas Herraiz",
+      "Juan José Gómez Brihuega"
+    ],
+    "publisher": "Univ de Castilla La Mancha",
+    "gender": [
+      "Ideology and literature"
+    ],
+    "description": "Poesía y poder son dos conceptos cuyas relaciones han ido (des)unidas a lo largo de la historia y nos sirven para comprender mejor tanto la esencia misma de la palabra poética como acaso para evidenciar las múltiples formas que adopta el poder para ejecutar sus insaciables posiciones de dominio. Una y otro se necesitan mutuamente, aunque con fines bien contradictorios, si al segundo de los términos le damos las connotaciones políticas, militares, morales, ideológicas o sociales que por lo general tiene. En una primera aproximación a esas relaciones cabría pensar en la posibilidad de conjugar ambos extremos, tal y como se pretende justificar desde determinadas posiciones ideológicas y estéticas, más bien con poco éxito. Pero cabe también otra posible lectura que nos permita relacionar ambos términos desde una nueva óptica: Poesía o Poder, formulado así el binomio, es posible entender ambos términos de manera totalmente disyuntiva, tal y como proclamaban los románticos; pero también es posible entenderlos en forma de equivalencia Poesía igual a Poder.",
+    "price": 54,
+    "stock": 32,
+    "publishedDate": "2005",
+    "image": "http://books.google.com/books/content?id=_JqrCAAzSbwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  {
+    "id": "sF8nHgUPOwUC",
+    "title": "Leer y entender la poesía",
+    "authors": [
+      "Juan José Gómez Brihuega"
+    ],
+    "publisher": "Univ de Castilla La Mancha",
+    "gender": [
+      "Poetry"
+    ],
+    "description": "Conciencia y compromiso son dos términos clave para el estudio de la literatura en general y de la poesía en particular. Su utilidad crítica lo es especialmente para conocer mejor la llamada poesía social, aunque la insistencia en lo social había llevado a burdas simplicaciones que en nada han contribuido a conocer mejor ese tipo de poesía. En estas Actas, el lector atento podrá encontrar diversas maneras de delimitación conceptual para esos dos términos y podrá encontrar también cómo los estudios críticos no pueden desligar contenido y forma si no quieren ser meros ejercicios sin sentido, como la propia poesía no puede desatender ninguno de esos dos vértices si verdaderamente quiere ser un producto literario. La selección de poemas (Gamoneda, Grande, Martínez Sarrión, Sahagún, Vázquez Montalbán) supone también un corpus textual de urgencia que permite una lectura significativa de la poesía española escrita en los años 50-60.",
+    "price": 134,
+    "stock": 33,
+    "publishedDate": "2002",
+    "image": "http://books.google.com/books/content?id=sF8nHgUPOwUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+  },
+  null
+]
