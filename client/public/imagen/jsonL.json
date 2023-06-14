@@ -841,9 +841,9 @@
     "id": "bU_sBAAAQBAJ",
     "title": "MALAS",
     "authors": [
-      "ALMELA BOIX Margarita",
-      "GUZMÁN GARCÍA Helena",
-      "GARCÍA LORENZO María Magdalena "
+	  "Almela Boix Margarita",
+	  "Guzman García Helena",
+	  "Garcia Lorenzo Maria Magdalena"
     ],
     "publisher": "Editorial UNED",
     "gender": [
@@ -944,15 +944,15 @@
   },
   {
     "id": "-yFIP43517fcC",
-    "title": "suscrito",
+    "title": "Suscripción",
     "authors": [
-      "suscrito"
+      "Suscripción"
     ],
-    "publisher": "suscrito",
+    "publisher": "Suscripción",
     "gender": [
-      "suscrito"
+      "Suscripción"
     ],
-    "description": "suscrito",
+    "description": "Suscripción",
     "price": 2845,
     "stock": 343,
     "publishedDate": "2001",
