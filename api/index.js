@@ -22,7 +22,7 @@ const { conn } = require('./src/db.js')
 const { GetGenres } = require('./src/controller/genresController.js')
 require('dotenv').config()
 const { PORT } = process.env
-
+// si
 // Syncing all the models at once.
 conn.sync({ force: false}).then(() => {
   server.listen(PORT, () => {
